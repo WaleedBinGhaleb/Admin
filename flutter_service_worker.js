@@ -3,16 +3,16 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 
-const RESOURCES = {"assets/AssetManifest.bin": "b30d3198cf6f275ec93314964d95a683",
-"assets/AssetManifest.bin.json": "f2ac81a614c73e4cc82a71e44ae0cd19",
-"assets/AssetManifest.json": "7ec74397b655dde02580c9420bbf6b00",
+const RESOURCES = {"assets/AssetManifest.bin": "dcbd9da899426437dbc81e69a61e2581",
+"assets/AssetManifest.bin.json": "814f5e0e4472200c4bad8c466c634431",
+"assets/AssetManifest.json": "ff724387639dd38142260803b88b15fb",
 "assets/FontManifest.json": "1ac499b87a11ae66ab3c0c62aea30223",
 "assets/fonts/GreatVibes-Regular.ttf": "f8ab2af266e7331cc085e495d82fecf8",
 "assets/fonts/Inter-Bold.ttf": "ba74cc325d5f67d0efbeda51616352db",
 "assets/fonts/Inter-Medium.ttf": "cad1054327a25f42f2447d1829596bfe",
 "assets/fonts/Inter-Regular.ttf": "ea5879884a95551632e9eb1bba5b2128",
 "assets/fonts/Inter-SemiBold.ttf": "465266b2b986e33ef7e395f4df87b300",
-"assets/fonts/MaterialIcons-Regular.otf": "0b9696e1f277dc61fcba686a64850d62",
+"assets/fonts/MaterialIcons-Regular.otf": "2fcead74764482683ff371c9a5d27de9",
 "assets/fonts/Pacifico-Regular.ttf": "85bb2d0ec4a0da159de42e89089ccc0b",
 "assets/fonts/PlayfairDisplay-Bold.ttf": "49f1780c3b75c97c4066fcd3c92fa7c7",
 "assets/fonts/PlayfairDisplay-Medium.ttf": "d9326bc208b6cd57333a4f40e79ea5fb",
@@ -35,6 +35,7 @@ const RESOURCES = {"assets/AssetManifest.bin": "b30d3198cf6f275ec93314964d95a683
 "assets/images/Contract.png": "30d9075cc0ab28e92b4d882bbcec72cc",
 "assets/images/Edit.png": "67e2e3e51e933bc203f5e9585429cf27",
 "assets/images/emergency.png": "5fc648b50bc1376b10add9328288632f",
+"assets/images/Faults.png": "85f4f47c17fbbc13397ae9d16b21d1c6",
 "assets/images/folder.png": "723c30b71c49ba1831bfd85d8a738a05",
 "assets/images/ic_launcher.png": "34149ebc0e866d8711427a858db0b56c",
 "assets/images/ic_launcher_ios.png": "669b226c6a4e3ad66a310deefbca6371",
@@ -76,16 +77,16 @@ const RESOURCES = {"assets/AssetManifest.bin": "b30d3198cf6f275ec93314964d95a683
 "canvaskit/skwasm.wasm": "39dd80367a4e71582d234948adc521c0",
 "favicon.png": "7fd4d5e3f746b180be3786f2769bb56b",
 "flutter.js": "83d881c1dbb6d6bcd6b42e274605b69c",
-"flutter_bootstrap.js": "e8d4ca9f3a2e8a6d4044f5fef9ea0cae",
+"flutter_bootstrap.js": "f7f61ff03a59b48f72a2ba8d8b2cf0db",
 "icons/Icon-192.png": "aa525253c529696b2ee57ba5208231ad",
 "icons/Icon-512.png": "cf5b3097b78b2655f70609507fa54ddf",
 "icons/Icon-maskable-192.png": "09ebf98ba8c493e9b2f4234d2fe7ae3a",
 "icons/Icon-maskable-512.png": "34149ebc0e866d8711427a858db0b56c",
 "index.html": "ab0ac05d94bc91e446e235bbf37d1c6f",
 "/": "ab0ac05d94bc91e446e235bbf37d1c6f",
-"main.dart.js": "a1d239a561954298b5b2c165702ca3ff",
+"main.dart.js": "0cab6ebaa81ff57eae2671531325bb05",
 "manifest.json": "02655fbc5b4f12522b12e8dcb7613fbf",
-"version.json": "392bad451846075c808e5b3a31e583da"};
+"version.json": "fa40732f8eed0f6d53054a24b9e29c32"};
 // The application shell files that are downloaded before a service worker can
 // start.
 const CORE = ["main.dart.js",
