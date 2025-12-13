@@ -54,7 +54,7 @@ const RESOURCES = {"assets/AssetManifest.bin": "976f910fc4c8c4e1cd6ba9966e56144f
 "assets/NOTICES": "98905fcf2a49b0ac489bbcc89e1b8964",
 "assets/packages/cupertino_icons/assets/CupertinoIcons.ttf": "33b7d9392238c04c131b6ce224e13711",
 "assets/packages/font_awesome_flutter/lib/fonts/fa-brands-400.ttf": "bb29e0dace824ed2c5b31d68d01014d2",
-"assets/packages/font_awesome_flutter/lib/fonts/fa-regular-400.ttf": "8c3646f7752414d3a4353503861cb5cc",
+"assets/packages/font_awesome_flutter/lib/fonts/fa-regular-400.ttf": "e5239f69f003a1da744ba21788e4cc79",
 "assets/packages/font_awesome_flutter/lib/fonts/fa-solid-900.ttf": "5c284688fd0d9ff97d75b1f3a7eeaca7",
 "assets/packages/getwidget/icons/dribble.png": "1e36936e4411f32b0e28fd8335495647",
 "assets/packages/getwidget/icons/facebook.png": "293dc099a89c74ae34a028b1ecd2c1f0",
@@ -80,16 +80,16 @@ const RESOURCES = {"assets/AssetManifest.bin": "976f910fc4c8c4e1cd6ba9966e56144f
 "canvaskit/skwasm.wasm": "39dd80367a4e71582d234948adc521c0",
 "favicon.png": "7fd4d5e3f746b180be3786f2769bb56b",
 "flutter.js": "83d881c1dbb6d6bcd6b42e274605b69c",
-"flutter_bootstrap.js": "cbd222d3630d432d9d66c4810af033dd",
+"flutter_bootstrap.js": "9d6ec9706a19f564d1610369f862fa7e",
 "icons/Icon-192.png": "aa525253c529696b2ee57ba5208231ad",
 "icons/Icon-512.png": "cf5b3097b78b2655f70609507fa54ddf",
 "icons/Icon-maskable-192.png": "09ebf98ba8c493e9b2f4234d2fe7ae3a",
 "icons/Icon-maskable-512.png": "34149ebc0e866d8711427a858db0b56c",
 "index.html": "ab0ac05d94bc91e446e235bbf37d1c6f",
 "/": "ab0ac05d94bc91e446e235bbf37d1c6f",
-"main.dart.js": "5b5ff1348cefdf3e43698d6a4c81447b",
+"main.dart.js": "815c2d8a78dd3a64034550c0157478c5",
 "manifest.json": "02655fbc5b4f12522b12e8dcb7613fbf",
-"version.json": "ba3f0daa97adab558bfee31a92a01d60"};
+"version.json": "45e38b687fa9a258c0fb47fefb1a7fba"};
 // The application shell files that are downloaded before a service worker can
 // start.
 const CORE = ["main.dart.js",
