@@ -55,7 +55,7 @@ const RESOURCES = {"assets/AssetManifest.bin": "976f910fc4c8c4e1cd6ba9966e56144f
 "assets/packages/cupertino_icons/assets/CupertinoIcons.ttf": "33b7d9392238c04c131b6ce224e13711",
 "assets/packages/font_awesome_flutter/lib/fonts/fa-brands-400.ttf": "bb29e0dace824ed2c5b31d68d01014d2",
 "assets/packages/font_awesome_flutter/lib/fonts/fa-regular-400.ttf": "b2e5796dcb2bcafb8eec8cc3032bccb6",
-"assets/packages/font_awesome_flutter/lib/fonts/fa-solid-900.ttf": "0d66346a3954203d6592a2e35612b8c4",
+"assets/packages/font_awesome_flutter/lib/fonts/fa-solid-900.ttf": "cad7ecf2cc4fd0d473aa7b256f2b729a",
 "assets/packages/getwidget/icons/dribble.png": "1e36936e4411f32b0e28fd8335495647",
 "assets/packages/getwidget/icons/facebook.png": "293dc099a89c74ae34a028b1ecd2c1f0",
 "assets/packages/getwidget/icons/google.png": "596c5544c21e9d6cb02b0768f60f589a",
@@ -80,16 +80,16 @@ const RESOURCES = {"assets/AssetManifest.bin": "976f910fc4c8c4e1cd6ba9966e56144f
 "canvaskit/skwasm.wasm": "39dd80367a4e71582d234948adc521c0",
 "favicon.png": "7fd4d5e3f746b180be3786f2769bb56b",
 "flutter.js": "83d881c1dbb6d6bcd6b42e274605b69c",
-"flutter_bootstrap.js": "79558bf7972a61e5ec1c1d8a66286eb8",
+"flutter_bootstrap.js": "142e8ec4a938dff42d36f0506173ac7c",
 "icons/Icon-192.png": "aa525253c529696b2ee57ba5208231ad",
 "icons/Icon-512.png": "cf5b3097b78b2655f70609507fa54ddf",
 "icons/Icon-maskable-192.png": "09ebf98ba8c493e9b2f4234d2fe7ae3a",
 "icons/Icon-maskable-512.png": "34149ebc0e866d8711427a858db0b56c",
 "index.html": "ab0ac05d94bc91e446e235bbf37d1c6f",
 "/": "ab0ac05d94bc91e446e235bbf37d1c6f",
-"main.dart.js": "f9060532fc74164d695236fed85a3c9a",
+"main.dart.js": "3bff94acf6babac81412dddfff15974b",
 "manifest.json": "02655fbc5b4f12522b12e8dcb7613fbf",
-"version.json": "572d2e9ab98244ce4374c474693bc5b9"};
+"version.json": "2cff65e11b5bdf74688f7dee83ace862"};
 // The application shell files that are downloaded before a service worker can
 // start.
 const CORE = ["main.dart.js",
