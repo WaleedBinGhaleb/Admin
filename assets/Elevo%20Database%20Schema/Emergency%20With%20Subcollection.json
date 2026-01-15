@@ -1,0 +1,86 @@
+{
+  "11-4-ElRehabCity": {
+    "id": "11-4-ElRehabCity",
+    "Address": "Group 11 - Building 4",
+    "Area": "El Rehab City",
+    "EmergencyCounter": 3,
+    "Active": false,
+    "__collections__": {
+      "Events": [
+        {
+          "id": "16Jul-LauraMartinez",
+          "Address": "Group 11 - Building 4",
+          "ReportedOn": {
+            "_seconds": 1752664371,
+            "_nanoseconds": 422000000
+          },
+          "Phone": "01000000000",
+          "Event": "Elevator not moving",
+          "ReportedBy": "Laura Martinez",
+          "Status": "Finished"
+        },
+        {
+          "id": "4Apr-AhmedMohsen",
+          "Address": "Group 11 - Building 4",
+          "Event": "Someone locked",
+          "Phone": "01001800355",
+          "ReportedBy": "Ahmed Mohsen",
+          "ReportedOn": {
+            "_seconds": 1743802033,
+            "_nanoseconds": 885999000
+          },
+          "Status": "Finished"
+        }
+      ]
+    }
+  },
+  "16-9-ElRehabCity": {
+    "id": "16-9-ElRehabCity",
+    "Area": "El Rehab City",
+    "Address": "Group 16 - Building 9",
+    "EmergencyCounter": 5,
+    "Active": false,
+    "__collections__": {
+      "Events": [
+        {
+          "id": "30Jul-YSoSerious",
+          "Address": "Group 16 - Building 9",
+          "ReportedOn": {
+            "_seconds": 1753819415,
+            "_nanoseconds": 886000000
+          },
+          "Phone": "01000777847",
+          "Event": "Someone is trapped inside the elevator",
+          "ReportedBy": "YSoSerious",
+          "Status": "Finished"
+        },
+        {
+          "id": "31Jul-AhmedMohsen",
+          "Address": "Group 16 - Building 9",
+          "ReportedOn": {
+            "_seconds": 1753975338,
+            "_nanoseconds": 87000000
+          },
+          "Phone": "01001800355",
+          "Event": "Other",
+          "ReportedBy": "Ahmed Mohsen",
+          "Status": "Finished"
+        }
+      ]
+    }
+  },
+  "49-4-ElRehabCity": {
+    "id": "49-4-ElRehabCity",
+    "Active": false,
+    "Address": "",
+    "Area": "",
+    "EmergencyCounter": 0
+  },
+  "6-5-ElRehabCity": {
+    "id": "6-5-ElRehabCity",
+    "Active": false,
+    "Address": "",
+    "Area": "",
+    "EmergencyCounter": 0
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "MajorAppUpdate": {
+    "id": "MajorAppUpdate",
+    "Scope": "All",
+    "PropertyIds": [
+      "73-14-ElRehabCity",
+      "46-1-ElRehabCity"
+    ],
+    "ExpiresAt": {
+      "_seconds": 1763676000,
+      "_nanoseconds": 229000000
+    },
+    "CreatedOn": {
+      "_seconds": 1763589600,
+      "_nanoseconds": 706000000
+    },
+    "UserIds": [
+      "d@s.com"
+    ],
+    "Available": true,
+    "__collections__": {
+      "Dialog": [
+        {
+          "id": "MajorUpdateDialog",
+          "ImageUrl": "https://firebasestorage.googleapis.com/v0/b/elevooo.appspot.com/o/Alerts%2FDecisions.jpg?alt=media&token=22f487ce-797c-49d4-ab40-8eb0dc40af6e",
+          "Description": {
+            "En": "DUMDAWSDNIAWNDAIWNDAIWSN SDASDNIASND S SIDNSIDNS SISIS ISISIDSDNMCOGEFG",
+            "Ar": "سيعلاشسعي س عيلاشعيلاس شعي سشعيلاشعسيلاشعسي شس"
+          },
+          "Title": {
+            "En": "Introducing Decisions",
+            "Ar": "أهلا بكم في الإختيارات"
+          },
+          "RightButtonText": "Try Now!",
+          "LeftButtonText": "Cancel",
+          "RightButtonAction": "",
+          "LeftButtonAction": ""
+        }
+      ]
+    }
+  }
+}

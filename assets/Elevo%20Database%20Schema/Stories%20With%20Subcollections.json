@@ -1,0 +1,36 @@
+{
+  "16-9-ElRehabCity": {
+    "id": "16-9-ElRehabCity",
+    "Id": "16-9-ElRehabCity",
+    "Available": true,
+    "Featured": true,
+    "DOC": {
+      "_seconds": 1766181600,
+      "_nanoseconds": 369000000
+    },
+    "Name": {
+      "Ar": "حسام مدبولي",
+      "En": "Hossam Madbouly"
+    },
+    "Quote": {
+      "Ar": "مصعد ممتاز",
+      "En": "Great Elevator. Great people to deal with. Fast Installation."
+    },
+    "Area": {
+      "Ar": "الرحاب",
+      "En": "El Rehab City"
+    },
+    "Address": {
+      "En": "Group 16 - Building 9",
+      "Ar": "مجموعة 16 - عمارة 9"
+    },
+    "InstalledOn": {
+      "_seconds": 1766181600,
+      "_nanoseconds": 191000000
+    },
+    "Images": [
+      ""
+    ],
+    "Order": 0
+  }
+}

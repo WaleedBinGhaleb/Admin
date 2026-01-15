@@ -1,0 +1,124 @@
+{
+  "Elite": {
+    "id": "Elite",
+    "Available": true,
+    "Description": {
+      "En": "Luxury without compromise. Premium technology and exclusive design elements.",
+      "Ar": "رفاهية بلا تنازل. تكنولوجيا متقدمة وعناصر تصميم حصرية."
+    },
+    "LearnMore": {
+      "En": "",
+      "Ar": ""
+    },
+    "Features": [
+      {
+        "En": "Wide selection of cabins",
+        "Ar": "خيارات عديدة من الكبائن"
+      },
+      {
+        "Ar": "باب داخلي أوتوماتيكي إيطالي الصُنع",
+        "En": "Automatic Italian internal door"
+      },
+      {
+        "Ar": "باب خارجي أوتوماتيكي إيطالي الصُنع",
+        "En": "Automatic Italian external door"
+      },
+      {
+        "Ar": "ماكينة إسبانية",
+        "En": "Spanish machine"
+      },
+      {
+        "Ar": "جهاز طوارئ",
+        "En": "Emergency Rescue Device"
+      },
+      {
+        "En": "Japanese Inverter",
+        "Ar": "إنفيرتر ياباني"
+      },
+      {
+        "En": "Imported control components",
+        "Ar": "مكونات التحكم مستوردة"
+      },
+      {
+        "En": "15 Months free maintenance",
+        "Ar": "صيانة مجانية لمدة 15 شهر"
+      }
+    ]
+  },
+  "Essential": {
+    "id": "Essential",
+    "Available": true,
+    "Description": {
+      "En": "Simple, safe, and built to last.",
+      "Ar": "تصميم بسيط وآمن ومصنوع ليبقى طويلاً."
+    },
+    "LearnMore": {
+      "En": "",
+      "Ar": ""
+    },
+    "Features": [
+      {
+        "En": "Limited selection of cabins",
+        "Ar": "خيارات محدودة من الكبائن"
+      },
+      {
+        "Ar": "ماكينة إيطالية",
+        "En": "Italian Machine"
+      },
+      {
+        "Ar": "مكونات التحكم مستوردة",
+        "En": "Imported control components"
+      },
+      {
+        "En": "Semi-Automatic Turkish external doors",
+        "Ar": "أبواب خارجية تركية نصف أوتوماتيكية"
+      },
+      {
+        "En": "6 months free maintenance",
+        "Ar": "صيانة مجانية لمدة 6 أشهر"
+      }
+    ]
+  },
+  "Prime": {
+    "id": "Prime",
+    "Available": true,
+    "Description": {
+      "En": "Smart features meet premium quality. The perfect balance of performance and value.",
+      "Ar": "ميزات ذكية وجودة عالية. التوازن المثالي بين الأداء والقيمة."
+    },
+    "LearnMore": {
+      "En": "",
+      "Ar": ""
+    },
+    "Features": [
+      {
+        "Ar": "المزيد من الكبائن",
+        "En": "More selection of cabins"
+      },
+      {
+        "En": "Automatic Turkish internal door",
+        "Ar": "باب داخلي تركي أوتوماتيكي "
+      },
+      {
+        "Ar": "أبواب خارجية تركية نصف أوتوماتيكية",
+        "En": "Semi-Automatic Turkish external doors"
+      },
+      {
+        "En": "Emergency Rescue Device",
+        "Ar": "جهاز طوارئ"
+      },
+      {
+        "Ar": "ماكينة إيطالية",
+        "En": "Italian machine"
+      },
+      {
+        "En": "Imported control components",
+        "Ar": "مكونات التحكم مستوردة"
+      },
+      {
+        "En": "12 Months free maintenance",
+        "Ar": "صيانة مجانية لمدة 12 شهر"
+      }
+    ]
+  }
+}

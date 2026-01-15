@@ -1,0 +1,576 @@
+{
+  "11-4-ElRehabCity": {
+    "id": "11-4-ElRehabCity",
+    "PropertyId": "11-4-ElRehabCity",
+    "PaymentDue": 0,
+    "DueDate": {
+      "_seconds": 1706140800,
+      "_nanoseconds": 0
+    },
+    "Price": 625000,
+    "Paid": 625000,
+    "InstallmentDue": 0,
+    "Status": "Payment fulfilled",
+    "__collections__": {
+      "Installments": [
+        {
+          "id": "04Aug-Tawfik Ali",
+          "Paid": 45000,
+          "DOP": {
+            "_seconds": 1722718800,
+            "_nanoseconds": 0
+          },
+          "TypeOfPayment": "Cash",
+          "Email": "tawfeeklawyer@hotmail.com",
+          "FullName": "Tawfik Ali",
+          "Counted": true,
+          "Installment": 4
+        },
+        {
+          "id": "05Nov-Tawfik Ali",
+          "DOP": {
+            "_seconds": 1730757600,
+            "_nanoseconds": 0
+          },
+          "Email": "TawfeekLawyer@hotmail.com",
+          "Paid": 118000,
+          "TypeOfPayment": "Instapay",
+          "FullName": "Tawfik Ali",
+          "Counted": true,
+          "Installment": 4
+        },
+        {
+          "id": "06Nov-Tawfik Ali",
+          "DOP": {
+            "_seconds": 1730844000,
+            "_nanoseconds": 0
+          },
+          "Email": "tawfeeklawyer@hotmail.com",
+          "Paid": 43000,
+          "TypeOfPayment": "Cash",
+          "FullName": "Tawfik Ali",
+          "Counted": true,
+          "Installment": 3
+        },
+        {
+          "id": "19Jul-Tawfik Ali",
+          "DOP": {
+            "_seconds": 1721336400,
+            "_nanoseconds": 0
+          },
+          "FullName": "Tawfik Ali",
+          "Email": "tawfik@s.com",
+          "TypeOfPayment": "Cash",
+          "Paid": 275000,
+          "Counted": true,
+          "Installment": 3
+        },
+        {
+          "id": "21Nov-Tawfik Ali",
+          "DOP": {
+            "_seconds": 1732140000,
+            "_nanoseconds": 0
+          },
+          "Email": "tawfiklawyer@hotmail.com",
+          "Paid": 35000,
+          "TypeOfPayment": "Cash",
+          "FullName": "Tawfik Ali",
+          "Counted": true,
+          "Installment": 2
+        },
+        {
+          "id": "25Jan-Tawfeek Ali",
+          "DOP": {
+            "_seconds": 1737756000,
+            "_nanoseconds": 0
+          },
+          "Email": "tawfeeklawyer@hotmail.com",
+          "FullName": "Tawfeek Ali",
+          "Paid": 11800,
+          "TypeOfPayment": "Instapay",
+          "Counted": true,
+          "Installment": 2
+        },
+        {
+          "id": "27Oct-Tawfik Ali",
+          "Email": "tawfeeklawyer@hotmail.com",
+          "Paid": 15000,
+          "DOP": {
+            "_seconds": 1729976400,
+            "_nanoseconds": 0
+          },
+          "TypeOfPayment": "Cash",
+          "FullName": "Tawfik Ali",
+          "Counted": true,
+          "Installment": 2
+        },
+        {
+          "id": "28Dec-Tawfik Ali",
+          "DOP": {
+            "_seconds": 1735336800,
+            "_nanoseconds": 0
+          },
+          "Email": "TawfeekLawyer@hotmail.com",
+          "Paid": 47200,
+          "TypeOfPayment": "Instapay",
+          "FullName": "Tawfik Ali",
+          "Counted": true,
+          "Installment": 1
+        },
+        {
+          "id": "30Oct-Tawfik Ali",
+          "Email": "tawfeeklawyer@hotmail.com",
+          "Paid": 35000,
+          "DOP": {
+            "_seconds": 1730235600,
+            "_nanoseconds": 0
+          },
+          "TypeOfPayment": "Cash",
+          "FullName": "Tawfik Ali",
+          "Counted": true,
+          "Installment": 1
+        }
+      ]
+    }
+  },
+  "43-8-ElRehabCity": {
+    "id": "43-8-ElRehabCity",
+    "DueDate": {
+      "_seconds": 1755030713,
+      "_nanoseconds": 0
+    },
+    "InstallmentDue": 0,
+    "Paid": 0,
+    "PaymentDue": 0,
+    "Price": 600000,
+    "PropertyId": "43-8-ElRehabCity",
+    "Status": "Waiting payment"
+  },
+  "46-1-ElRehabCity": {
+    "id": "46-1-ElRehabCity",
+    "PropertyId": "46-1-ElRehabCity",
+    "DueDate": {
+      "_seconds": 1754784000,
+      "_nanoseconds": 0
+    },
+    "Paid": 702052,
+    "Status": "Waiting payment",
+    "PaymentDue": 105400,
+    "Price": 835000,
+    "InstallmentDue": 105400,
+    "PriceLastChanged": {
+      "_seconds": 1758488400,
+      "_nanoseconds": 964000000
+    },
+    "PriceInfo": [
+      {
+        "Title": "Asked for a Telescopic internal Turkish door",
+        "TitleAR": "طُلِب باب داخلي تركي بنظام سحب تلسكوبي متعدد الألواح",
+        "PriceChange": 43000,
+        "Date": {
+          "_seconds": 1758142800,
+          "_nanoseconds": 204000000
+        }
+      },
+      {
+        "TitleAR": "تمت إضافة عوارض فولاذية إضافية وتم زيادة مساحة الكابينة",
+        "Title": "Added extra steel beams & increased the Cabin size",
+        "PriceChange": "12000",
+        "Date": {
+          "_seconds": 1758142800,
+          "_nanoseconds": 315000000
+        }
+      }
+    ],
+    "__collections__": {
+      "Installments": [
+        {
+          "id": "10Sep-Wael",
+          "Email": "Admin@admin.com",
+          "FullName": "Wael Labib",
+          "Paid": 58500,
+          "DOP": {
+            "_seconds": 1757451600,
+            "_nanoseconds": 0
+          },
+          "TypeOfPayment": "Instapay",
+          "Installment": 3,
+          "Counted": true
+        },
+        {
+          "id": "11Sep-Wael",
+          "Email": "Admin@admin.com",
+          "FullName": "Wael Labib",
+          "DOP": {
+            "_seconds": 1757538000,
+            "_nanoseconds": 0
+          },
+          "TypeOfPayment": "Instapay",
+          "Installment": 3,
+          "Counted": true,
+          "Paid": 58500
+        },
+        {
+          "id": "12Aug-Wael",
+          "Email": "Admin@admin.com",
+          "DOP": {
+            "_seconds": 1754946000,
+            "_nanoseconds": 0
+          },
+          "TypeOfPayment": "Bank",
+          "Counted": true,
+          "Installment": 2,
+          "Paid": 84552,
+          "FullName": "Wael Labib"
+        },
+        {
+          "id": "12Sep-Wael",
+          "Email": "Admin@admin.com",
+          "FullName": "Wael Labib",
+          "DOP": {
+            "_seconds": 1757624400,
+            "_nanoseconds": 0
+          },
+          "TypeOfPayment": "Instapay",
+          "Installment": 3,
+          "Paid": 39000,
+          "Counted": true
+        },
+        {
+          "id": "15Dec-Wael",
+          "Email": "WaelSLabib@gmail.com",
+          "FullName": "Wael Labib",
+          "Paid": 110500,
+          "TypeOfPayment": "Bank",
+          "Counted": true,
+          "DOP": {
+            "_seconds": 1734213600,
+            "_nanoseconds": 742000000
+          },
+          "Installment": 1
+        },
+        {
+          "id": "26Oct-Emad",
+          "DOP": {
+            "_seconds": 1729890000,
+            "_nanoseconds": 0
+          },
+          "Email": "omar.emad17@gmail.com",
+          "FullName": "Emad Mohamady",
+          "Paid": 351000,
+          "TypeOfPayment": "Cash",
+          "Counted": true,
+          "Installment": 1
+        }
+      ]
+    }
+  },
+  "49-2-ElRehabCity": {
+    "id": "49-2-ElRehabCity",
+    "DueDate": {
+      "_seconds": 1741901218,
+      "_nanoseconds": 0
+    },
+    "Paid": 0,
+    "PaymentDue": 0,
+    "Price": 766000,
+    "PropertyId": "49-2-ElRehabCity",
+    "InstallmentDue": 0,
+    "Status": "Payment fulfilled"
+  },
+  "49-8-ElRehabCity": {
+    "id": "49-8-ElRehabCity",
+    "PropertyId": "49-8-ElRehabCity",
+    "DueDate": {
+      "_seconds": 1754907907,
+      "_nanoseconds": 658000000
+    },
+    "Paid": 0,
+    "PaymentDue": 0,
+    "Price": 600000,
+    "Status": "Waiting payment",
+    "InstallmentDue": 0
+  },
+  "6-5-ElRehabCity": {
+    "id": "6-5-ElRehabCity",
+    "PropertyId": "6-5-ElRehabCity",
+    "Price": 749000,
+    "DueDate": {
+      "_seconds": 1754006400,
+      "_nanoseconds": 0
+    },
+    "Paid": 740000,
+    "Status": "Payment fulfilled",
+    "InstallmentDue": 9000,
+    "PaymentDue": 0,
+    "__collections__": {
+      "Installments": [
+        {
+          "id": "03Aug-Amr",
+          "Email": "Amr@s.com",
+          "FullName": "Amr Abdelsalam",
+          "Paid": 40140,
+          "DOP": {
+            "_seconds": 1754168400,
+            "_nanoseconds": 0
+          },
+          "TypeOfPayment": "Cash",
+          "Counted": true,
+          "Installment": 3
+        },
+        {
+          "id": "04Aug-Amr",
+          "Email": "amr@s.com",
+          "FullName": "Amr Abdelsalam",
+          "Paid": 18240,
+          "DOP": {
+            "_seconds": 1754254800,
+            "_nanoseconds": 0
+          },
+          "TypeOfPayment": "Instapay",
+          "Counted": true,
+          "Installment": 3
+        },
+        {
+          "id": "07Apr-Amr",
+          "Email": "amrabdelsalam@s.com",
+          "FullName": "Amr Abdelsalam",
+          "Paid": 168000,
+          "DOP": {
+            "_seconds": 1743976800,
+            "_nanoseconds": 0
+          },
+          "TypeOfPayment": "Cash/Instapay",
+          "Counted": true,
+          "Installment": 1
+        },
+        {
+          "id": "07Sep-Amr",
+          "Email": "Admin@admin.com",
+          "FullName": "Amr Abdelsalam",
+          "DOP": {
+            "_seconds": 1757192400,
+            "_nanoseconds": 0
+          },
+          "TypeOfPayment": "Instapay",
+          "Paid": 3800,
+          "Installment": 4,
+          "Counted": true
+        },
+        {
+          "id": "08Apr-Walid",
+          "Email": "Walid@ismail.com",
+          "FullName": "Walid Mohamed Ismail",
+          "DOP": {
+            "_seconds": 1744063200,
+            "_nanoseconds": 0
+          },
+          "TypeOfPayment": "Cash",
+          "Crossed": true,
+          "Counted": true,
+          "Installment": 1,
+          "Paid": 56000
+        },
+        {
+          "id": "08Sep-Amr",
+          "Email": "Admin@admin.com",
+          "FullName": "Amr Abdelsalam",
+          "Paid": 950,
+          "DOP": {
+            "_seconds": 1757278800,
+            "_nanoseconds": 0
+          },
+          "TypeOfPayment": "Instapay",
+          "Installment": 3,
+          "Counted": true
+        },
+        {
+          "id": "10Jul-Amr",
+          "Email": "Amr@s.com",
+          "FullName": "Amr Abdelsalam",
+          "Paid": 126275,
+          "DOP": {
+            "_seconds": 1752094800,
+            "_nanoseconds": 0
+          },
+          "TypeOfPayment": "Cash",
+          "Counted": true,
+          "Installment": 2
+        },
+        {
+          "id": "12Jul-Amr",
+          "Email": "amr@s.com",
+          "FullName": "Amr Abdelsalam",
+          "DOP": {
+            "_seconds": 1752267600,
+            "_nanoseconds": 0
+          },
+          "TypeOfPayment": "Cash",
+          "Installment": 2,
+          "Paid": 27050,
+          "Counted": true
+        },
+        {
+          "id": "13Sep-Amr",
+          "Installment": 4,
+          "Email": "AdminApp@admin.com",
+          "DOP": {
+            "_seconds": 1757710800,
+            "_nanoseconds": 0
+          },
+          "FullName": "Amr abdelsalam",
+          "Paid": 4750,
+          "TypeOfPayment": "Instapay",
+          "Counted": true
+        },
+        {
+          "id": "19Aug-Amr",
+          "Email": "Admin@admin.com",
+          "FullName": "Amr Abdelsalam",
+          "DOP": {
+            "_seconds": 1755550800,
+            "_nanoseconds": 0
+          },
+          "TypeOfPayment": "Instapay",
+          "Paid": 69405,
+          "Installment": 4,
+          "Counted": true
+        },
+        {
+          "id": "19Jul-Amr",
+          "Email": "amr@s.com",
+          "FullName": "Amr abdelsalam",
+          "Paid": 15175,
+          "DOP": {
+            "_seconds": 1752872400,
+            "_nanoseconds": 0
+          },
+          "TypeOfPayment": "Instapay",
+          "Installment": 2,
+          "Counted": true
+        },
+        {
+          "id": "22Sep-Amr",
+          "Email": "Admin@admin.com",
+          "TypeOfPayment": "Cash",
+          "FullName": "Amr Abdelsalam",
+          "DOP": {
+            "_seconds": 1758488400,
+            "_nanoseconds": 0
+          },
+          "Paid": 16545,
+          "Counted": true,
+          "Installment": 4
+        },
+        {
+          "id": "26Jul-Amr",
+          "Email": "Amr@s.com",
+          "FullName": "Amr Abdelsalam",
+          "Paid": 137670,
+          "DOP": {
+            "_seconds": 1753477200,
+            "_nanoseconds": 0
+          },
+          "TypeOfPayment": "Cash/Instapay",
+          "Installment": 3,
+          "Counted": true
+        },
+        {
+          "id": "29May-Amr",
+          "Email": "amr@s.com",
+          "FullName": "Amr Abdelsalam",
+          "Paid": 56000,
+          "DOP": {
+            "_seconds": 1748466000,
+            "_nanoseconds": 0
+          },
+          "TypeOfPayment": "Cash/Instapay",
+          "Counted": true,
+          "Installment": 1
+        }
+      ]
+    }
+  },
+  "73-14-ElRehabCity": {
+    "id": "73-14-ElRehabCity",
+    "PropertyId": "73-14-ElRehabCity",
+    "DueDate": {
+      "_seconds": 1753033458,
+      "_nanoseconds": 892000000
+    },
+    "Price": 1545000,
+    "PaymentDue": 0,
+    "Status": "Payment fulfilled",
+    "Paid": 1081500,
+    "InstallmentDue": 0,
+    "__collections__": {
+      "Installments": [
+        {
+          "id": "01Dec-Mohamed",
+          "Email": "assem@s.com",
+          "FullName": "Mohamed Assem",
+          "Paid": 772500,
+          "DOP": {
+            "_seconds": 1733004000,
+            "_nanoseconds": 0
+          },
+          "TypeOfPayment": "Bank",
+          "Installment": 1,
+          "Counted": true
+        },
+        {
+          "id": "01Sep-Mohamed",
+          "Email": "Admin@admin.com",
+          "FullName": "Mohamed Assem",
+          "Paid": 26500,
+          "DOP": {
+            "_seconds": 1756674000,
+            "_nanoseconds": 0
+          },
+          "Counted": true,
+          "TypeOfPayment": "Instapay",
+          "Installment": 2
+        },
+        {
+          "id": "04Aug-Mohamed",
+          "Email": "M@s.com",
+          "FullName": "Mohamed Assem",
+          "Paid": 206000,
+          "DOP": {
+            "_seconds": 1754254800,
+            "_nanoseconds": 0
+          },
+          "TypeOfPayment": "Bank",
+          "Installment": 2,
+          "Counted": true
+        },
+        {
+          "id": "17Aug-Mohamed",
+          "Email": "Admin@admin.com",
+          "FullName": "Mohamed Assem",
+          "Paid": 51500,
+          "DOP": {
+            "_seconds": 1755378000,
+            "_nanoseconds": 0
+          },
+          "TypeOfPayment": "Instapay",
+          "Counted": true,
+          "Installment": 2
+        },
+        {
+          "id": "25Aug-Mohamed",
+          "DOP": {
+            "_seconds": 1756069200,
+            "_nanoseconds": 0
+          },
+          "Email": "Admin@admin.com",
+          "FullName": "Mohamed Assem",
+          "Paid": 25000,
+          "TypeOfPayment": "Instapay",
+          "Counted": true,
+          "Installment": 2
+        }
+      ]
+    }
+  }
+}

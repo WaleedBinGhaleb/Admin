@@ -1,0 +1,1348 @@
+{
+  "alys@s.com": {
+    "id": "alys@s.com",
+    "Email": "alys@s.com",
+    "Banned": false,
+    "Subscriptions": [],
+    "Phone": "01000000000",
+    "UserUID": "DMyqBORcsSTVSIRr08hJ2GkufRs2",
+    "FullName": "Aly ghaleb",
+    "SearchKey": [
+      "a",
+      "al",
+      "aly",
+      "g",
+      "gh",
+      "gha",
+      "ghal",
+      "ghale",
+      "ghaleb",
+      "alys@s.com",
+      "01000000000",
+      "DMyqBORcsSTVSIRr08hJ2GkufRs2",
+      "all"
+    ],
+    "DOC": {
+      "_seconds": 1765048503,
+      "_nanoseconds": 560000000
+    },
+    "Member": false,
+    "BetaApprovedAt": {
+      "_seconds": 1765634351,
+      "_nanoseconds": 695000000
+    },
+    "EmailVerified": true,
+    "UserStatus": "Online",
+    "Locale": "ar",
+    "DeviceId": "token-error",
+    "LastSeen": {
+      "_seconds": 1768159250,
+      "_nanoseconds": 968000000
+    },
+    "__collections__": {
+      "Address": [
+        {
+          "id": "15-1-ElRehabCity",
+          "Group": "15",
+          "Area": "El Rehab City",
+          "Type": "Building",
+          "Number": "1",
+          "Phone": "01000000000",
+          "Declined": false,
+          "Approved": false,
+          "DOC": {
+            "_seconds": 1767788929,
+            "_nanoseconds": 130000000
+          },
+          "AptNumber": "11"
+        }
+      ],
+      "AddressChangeAudit": [
+        {
+          "id": "Gsq0V8jkJPWhhl3yXkFP",
+          "Status": "success",
+          "Action": "add_address",
+          "DeviceId": "BP22.250325.006",
+          "PreviousAddresses": [
+            "15-1-ElRehabCity"
+          ],
+          "Reason": "User added address",
+          "Timestamp": {
+            "_seconds": 1767788929,
+            "_nanoseconds": 568000000
+          }
+        },
+        {
+          "id": "d0EYYIkUQWtsdKsGgsHA",
+          "Status": "success",
+          "Action": "remove_address",
+          "DeviceId": "BP22.250325.006",
+          "PreviousAddresses": [
+            "15-1-ElRehabCity"
+          ],
+          "Reason": "User removed address",
+          "Timestamp": {
+            "_seconds": 1767788882,
+            "_nanoseconds": 608000000
+          }
+        },
+        {
+          "id": "gtzNVuE0ooemhkEo7fvK",
+          "Status": "success",
+          "Action": "add_address",
+          "DeviceId": "BP22.250325.006",
+          "PreviousAddresses": [
+            "133-1-ElRehabCity",
+            "15-1-ElRehabCity"
+          ],
+          "Reason": "User added address",
+          "Timestamp": {
+            "_seconds": 1767534183,
+            "_nanoseconds": 607000000
+          }
+        }
+      ]
+    }
+  },
+  "d@s.com": {
+    "id": "d@s.com",
+    "Email": "d@s.com",
+    "Phone": "01001800355",
+    "SearchKey": [
+      "a",
+      "ah",
+      "ahm",
+      "ahme",
+      "ahmed",
+      "m",
+      "mo",
+      "moh",
+      "mohs",
+      "mohse",
+      "mohsen",
+      "d@s.com",
+      "01001800355",
+      "false",
+      "2Xrxa877LaUax22SbTXoecldHlh1",
+      "all"
+    ],
+    "UserUID": "2Xrxa877LaUax22SbTXoecldHlh1",
+    "Banned": false,
+    "FullName": "Ahmed Mohsen",
+    "Member": true,
+    "DOC": {
+      "_seconds": 1722200400,
+      "_nanoseconds": 104000000
+    },
+    "BetaApprovedAt": {
+      "_seconds": 1753813018,
+      "_nanoseconds": 243000000
+    },
+    "LastOnline": {
+      "_seconds": 1753898375,
+      "_nanoseconds": 846000000
+    },
+    "EmailVerified": true,
+    "Subscriptions": [
+      "16-9-ElRehabCity",
+      "11-4-ElRehabCity"
+    ],
+    "Locale": "en",
+    "DeviceId": "fgr4t_2ODkdLv_LtCKATUz:APA91bEFoGS6CJ2Pt2j4kLS6C9VGAUpFn2T7yb1lnAvK8-CN9Kvgv7QtIEFCSdivM_Vhjw5PIJBUL2E4WP6b9jVg4Nftv5bN3-m9KU3yeBGd9ciNtzDdJC0",
+    "UserStatus": "Online",
+    "LastSeen": {
+      "_seconds": 1768159464,
+      "_nanoseconds": 711000000
+    },
+    "__collections__": {
+      "Address": [
+        {
+          "id": "11-4-ElRehabCity",
+          "Approved": false,
+          "AptNumber": "12",
+          "Area": "El Rehab City",
+          "DOC": {
+            "_seconds": 1740307101,
+            "_nanoseconds": 69000000
+          },
+          "Declined": false,
+          "Group": "11",
+          "Number": "4",
+          "Phone": "01000000000",
+          "Type": "Building"
+        },
+        {
+          "id": "16-9-ElRehabCity",
+          "Group": "16",
+          "Area": "El Rehab City",
+          "Type": "Building",
+          "Number": "9",
+          "Phone": "01000000000",
+          "Declined": false,
+          "Approved": false,
+          "DOC": {
+            "_seconds": 1728137173,
+            "_nanoseconds": 884000000
+          },
+          "AptNumber": "22"
+        },
+        {
+          "id": "49-2-ElRehabCity",
+          "Approved": false,
+          "AptNumber": "11",
+          "Area": "El Rehab City",
+          "DOC": {
+            "_seconds": 1741899334,
+            "_nanoseconds": 312999000
+          },
+          "Declined": false,
+          "Group": "49",
+          "Number": "2",
+          "Phone": "01000000000",
+          "Type": "Building"
+        }
+      ],
+      "Elevators": [
+        {
+          "id": "11-4-ElRehabCity",
+          "AptNumber": "12",
+          "Area": "El Rehab City",
+          "Declined": false,
+          "Number": "4",
+          "PendingOn": {
+            "_seconds": 1740307122,
+            "_nanoseconds": 572000000
+          },
+          "Type": "Building",
+          "Approved": true,
+          "ApprovedOn": {
+            "_seconds": 1740307133,
+            "_nanoseconds": 449000000
+          },
+          "Pending": false,
+          "Group": "11"
+        },
+        {
+          "id": "16-9-ElRehabCity",
+          "PendingOn": {
+            "_seconds": 1728137213,
+            "_nanoseconds": 364000000
+          },
+          "Group": "16",
+          "Type": "Building",
+          "Area": "El Rehab City",
+          "Number": "9",
+          "Declined": false,
+          "AptNumber": "22",
+          "Approved": true,
+          "ApprovedOn": {
+            "_seconds": 1728137355,
+            "_nanoseconds": 0
+          },
+          "Pending": false
+        }
+      ]
+    }
+  },
+  "demo@elevo.me": {
+    "id": "demo@elevo.me",
+    "EmailVerified": false,
+    "Email": "demo@elevo.me",
+    "Banned": false,
+    "Subscriptions": [],
+    "Phone": "01000000000",
+    "UserUID": "lo1OWeYCWQWpyhgXFZHIZLtSAAf1",
+    "FullName": "Demo Test",
+    "SearchKey": [
+      "d",
+      "de",
+      "dem",
+      "demo",
+      "t",
+      "te",
+      "tes",
+      "test",
+      "demo@elevo.me",
+      "01000000000",
+      "lo1OWeYCWQWpyhgXFZHIZLtSAAf1",
+      "all"
+    ],
+    "DOC": {
+      "_seconds": 1754305446,
+      "_nanoseconds": 826000000
+    },
+    "Member": false,
+    "BetaApprovedAt": {
+      "_seconds": 1754305449,
+      "_nanoseconds": 465000000
+    },
+    "UserStatus": "Online",
+    "LastSeen": {
+      "_seconds": 1756232395,
+      "_nanoseconds": 549000000
+    },
+    "DeviceId": "d6fvKjcGS0JSrVJjiwZ6Cw:APA91bEThv7zN5cL-ivimLA3eb0TjUnRhmF7h9XCQhkrrZKPWJG_q2Artbio3XnRDC95-LfyClDdJJaXTepnjcMy58RwjqpGbWGNghzk7UUlTcOGn7NMM4g"
+  },
+  "elevoelevators@gmail.com": {
+    "id": "elevoelevators@gmail.com",
+    "EmailVerified": true,
+    "Email": "elevoelevators@gmail.com",
+    "Banned": false,
+    "Phone": "01000000000",
+    "UserUID": "Cqf6WwpTJrZ2JQkMwtoaOkZl9Z13",
+    "FullName": "Elevo Support",
+    "SearchKey": [
+      "e",
+      "el",
+      "ele",
+      "elev",
+      "elevo",
+      "s",
+      "su",
+      "sup",
+      "supp",
+      "suppo",
+      "suppor",
+      "support",
+      "elevoelevators@gmail.com",
+      "Cqf6WwpTJrZ2JQkMwtoaOkZl9Z13",
+      "all"
+    ],
+    "DOC": {
+      "_seconds": 1752111505,
+      "_nanoseconds": 338000000
+    },
+    "Member": true,
+    "BetaApprovedAt": {
+      "_seconds": 1753819025,
+      "_nanoseconds": 313000000
+    },
+    "Subscriptions": [
+      "16-9-ElRehabCity"
+    ],
+    "LastOnline": {
+      "_seconds": 1753958030,
+      "_nanoseconds": 51000000
+    },
+    "UserStatus": "Online",
+    "LastSeen": {
+      "_seconds": 1755475194,
+      "_nanoseconds": 401000000
+    },
+    "__collections__": {
+      "Address": [
+        {
+          "id": "46-1-ElRehabCity",
+          "Group": "46",
+          "Area": "El Rehab City",
+          "Type": "Building",
+          "Number": "1",
+          "Phone": "01000000000",
+          "DOC": {
+            "_seconds": 1753898447,
+            "_nanoseconds": 427000000
+          },
+          "AptNumber": "11",
+          "Declined": true,
+          "DeclinedOn": {
+            "_seconds": 1753898547,
+            "_nanoseconds": 0
+          },
+          "Approved": true,
+          "ApprovedOn": {
+            "_seconds": 1753898555,
+            "_nanoseconds": 0
+          }
+        }
+      ],
+      "Elevators": [
+        {
+          "id": "16-9-ElRehabCity",
+          "PendingOn": {
+            "_seconds": 1753813748,
+            "_nanoseconds": 42000000
+          },
+          "Group": "16",
+          "Type": "Building",
+          "Area": "El Rehab City",
+          "Number": "9",
+          "Declined": false,
+          "AptNumber": "11",
+          "Approved": true,
+          "ApprovedOn": {
+            "_seconds": 1753813757,
+            "_nanoseconds": 818000000
+          },
+          "Pending": false
+        }
+      ]
+    }
+  },
+  "hdaboor11@gmail.com": {
+    "id": "hdaboor11@gmail.com",
+    "EmailVerified": false,
+    "Email": "hdaboor11@gmail.com",
+    "Banned": false,
+    "Subscriptions": [],
+    "Phone": "01000000000",
+    "UserUID": "ifaXK2GDHzMwn96CRJGgwFTWuvg1",
+    "FullName": "Aly Karm",
+    "SearchKey": [
+      "aly karm",
+      "alykarm",
+      "a",
+      "al",
+      "aly",
+      "k",
+      "ka",
+      "kar",
+      "karm",
+      "ak",
+      "hdaboor11@gmail.com",
+      "ifaXK2GDHzMwn96CRJGgwFTWuvg1",
+      "01000000000",
+      "all"
+    ],
+    "DOC": {
+      "_seconds": 1766264401,
+      "_nanoseconds": 694000000
+    },
+    "Member": false,
+    "UserStatus": "Online",
+    "LastSeen": {
+      "_seconds": 1766264426,
+      "_nanoseconds": 660000000
+    },
+    "__collections__": {
+      "Address": [
+        {
+          "id": "15-6-ElRehabCity",
+          "Group": "15",
+          "Type": "Villa",
+          "Area": "El Rehab City",
+          "Number": "6",
+          "Phone": "01000000000",
+          "Declined": false,
+          "Approved": false,
+          "DOC": {
+            "_seconds": 1766264401,
+            "_nanoseconds": 694000000
+          },
+          "AptNumber": ""
+        }
+      ]
+    }
+  },
+  "hosammadbouly@hotmail.com": {
+    "id": "hosammadbouly@hotmail.com",
+    "EmailVerified": false,
+    "Email": "hosammadbouly@hotmail.com",
+    "Phone": "01100666027",
+    "UserUID": "GUarK4pOgJXAbFLk7sdCXTDpDL73",
+    "DeviceId": "dFGo-k7YQy667Pv4_xGl1F:APA91bH5spdQPS7aavmBAJuXabphyJqD-jTyHVN5818Y3utJvZxpNWHMY6QZSgnZlSNft7qmeg93X3OuAP3Hal96Ey2Hxpyd2jgg9K1im-f1D0UUx7XjOC-QZVHneZz-ADu6yRugevNR",
+    "DOC": {
+      "_seconds": 1728141079,
+      "_nanoseconds": 194000000
+    },
+    "SearchKey": [
+      "h",
+      "ho",
+      "hos",
+      "hosa",
+      "hosam",
+      "m",
+      "ma",
+      "mad",
+      "madb",
+      "madbo",
+      "madbou",
+      "madboul",
+      "madbouly",
+      "hosammadbouly@hotmail.com",
+      "01100666027",
+      "true",
+      "GUarK4pOgJXAbFLk7sdCXTDpDL73",
+      "all"
+    ],
+    "Member": true,
+    "Banned": false,
+    "Subscriptions": [],
+    "FullName": "Hosam Madbouly",
+    "__collections__": {
+      "Address": [
+        {
+          "id": "16-9-ElRehabCity",
+          "Group": "16",
+          "Type": "Building",
+          "Area": "El Rehab City",
+          "Number": "9",
+          "Phone": "01100666027",
+          "DOC": {
+            "_seconds": 1728141079,
+            "_nanoseconds": 707000000
+          },
+          "AptNumber": "32",
+          "Approved": true,
+          "Declined": false
+        }
+      ],
+      "Elevators": [
+        {
+          "id": "16-9-ElRehabCity",
+          "PendingOn": {
+            "_seconds": 1728141721,
+            "_nanoseconds": 952000000
+          },
+          "Group": "16",
+          "Type": "Building",
+          "Area": "El Rehab City",
+          "Number": "9",
+          "Declined": false,
+          "AptNumber": "32",
+          "Approved": true,
+          "ApprovedOn": {
+            "_seconds": 1728137974,
+            "_nanoseconds": 0
+          },
+          "Pending": false
+        }
+      ]
+    }
+  },
+  "hvqcpg7hp6@privaterelay.appleid.com": {
+    "id": "hvqcpg7hp6@privaterelay.appleid.com",
+    "Banned": false,
+    "DOC": {
+      "_seconds": 1755028037,
+      "_nanoseconds": 32000000
+    },
+    "Email": "hvqcpg7hp6@privaterelay.appleid.com",
+    "EmailVerified": true,
+    "Phone": "01226470985",
+    "SearchKey": [
+      "hvqcpg7hp6@privaterelay.appleid.com",
+      "nG8TpTptMTaLRchh3RBi9a4QQO93",
+      "01226470985",
+      "all"
+    ],
+    "UserUID": "nG8TpTptMTaLRchh3RBi9a4QQO93",
+    "FullName": "Wael Faltas",
+    "Member": true,
+    "Subscriptions": [
+      "46-1-ElRehabCity"
+    ],
+    "BetaApprovedAt": {
+      "_seconds": 1755068926,
+      "_nanoseconds": 697000000
+    },
+    "DeviceId": "dVHcuftODEsZpaVAJOTOjZ:APA91bFo6acU_iABBGgbFwHHg0HlqePYeLpgmD_eSoIz5t9Sc88Vemg4w7MUOlvilG6Ji35RVl3v8iwF5TVgSn8mO_xDipGBzwsx_X1enqC2IYyYO9JBp5k",
+    "UserStatus": "Online",
+    "LastSeen": {
+      "_seconds": 1766502799,
+      "_nanoseconds": 641000000
+    },
+    "__collections__": {
+      "Address": [
+        {
+          "id": "46-1-ElRehabCity",
+          "AptNumber": "44",
+          "Area": "El Rehab City",
+          "DOC": {
+            "_seconds": 1755028009,
+            "_nanoseconds": 913000000
+          },
+          "Declined": false,
+          "Group": "46",
+          "Number": "1",
+          "Phone": "01226470985",
+          "Type": "Building",
+          "Approved": true,
+          "ApprovedOn": {
+            "_seconds": 1755028155,
+            "_nanoseconds": 929000000
+          }
+        }
+      ],
+      "Elevators": [
+        {
+          "id": "46-1-ElRehabCity",
+          "AptNumber": "44",
+          "Area": "El Rehab City",
+          "Declined": false,
+          "Group": "46",
+          "Number": "1",
+          "PendingOn": {
+            "_seconds": 1755028065,
+            "_nanoseconds": 334000000
+          },
+          "Type": "Building",
+          "Approved": true,
+          "ApprovedOn": {
+            "_seconds": 1755028156,
+            "_nanoseconds": 72000000
+          },
+          "Pending": false
+        }
+      ]
+    }
+  },
+  "lalisa@s.com": {
+    "id": "lalisa@s.com",
+    "EmailVerified": false,
+    "Email": "lalisa@s.com",
+    "Banned": false,
+    "Subscriptions": [],
+    "Phone": "01000000000",
+    "UserUID": "Xv9s8Caq1gdzQql99aRacu86Zqm1",
+    "FullName": "La Lisa Manoban",
+    "SearchKey": [
+      "la lisa manoban",
+      "lalisamanoban",
+      "l",
+      "la",
+      "li",
+      "lis",
+      "lisa",
+      "m",
+      "ma",
+      "man",
+      "mano",
+      "manob",
+      "manoba",
+      "manoban",
+      "llm",
+      "lalisa@s.com",
+      "Xv9s8Caq1gdzQql99aRacu86Zqm1",
+      "01000000000",
+      "all"
+    ],
+    "DOC": {
+      "_seconds": 1767908526,
+      "_nanoseconds": 356000000
+    },
+    "Member": false,
+    "Locale": "en",
+    "BetaApprovedAt": {
+      "_seconds": 1767908533,
+      "_nanoseconds": 304000000
+    },
+    "UserStatus": "Online",
+    "LastSeen": {
+      "_seconds": 1767908854,
+      "_nanoseconds": 187000000
+    },
+    "__collections__": {
+      "Address": [
+        {
+          "id": "15-1-ElRehabCity",
+          "Group": "15",
+          "Type": "Building",
+          "Area": "El Rehab City",
+          "Number": "1",
+          "Phone": "01000000000",
+          "Declined": false,
+          "Approved": false,
+          "DOC": {
+            "_seconds": 1767908526,
+            "_nanoseconds": 360000000
+          },
+          "AptNumber": "11"
+        }
+      ]
+    }
+  },
+  "laura@s.com": {
+    "id": "laura@s.com",
+    "Email": "laura@s.com",
+    "Phone": "01000000000",
+    "UserUID": "3OIEUVxSyxPEbhFzI8C8Lg1XyDO2",
+    "DOC": {
+      "_seconds": 1722970994,
+      "_nanoseconds": 970000000
+    },
+    "SearchKey": [
+      "l",
+      "la",
+      "lau",
+      "laur",
+      "laura",
+      "m",
+      "ma",
+      "mar",
+      "mart",
+      "marti",
+      "martin",
+      "martine",
+      "martinez",
+      "laura@s.com",
+      "01000000000",
+      "false",
+      "3OIEUVxSyxPEbhFzI8C8Lg1XyDO2",
+      "all"
+    ],
+    "Banned": false,
+    "Member": true,
+    "BetaApprovedAt": {
+      "_seconds": 1753819208,
+      "_nanoseconds": 433000000
+    },
+    "LastOnline": {
+      "_seconds": 1753897517,
+      "_nanoseconds": 444000000
+    },
+    "Subscriptions": [
+      "46-1-ElRehabCity",
+      "11-4-ElRehabCity"
+    ],
+    "UserStatus": "Online",
+    "FullName": "Laura Martinez",
+    "EmailVerified": true,
+    "Locale": "ar",
+    "LastSeen": {
+      "_seconds": 1768157224,
+      "_nanoseconds": 692000000
+    },
+    "__collections__": {
+      "Address": [
+        {
+          "id": "11-4-ElRehabCity",
+          "Area": "El Rehab City",
+          "Type": "Building",
+          "Phone": "01000000000",
+          "DOC": {
+            "_seconds": 1726155411,
+            "_nanoseconds": 155000000
+          },
+          "Approved": false,
+          "Declined": false,
+          "Group": "11",
+          "Number": "4",
+          "AptNumber": "22"
+        },
+        {
+          "id": "46-1-ElRehabCity",
+          "Group": "46",
+          "Area": "El Rehab City",
+          "Type": "Building",
+          "Number": "1",
+          "Phone": "01000000000",
+          "Declined": false,
+          "DOC": {
+            "_seconds": 1752660919,
+            "_nanoseconds": 200000000
+          },
+          "AptNumber": "1",
+          "Approved": true,
+          "ApprovedOn": {
+            "_seconds": 1752664908,
+            "_nanoseconds": 0
+          }
+        }
+      ],
+      "Elevators": [
+        {
+          "id": "11-4-ElRehabCity",
+          "PendingOn": {
+            "_seconds": 1726160365,
+            "_nanoseconds": 905000000
+          },
+          "Group": "11",
+          "Type": "Building",
+          "Area": "El Rehab City",
+          "Number": "4",
+          "Declined": false,
+          "AptNumber": "22",
+          "Approved": true,
+          "ApprovedOn": {
+            "_seconds": 1726160378,
+            "_nanoseconds": 563999000
+          },
+          "Pending": false
+        },
+        {
+          "id": "46-1-ElRehabCity",
+          "PendingOn": {
+            "_seconds": 1752660927,
+            "_nanoseconds": 416000000
+          },
+          "Group": "46",
+          "Type": "Building",
+          "Area": "El Rehab City",
+          "Number": "1",
+          "Declined": false,
+          "AptNumber": "1",
+          "Approved": true,
+          "ApprovedOn": {
+            "_seconds": 1752664908,
+            "_nanoseconds": 0
+          },
+          "Pending": false
+        }
+      ]
+    }
+  },
+  "mat@s.com": {
+    "id": "mat@s.com",
+    "Email": "mat@s.com",
+    "Banned": false,
+    "Phone": "01000000000",
+    "UserUID": "YNrTc1ctRfZzkKVvUc9EB63ZDp23",
+    "FullName": "Matthew Mc",
+    "SearchKey": [
+      "m",
+      "ma",
+      "mat",
+      "matt",
+      "matth",
+      "matthe",
+      "matthew",
+      "mc",
+      "mat@s.com",
+      "01000000000",
+      "YNrTc1ctRfZzkKVvUc9EB63ZDp23",
+      "all"
+    ],
+    "DOC": {
+      "_seconds": 1760040213,
+      "_nanoseconds": 265000000
+    },
+    "BetaApprovedAt": {
+      "_seconds": 1760040224,
+      "_nanoseconds": 486000000
+    },
+    "EmailVerified": true,
+    "Subscriptions": [
+      "11-4-ElRehabCity"
+    ],
+    "Member": true,
+    "DeviceId": "fsqgRRXKRZyM3h4Ear78HQ:APA91bEnWQ1vpAzXPwngwXfC1pgQzuFbYkBIrl_1WYPVyICwbTw83sj76Nnd50bwOgjfYdTwl_Fei8q--m1vRpDRgnVzZZQVc04Mfm6OrgSlimgmSkSNkhw",
+    "LastSeen": {
+      "_seconds": 1767792434,
+      "_nanoseconds": 518000000
+    },
+    "UserStatus": "Offline",
+    "__collections__": {
+      "Address": [
+        {
+          "id": "11-4-ElRehabCity",
+          "AptNumber": "11",
+          "Area": "El Rehab City",
+          "DOC": {
+            "_seconds": 1764034922,
+            "_nanoseconds": 457999000
+          },
+          "Declined": false,
+          "Group": "11",
+          "Number": "4",
+          "Phone": "01000000000",
+          "Type": "Building",
+          "Approved": true,
+          "ApprovedOn": {
+            "_seconds": 1766264756,
+            "_nanoseconds": 138000000
+          }
+        },
+        {
+          "id": "15-1-ElRehabCity",
+          "Group": "15",
+          "Area": "El Rehab City",
+          "Type": "Building",
+          "Number": "1",
+          "Phone": "01000000000",
+          "Declined": false,
+          "Approved": false,
+          "DOC": {
+            "_seconds": 1767789505,
+            "_nanoseconds": 511000000
+          },
+          "AptNumber": "11"
+        }
+      ],
+      "AddressChangeAudit": [
+        {
+          "id": "SGJv3X3pYcBpcHi4SnGX",
+          "Status": "success",
+          "Action": "add_address",
+          "DeviceId": "BP2A.250605.031.A3",
+          "PreviousAddresses": [
+            "11-4-ElRehabCity",
+            "15-1-ElRehabCity"
+          ],
+          "Reason": "User added address",
+          "Timestamp": {
+            "_seconds": 1767789505,
+            "_nanoseconds": 329000000
+          }
+        }
+      ]
+    }
+  },
+  "oahae7000@gmail.com": {
+    "id": "oahae7000@gmail.com",
+    "EmailVerified": true,
+    "Email": "oahae7000@gmail.com",
+    "Banned": false,
+    "Phone": "01000777847",
+    "UserUID": "Td0DEWAiDlYRO6m092AzxfYMjXx2",
+    "SearchKey": [
+      "y",
+      "ys",
+      "yso",
+      "ysos",
+      "ysose",
+      "ysoser",
+      "ysoseri",
+      "ysoserio",
+      "ysoseriou",
+      "ysoserious",
+      "oahae7000@gmail.com",
+      "Td0DEWAiDlYRO6m092AzxfYMjXx2",
+      "01000777847",
+      "all"
+    ],
+    "DOC": {
+      "_seconds": 1753814775,
+      "_nanoseconds": 166000000
+    },
+    "BetaApprovedAt": {
+      "_seconds": 1753819030,
+      "_nanoseconds": 504000000
+    },
+    "Member": true,
+    "LastOnline": {
+      "_seconds": 1753820744,
+      "_nanoseconds": 9000000
+    },
+    "Subscriptions": [
+      "49-2-ElRehabCity"
+    ],
+    "DeviceId": "dTcZE389QAeLfScA6XhAEU:APA91bEI672-Cz6LJM32rc9ZyZILv0IMRnDXaRXID-9Ni4Gh6kM8jl5qU1BtnyBKhF2JD56U77hPR2uc_1DecaYqpHgYIKiNebSxa8pqJvz465jJ8VoYbQI",
+    "FullName": "Omaw aly",
+    "LastSeen": {
+      "_seconds": 1766967964,
+      "_nanoseconds": 339000000
+    },
+    "UserStatus": "Offline",
+    "__collections__": {
+      "Address": [
+        {
+          "id": "133-1-ElRehabCity",
+          "Group": "133",
+          "Area": "El Rehab City",
+          "Type": "Building",
+          "Number": "1",
+          "Phone": "01000777847",
+          "Declined": false,
+          "Approved": false,
+          "DOC": {
+            "_seconds": 1766674522,
+            "_nanoseconds": 319000000
+          },
+          "AptNumber": "5"
+        },
+        {
+          "id": "49-2-ElRehabCity",
+          "Group": "49",
+          "Area": "El Rehab City",
+          "Type": "Building",
+          "Number": "2",
+          "Phone": "01000777817",
+          "Declined": false,
+          "DOC": {
+            "_seconds": 1753980037,
+            "_nanoseconds": 544000000
+          },
+          "AptNumber": "6",
+          "Approved": true,
+          "ApprovedOn": {
+            "_seconds": 1754233969,
+            "_nanoseconds": 777000000
+          }
+        }
+      ],
+      "AddressChangeAudit": [
+        {
+          "id": "TpRm9VK6lmBi9LCkvF4x",
+          "Status": "success",
+          "Action": "add_address",
+          "DeviceId": "BP2A.250605.031.A3",
+          "PreviousAddresses": [
+            "133-1-ElRehabCity",
+            "49-2-ElRehabCity"
+          ],
+          "Reason": "User added address",
+          "Timestamp": {
+            "_seconds": 1766674523,
+            "_nanoseconds": 79000000
+          }
+        }
+      ],
+      "Elevators": [
+        {
+          "id": "49-2-ElRehabCity",
+          "PendingOn": {
+            "_seconds": 1754233954,
+            "_nanoseconds": 923000000
+          },
+          "Group": "49",
+          "Type": "Building",
+          "Area": "El Rehab City",
+          "Number": "2",
+          "Declined": false,
+          "AptNumber": "6",
+          "Approved": true,
+          "ApprovedOn": {
+            "_seconds": 1754233969,
+            "_nanoseconds": 888000000
+          },
+          "Pending": false
+        }
+      ]
+    }
+  },
+  "seo@s.com": {
+    "id": "seo@s.com",
+    "Email": "seo@s.com",
+    "Phone": "01000000000",
+    "UserUID": "1kXWh5SeTogqtd1RpuaCDP78GVi1",
+    "SearchKey": [
+      "s",
+      "se",
+      "seo",
+      "y",
+      "ya",
+      "yaj",
+      "yaji",
+      "seo@s.com",
+      "01000000000",
+      "Building",
+      "1kXWh5SeTogqtd1RpuaCDP78GVi1",
+      "false",
+      "all"
+    ],
+    "DOC": {
+      "_seconds": 1728177886,
+      "_nanoseconds": 654000000
+    },
+    "Banned": false,
+    "FullName": "Seo Yaji",
+    "Member": true,
+    "BetaApprovedAt": {
+      "_seconds": 1753828541,
+      "_nanoseconds": 185000000
+    },
+    "LastOnline": {
+      "_seconds": 1753877400,
+      "_nanoseconds": 424000000
+    },
+    "EmailVerified": true,
+    "Subscriptions": [
+      "6-5-ElRehabCity"
+    ],
+    "UserStatus": "Online",
+    "LastSeen": {
+      "_seconds": 1767613812,
+      "_nanoseconds": 691000000
+    },
+    "__collections__": {
+      "Address": [
+        {
+          "id": "122-13-ElRehabCity",
+          "Approved": false,
+          "AptNumber": "12",
+          "Area": "El Rehab City",
+          "DOC": {
+            "_seconds": 1767013463,
+            "_nanoseconds": 854000000
+          },
+          "Declined": false,
+          "Group": "122",
+          "Number": "13",
+          "Phone": "01000000000",
+          "Type": "Building"
+        },
+        {
+          "id": "133-1-ElRehabCity",
+          "Approved": false,
+          "AptNumber": "11",
+          "Area": "El Rehab City",
+          "DOC": {
+            "_seconds": 1766861810,
+            "_nanoseconds": 102999000
+          },
+          "Declined": false,
+          "Group": "133",
+          "Number": "1",
+          "Phone": "01000000000",
+          "Type": "Building"
+        },
+        {
+          "id": "6-5-ElRehabCity",
+          "AptNumber": "1",
+          "Area": "El Rehab City",
+          "DOC": {
+            "_seconds": 1752575078,
+            "_nanoseconds": 69000000
+          },
+          "Declined": false,
+          "Group": "6",
+          "Number": "5",
+          "Phone": "01000000000",
+          "Type": "Building",
+          "Approved": true,
+          "ApprovedOn": {
+            "_seconds": 1752575095,
+            "_nanoseconds": 481000000
+          }
+        }
+      ],
+      "AddressChangeAudit": [
+        {
+          "id": "49kZvBphcXCx4Y3NLn6u",
+          "Action": "add_address",
+          "DeviceId": "7ECC2E08-E440-4AEF-8E05-7189FE342817",
+          "PreviousAddresses": [
+            "133-1-ElRehabCity",
+            "6-5-ElRehabCity"
+          ],
+          "Reason": "User added address",
+          "Status": "success",
+          "Timestamp": {
+            "_seconds": 1766861810,
+            "_nanoseconds": 563000000
+          }
+        },
+        {
+          "id": "ET95JiaFaV8xlcDJ6imN",
+          "Status": "success",
+          "Action": "add_address",
+          "DeviceId": "BP22.250325.006",
+          "PreviousAddresses": [
+            "133-1-ElRehabCity",
+            "6-5-ElRehabCity"
+          ],
+          "Reason": "User added address",
+          "Timestamp": {
+            "_seconds": 1766674028,
+            "_nanoseconds": 200000000
+          }
+        },
+        {
+          "id": "WluROm3baMlzIlc47bDy",
+          "Action": "add_address",
+          "DeviceId": "0B759A8F-E6A9-430F-9865-3C17FF111552",
+          "PreviousAddresses": [
+            "122-13-ElRehabCity",
+            "133-1-ElRehabCity",
+            "6-5-ElRehabCity"
+          ],
+          "Reason": "User added address",
+          "Status": "success",
+          "Timestamp": {
+            "_seconds": 1767013464,
+            "_nanoseconds": 62000000
+          }
+        },
+        {
+          "id": "WnPHy9RhIhEcEmmNd1D7",
+          "Action": "add_address",
+          "DeviceId": "7ECC2E08-E440-4AEF-8E05-7189FE342817",
+          "PreviousAddresses": [
+            "113-1-ElRehabCity",
+            "6-5-ElRehabCity"
+          ],
+          "Reason": "User added address",
+          "Status": "success",
+          "Timestamp": {
+            "_seconds": 1766861775,
+            "_nanoseconds": 947000000
+          }
+        },
+        {
+          "id": "ZwYCTmnq7HD9vudwwnt1",
+          "Action": "remove_address",
+          "DeviceId": "7ECC2E08-E440-4AEF-8E05-7189FE342817",
+          "PreviousAddresses": [
+            "6-5-ElRehabCity"
+          ],
+          "Reason": "User removed address",
+          "Status": "success",
+          "Timestamp": {
+            "_seconds": 1766861792,
+            "_nanoseconds": 50000000
+          }
+        },
+        {
+          "id": "raRHPK4ggSrP8ClcoW5J",
+          "Status": "success",
+          "Action": "remove_address",
+          "DeviceId": "BP22.250325.006",
+          "PreviousAddresses": [
+            "6-5-ElRehabCity"
+          ],
+          "Reason": "User removed address",
+          "Timestamp": {
+            "_seconds": 1766680397,
+            "_nanoseconds": 78000000
+          }
+        }
+      ],
+      "Elevators": [
+        {
+          "id": "6-5-ElRehabCity",
+          "AptNumber": "1",
+          "Area": "El Rehab City",
+          "Declined": false,
+          "Group": "6",
+          "Number": "5",
+          "PendingOn": {
+            "_seconds": 1752575085,
+            "_nanoseconds": 971999000
+          },
+          "Type": "Building",
+          "Approved": true,
+          "ApprovedOn": {
+            "_seconds": 1752575095,
+            "_nanoseconds": 612000000
+          },
+          "Pending": false
+        }
+      ]
+    }
+  },
+  "w@s.com": {
+    "id": "w@s.com",
+    "Email": "w@s.com",
+    "Phone": "01000000000",
+    "UserUID": "igE7NHon2GXmF8mWksqZyeQGqFh2",
+    "SearchKey": [
+      "w",
+      "wa",
+      "wal",
+      "wale",
+      "walee",
+      "waleed",
+      "b",
+      "bi",
+      "bin",
+      "t",
+      "ta",
+      "tal",
+      "tala",
+      "talal",
+      "w@s.com",
+      "01000000000",
+      "Building",
+      "igE7NHon2GXmF8mWksqZyeQGqFh2",
+      "false",
+      "all"
+    ],
+    "DOC": {
+      "_seconds": 1729455457,
+      "_nanoseconds": 460000000
+    },
+    "Banned": false,
+    "Member": true,
+    "BetaApprovedAt": {
+      "_seconds": 1753835527,
+      "_nanoseconds": 73000000
+    },
+    "LastOnline": {
+      "_seconds": 1753958191,
+      "_nanoseconds": 508000000
+    },
+    "FullName": "Waleed Bin Talal",
+    "Subscriptions": [
+      "46-1-ElRehabCity",
+      "73-14-ElRehabCity"
+    ],
+    "EmailVerified": true,
+    "UserStatus": "Online",
+    "LastSeen": {
+      "_seconds": 1767545144,
+      "_nanoseconds": 805000000
+    },
+    "__collections__": {
+      "Address": [
+        {
+          "id": "46-1-ElRehabCity",
+          "Group": "46",
+          "Phone": "01000000000",
+          "Number": "1",
+          "Type": "Building",
+          "Area": "El Rehab City",
+          "Declined": false,
+          "DOC": {
+            "_seconds": 1759319921,
+            "_nanoseconds": 871999000
+          },
+          "AptNumber": "11",
+          "Approved": true,
+          "ApprovedOn": {
+            "_seconds": 1759320024,
+            "_nanoseconds": 622000000
+          }
+        },
+        {
+          "id": "73-14-ElRehabCity",
+          "AptNumber": "11",
+          "Area": "El Rehab City",
+          "DOC": {
+            "_seconds": 1753835685,
+            "_nanoseconds": 138999000
+          },
+          "Declined": false,
+          "Group": "73",
+          "Number": "14",
+          "Phone": "01000000000",
+          "Type": "Building",
+          "Approved": true,
+          "ApprovedOn": {
+            "_seconds": 1753835709,
+            "_nanoseconds": 239000000
+          }
+        }
+      ],
+      "Elevators": [
+        {
+          "id": "46-1-ElRehabCity",
+          "Declined": false,
+          "Group": "46",
+          "Type": "Building",
+          "Area": "El Rehab City",
+          "Number": "1",
+          "PendingOn": {
+            "_seconds": 1759319989,
+            "_nanoseconds": 845000000
+          },
+          "AptNumber": "11",
+          "Approved": true,
+          "ApprovedOn": {
+            "_seconds": 1759320024,
+            "_nanoseconds": 622000000
+          },
+          "Pending": false
+        },
+        {
+          "id": "73-14-ElRehabCity",
+          "AptNumber": "11",
+          "Area": "El Rehab City",
+          "Declined": false,
+          "Group": "73",
+          "Number": "14",
+          "PendingOn": {
+            "_seconds": 1753835693,
+            "_nanoseconds": 719000000
+          },
+          "Type": "Building",
+          "Approved": true,
+          "ApprovedOn": {
+            "_seconds": 1753835709,
+            "_nanoseconds": 363000000
+          },
+          "Pending": false
+        }
+      ]
+    }
+  }
+}
