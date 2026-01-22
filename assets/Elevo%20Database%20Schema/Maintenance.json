@@ -1,0 +1,23 @@
+{
+  "11-4-ElRehabCity": {
+    "id": "11-4-ElRehabCity",
+    "Address": "Group 11 - Building 4",
+    "Area": "El Rehab City",
+    "AllowBooking": true,
+    "Ongoing": false
+  },
+  "16-9-ElRehabCity": {
+    "id": "16-9-ElRehabCity",
+    "Area": "El Rehab City",
+    "Address": "Group 16 - Building 9",
+    "AllowBooking": true,
+    "Ongoing": false
+  },
+  "49-2-ElRehabCity": {
+    "id": "49-2-ElRehabCity",
+    "Area": "El Rehab City",
+    "Address": "Group 49 - Building 2",
+    "AllowBooking": true,
+    "Ongoing": false
+  }
+}

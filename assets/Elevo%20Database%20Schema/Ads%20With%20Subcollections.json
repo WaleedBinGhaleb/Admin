@@ -1,0 +1,39 @@
+{
+  "CatalougeCarousel": {
+    "id": "CatalougeCarousel",
+    "AdsImage": [
+      {
+        "AddedOn": {
+          "_seconds": 1765317600,
+          "_nanoseconds": 661000000
+        },
+        "Available": true,
+        "AdURL": "https://firebasestorage.googleapis.com/v0/b/elevooo.appspot.com/o/Ads%2Felev1.png?alt=media&token=51053f88-2746-4c25-b1c9-f6a6eaf66e89"
+      },
+      {
+        "AdURL": "https://firebasestorage.googleapis.com/v0/b/elevooo.appspot.com/o/Ads%2Felev2.png?alt=media&token=52b28640-d96a-4786-8b12-f32bce489278",
+        "AddedOn": {
+          "_seconds": 1765317600,
+          "_nanoseconds": 624000000
+        },
+        "Available": true
+      },
+      {
+        "Available": true,
+        "AddedOn": {
+          "_seconds": 1765317600,
+          "_nanoseconds": 892000000
+        },
+        "AdURL": "https://firebasestorage.googleapis.com/v0/b/elevooo.appspot.com/o/Ads%2Felev3.png?alt=media&token=867dfde3-2f3e-451f-9039-5c1339a8c96e"
+      },
+      {
+        "Available": true,
+        "AddedOn": {
+          "_seconds": 1765317600,
+          "_nanoseconds": 424000000
+        },
+        "AdURL": "https://firebasestorage.googleapis.com/v0/b/elevooo.appspot.com/o/Ads%2Felev4.png?alt=media&token=73b9a9e1-6e81-40c6-a106-6f0bcd1a7e7c"
+      }
+    ]
+  }
+}

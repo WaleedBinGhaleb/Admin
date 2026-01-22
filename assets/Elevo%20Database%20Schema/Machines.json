@@ -1,0 +1,44 @@
+{
+  "ITALGEARS-FT2-630": {
+    "id": "ITALGEARS-FT2-630",
+    "Available": true,
+    "Max Weight": "780 kg",
+    "Model": "FT2-630",
+    "Name": "ITALGEARS",
+    "Origin": "Italy",
+    "Static Load": "3100 kg",
+    "Strength": "10.2 HP",
+    "Speed": "Up to 2m/s",
+    "Images": [
+      "https://firebasestorage.googleapis.com/v0/b/elevooo.appspot.com/o/Machines%2FITALGEARS-FT2-630%2Fft2-630.png?alt=media&token=3a392541-fba3-4aec-b90e-184c938bb58d"
+    ]
+  },
+  "Sicor-MR12C": {
+    "id": "Sicor-MR12C",
+    "Origin": "Italy",
+    "Speed": "1m/s",
+    "Model": "MR12C",
+    "Available": true,
+    "Static Load": "2600 kg",
+    "Name": "Sicor",
+    "Max Weight": "550 kg",
+    "Strength": "8.2 HP",
+    "Images": [
+      "https://firebasestorage.googleapis.com/v0/b/elevooo.appspot.com/o/Machines%2FSicor-MR12C%2Fmr12c.png?alt=media&token=48443af8-fd31-41d4-8ec8-7a8198e71962"
+    ]
+  },
+  "Sicor-SH130": {
+    "id": "Sicor-SH130",
+    "Available": true,
+    "Images": [
+      "https://firebasestorage.googleapis.com/v0/b/elevooo.appspot.com/o/Machines%2FSicor-SH130%2Fdownload.png?alt=media&token=ecc7a566-96b3-49dd-a989-925840a5a151"
+    ],
+    "Max Weight": "550 kg",
+    "Model": "SH130",
+    "Name": "Sicor",
+    "Origin": "Italy",
+    "Speed": "1m/s",
+    "Static Load": "2600 kg",
+    "Strength": "10 HP"
+  }
+}

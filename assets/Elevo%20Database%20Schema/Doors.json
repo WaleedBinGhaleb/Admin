@@ -1,0 +1,70 @@
+{
+  "DoorLife-Egypt-External": {
+    "id": "DoorLife-Egypt-External",
+    "Origin": "Egypt",
+    "Available": true,
+    "Name": {
+      "en": "Door Life",
+      "ar": "دور لايف"
+    },
+    "Images": [
+      "https://firebasestorage.googleapis.com/v0/b/elevooo.appspot.com/o/Doors%2FExternal%2FEgypt%2Fegypt_external_opt.png?alt=media&token=165e6f6e-5030-4f2f-bd99-4babd742e814",
+      "https://firebasestorage.googleapis.com/v0/b/elevooo.appspot.com/o/Doors%2FExternal%2FEgypt%2Fegypt_pastel_external_opt.png?alt=media&token=898ae451-94e1-4f2a-bd02-ad51507b543a"
+    ],
+    "Type": "Semi-Automatic",
+    "Category": [
+      "External"
+    ]
+  },
+  "Fermator-Central-External-Spain": {
+    "id": "Fermator-Central-External-Spain",
+    "Name": {
+      "en": "Fermator",
+      "ar": "فيرميتور"
+    },
+    "Available": true,
+    "Images": [
+      "https://firebasestorage.googleapis.com/v0/b/elevooo.appspot.com/o/Doors%2FExternal%2FSpain%2Ffermator_external_opt.png?alt=media&token=da292a03-8438-4c12-97a9-d349167313e3"
+    ],
+    "Origin": "Spain",
+    "Type": "Central",
+    "Category": [
+      "External",
+      "Internal"
+    ]
+  },
+  "Fermator-Telescopic-External-Spain": {
+    "id": "Fermator-Telescopic-External-Spain",
+    "Name": {
+      "en": "Fermator",
+      "ar": "فيرميتور"
+    },
+    "Origin": "Spain",
+    "Available": true,
+    "Images": [
+      "https://firebasestorage.googleapis.com/v0/b/elevooo.appspot.com/o/Doors%2FExternal%2FSpain%2Ffermator_telescopic_external_opt.png?alt=media&token=6320fe8b-1076-41e1-8fd2-9766c9b8d0b7"
+    ],
+    "Type": "Telescopic",
+    "Category": [
+      "External",
+      "Internal"
+    ]
+  },
+  "Selcom-Central-External-Italy": {
+    "id": "Selcom-Central-External-Italy",
+    "Origin": "Italy",
+    "Available": true,
+    "Name": {
+      "en": "Selcom",
+      "ar": "سيلكوم"
+    },
+    "Images": [
+      "https://firebasestorage.googleapis.com/v0/b/elevooo.appspot.com/o/Doors%2FExternal%2FItaly%2Fselcom_external_opt.png?alt=media&token=f623a448-621a-4b17-a3fa-3bc037cdc6e1"
+    ],
+    "Type": "Central",
+    "Category": [
+      "External",
+      "Internal"
+    ]
+  }
+}

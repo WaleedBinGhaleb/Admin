@@ -1,0 +1,360 @@
+{
+  "Aurum": {
+    "id": "Aurum",
+    "Available": true,
+    "Category": "Elite",
+    "DOC": {
+      "_seconds": 1744668000,
+      "_nanoseconds": 20000000
+    },
+    "Featured": false,
+    "Review": 4.2,
+    "Images": [
+      "https://firebasestorage.googleapis.com/v0/b/elevooo.appspot.com/o/Cabins%2FAurum%2FFront.png?alt=media&token=1fca9a58-aa18-47f7-b4e3-f69f0690b8e2",
+      "https://firebasestorage.googleapis.com/v0/b/elevooo.appspot.com/o/Cabins%2FAurum%2FFloor.png?alt=media&token=0f31a861-6e6f-4c0c-8428-36a1ee3d2d9c",
+      "https://firebasestorage.googleapis.com/v0/b/elevooo.appspot.com/o/Cabins%2FAurum%2FCeiling.png?alt=media&token=4e963715-5679-4f9b-bcfa-2bd3f4bb3a9b",
+      "https://firebasestorage.googleapis.com/v0/b/elevooo.appspot.com/o/Cabins%2FAurum%2F3D.png?alt=media&token=e7ea7cc7-5ca4-4b3f-a029-28ab7bd676e2"
+    ],
+    "Description": {
+      "ar": "تجسّد AURUM الهيبة الخالدة من خلال إتقان المواد.\nبفضل الأعمال المعدنية بلون الذهب الشمبانيا الدافئ، والأسطح المكسوة بطبقة لامينيت بنقشة حجرية أنيقة، والإضاءة المحيطة التي تدعو إلى السكون، تحوّل AURUM كل رحلة إلى تجربة راقية.\nمثالي للمنازل الفاخرة أو الضيافة الراقية، تبرز هذه الكبائن الثراء ليس بالإسراف بل بضبط النفس.\nAURUM هو المكان الذي تلتقي فيه الفخامة بوضوح التصميم.",
+      "en": "Aurum embodies timeless prestige through material mastery. With warm champagne gold metalwork, elegant stone-textured laminate, and ambient lighting that invites stillness, AURUM turns every ride into a refined experience. Ideal for high-end residential or luxury hospitality, this cabin evokes wealth not through extravagance — but through restraint. AURUM is where opulence meets design clarity."
+    },
+    "Features": {
+      "en": [
+        "Champagne Gold Panels\"",
+        "Sandveil Stone Vinyl Floor",
+        "Recessed Gold-Framed LED Ceiling"
+      ],
+      "ar": [
+        "ألواح بلون الذهب الشمبانيا",
+        "أرضية فينيل حجرية بنمط Sandveil",
+        "سقف LED مدمج بإطار ذهبي"
+      ]
+    },
+    "Name": {
+      "en": "Aurum",
+      "ar": "أوروم"
+    }
+  },
+  "Classic": {
+    "id": "Classic",
+    "Images": [
+      "https://firebasestorage.googleapis.com/v0/b/elevooo.appspot.com/o/Cabins%2FClassic%2F01.jpg?alt=media&token=2a756979-9ecf-4ed9-a7aa-73fec59795ed",
+      "https://firebasestorage.googleapis.com/v0/b/elevooo.appspot.com/o/Cabins%2FClassic%2F10-2.jpg?alt=media&token=cdd8548f-fe57-4488-b554-c09575bc4af9"
+    ],
+    "Featured": true,
+    "Available": true,
+    "DOC": {
+      "_seconds": 1728075600,
+      "_nanoseconds": 312000000
+    },
+    "Category": "Prime",
+    "Review": 3.1,
+    "Description": {
+      "en": "The charm of this cabin shines through its exquisite interior featuring dark wooden paneling. The polished finish of the rich, dark wood exudes a sense of luxury and sophistication. The ceiling boasts recessed lighting, with small, round lights evenly spaced to create a warm and inviting ambiance. The floor, carpeted in a dark hue, complements the overall design while adding comfort and style. The detailed rectangular patterns on the wood paneling enhance the cabin's classic elegance, making it a standout space that seamlessly blends luxury and refinement.",
+      "ar": "يتجلّى سحر هذه الكبينة في تصميمها الداخلي الفاخر بتكسية خشبية داكنة.\nاللمسة النهائية المصقولة للخشب الغني تنضح بالفخامة والرُقي.\nيُزيّن السقف بإضاءة مدمجة من مصابيح دائرية صغيرة موزّعة بالتساوي لخلق جو دافئ وجذاب.\nتُكمّل الأرضية المغطاة بسجاد داكن التصميم العام، مضيفةً الراحة والأناقة.\nتعزّز النقوش المستطيلة الدقيقة على التكسية الخشبية الأناقة الكلاسيكية للكبينة، مما يجعلها مساحة بارزة تجمع بسلاسة بين الفخامة والرُقي."
+    },
+    "Features": {
+      "en": [
+        "Fine Wood",
+        "Carpet Floor"
+      ],
+      "ar": [
+        "خشب راقٍ",
+        "أرضية مغطاة بالسجاد"
+      ]
+    },
+    "Name": {
+      "en": "Classic",
+      "ar": "كلاسيك"
+    }
+  },
+  "Contemporary": {
+    "id": "Contemporary",
+    "Featured": true,
+    "Images": [
+      "https://firebasestorage.googleapis.com/v0/b/elevooo.appspot.com/o/Cabins%2FContemporary%2F8-1.jpg?alt=media&token=f31ece59-288d-455a-937f-cc7273f16bfa",
+      "https://firebasestorage.googleapis.com/v0/b/elevooo.appspot.com/o/Cabins%2FContemporary%2F8-2.jpg?alt=media&token=f584cb6f-1c45-47bf-bc7a-becdba87ad63",
+      "https://firebasestorage.googleapis.com/v0/b/elevooo.appspot.com/o/Cabins%2FContemporary%2F8-3.jpg?alt=media&token=c336d4d1-082e-4c02-8d69-8ce14825176d"
+    ],
+    "Available": true,
+    "DOC": {
+      "_seconds": 1729198800,
+      "_nanoseconds": 66000000
+    },
+    "Category": "Elite",
+    "Review": 4.5,
+    "Name": {
+      "en": "Eclipse",
+      "ar": "إكليبس"
+    },
+    "Description": {
+      "en": "Sleek and minimalist, this cabin features a striking combination of black and white marble across its walls and flooring. A matte black ceiling with recessed lighting enhances the modern atmosphere, while a horizontal brushed metal handrail lines the back wall for both form and function. The luxurious materials and contemporary design language make it ideal for upscale residential and commercial environments.",
+      "ar": "بتصميم أنيق ومينيمالي، تتميّز هذه الكبينة بتناسق لافت بين الرخام الأسود والأبيض على الجدران والأرضية.\nسقف مطفي باللون الأسود مع إضاءة مدمجة يعزّز الأجواء العصرية، في حين يُضفي الدرابزين الأفقي المصنوع من المعدن المصقول على الجدار الخلفي لمسة وظيفية وجمالية.\nالخامات الفاخرة واللغة التصميمية العصرية تجعلها مثالية للمباني السكنية الراقية والمساحات التجارية الحديثة."
+    },
+    "Features": {
+      "en": [
+        "Dual-Tone Marble Finish",
+        "Recessed LED Lighting",
+        "Sleek Horizontal Handrail"
+      ],
+      "ar": [
+        "رخام بلونين متناسقين",
+        "إضاءة LED مدمجة",
+        "درابزين أفقي أنيق"
+      ]
+    }
+  },
+  "Glam": {
+    "id": "Glam",
+    "Category": "Prime",
+    "DOC": {
+      "_seconds": 1731163503,
+      "_nanoseconds": 410000000
+    },
+    "Images": [
+      "https://firebasestorage.googleapis.com/v0/b/elevooo.appspot.com/o/Cabins%2FGlam%2F3-1.jpg?alt=media&token=519cc68a-7092-4303-898f-2acf311379b3",
+      "https://firebasestorage.googleapis.com/v0/b/elevooo.appspot.com/o/Cabins%2FGlam%2F3-2.jpg?alt=media&token=da52a301-f5d6-4ed0-8566-5fa8d48fdacc",
+      "https://firebasestorage.googleapis.com/v0/b/elevooo.appspot.com/o/Cabins%2FGlam%2F3-3.jpg?alt=media&token=0271c5ea-a5c0-4e19-ba62-9da0ff4b21fd"
+    ],
+    "Available": true,
+    "Featured": false,
+    "Review": 4.8,
+    "Description": {
+      "en": "Step into a realm of modern sophistication with this elevator cabin. The walls, crafted from high-quality, reflective metallic panels, offer a sleek and contemporary aesthetic. Enhancing the cabin's luxurious feel, the ceiling features a geometric pattern created by linear LED lighting, providing both illumination and style. The floor, made of polished stone with a subtle texture, adds to the elegance of the space. For convenience and safety, a horizontal handrail runs along the back wall.",
+      "ar": "ادخل عالم الأناقة العصرية مع هذه الكبينة.\nالجدران مصنوعة من ألواح معدنية عاكسة عالية الجودة، تمنح الكبينة مظهرًا عصريًا وانسيابيًا.\nيزيد السقف من فخامتها من خلال نمط هندسي مضاء بإضاءة LED خطية، تضيف إضاءة مميزة ولمسة تصميمية راقية.\nأما الأرضية، فهي من حجر مصقول بنقشة ناعمة تعزز من أناقة المساحة.\nوللراحة والسلامة، يمتد درابزين أفقي على الجدار الخلفي."
+    },
+    "Name": {
+      "en": "Glam",
+      "ar": "جلام"
+    },
+    "Features": {
+      "en": [
+        "Metallic Walls",
+        "Linear LED",
+        "Polished Galaxy Floor"
+      ],
+      "ar": [
+        "جدران معدنية",
+        "إضاءة LED خطية",
+        "أرضية “غالاكسي” مصقولة"
+      ]
+    }
+  },
+  "Halo": {
+    "id": "Halo",
+    "Available": true,
+    "Category": "Elite",
+    "DOC": {
+      "_seconds": 1744668000,
+      "_nanoseconds": 700000000
+    },
+    "Featured": false,
+    "Images": [
+      "https://firebasestorage.googleapis.com/v0/b/elevooo.appspot.com/o/Cabins%2FHalo%2FFront.png?alt=media&token=10d8507d-617e-4f99-908b-5803cf47ea77",
+      "https://firebasestorage.googleapis.com/v0/b/elevooo.appspot.com/o/Cabins%2FHalo%2FFloor.png?alt=media&token=0faad95b-bc88-460a-801a-7310be3973f8",
+      "https://firebasestorage.googleapis.com/v0/b/elevooo.appspot.com/o/Cabins%2FHalo%2FCeiling.png?alt=media&token=dafcbd81-5a00-49e6-ab17-429c9820fb0c",
+      "https://firebasestorage.googleapis.com/v0/b/elevooo.appspot.com/o/Cabins%2FHalo%2F3D.png?alt=media&token=43dce77e-fb80-464e-b9b5-eb793a853121"
+    ],
+    "Review": 4.5,
+    "Name": {
+      "en": "Halo",
+      "ar": "هالو"
+    },
+    "Description": {
+      "en": "Halo embodies the future of minimalism. With seamless white composite panels, softly diffused lighting, and a floating LED ring overhead, this cabin offers a sensory reset — a space of stillness and clarity. Designed for visionaries and crafted for silence, Halo isn’t just an elevator — it’s a space-age sanctuary. Elevate in silence, arrive in style.",
+      "ar": "تجسّد Halo مستقبل البساطة.\nبألواح مركّبة بيضاء ناعمة بلا فواصل، وإضاءة منتشرة بهدوء، وحلقة LED معلّقة فوق الرأس، تقدّم هذه الكبينة لحظة صفاء حسّي ومساحة من السكون والوضوح.\nمصمّمة لأصحاب الرؤية ومُتقنة لتمنحك الصمت، Halo ليست مجرد مصعد — إنها ملاذ من عصر الفضاء. ارتقِ بصمت، واصِل بأناقة."
+    },
+    "Features": {
+      "en": [
+        "Halo Ring Ceiling Panel",
+        "Side-Integrated Vertical LEDs",
+        "ZeroEdge Flooring"
+      ],
+      "ar": [
+        "لوحة سقف بحلقة Halo مضيئة",
+        "إضاءة LED عمودية مدمجة في الجوانب",
+        "أرضية ZeroEdge"
+      ]
+    }
+  },
+  "Japandi": {
+    "id": "Japandi",
+    "Images": [
+      "https://firebasestorage.googleapis.com/v0/b/elevooo.appspot.com/o/Cabins%2FJapandi%2F6.jpg?alt=media&token=1280b04d-b62e-4235-a231-1253f7d6ed5e",
+      "https://firebasestorage.googleapis.com/v0/b/elevooo.appspot.com/o/Cabins%2FJapandi%2F6-3.jpg?alt=media&token=ff42fa7e-6eff-4ee6-a169-d8ea26d78250",
+      "https://firebasestorage.googleapis.com/v0/b/elevooo.appspot.com/o/Cabins%2FJapandi%2F6-1.jpg?alt=media&token=a226ccb1-4544-4ad7-b93e-33cc374383f5",
+      "https://firebasestorage.googleapis.com/v0/b/elevooo.appspot.com/o/Cabins%2FJapandi%2F6-4.jpg?alt=media&token=281c70eb-8024-479d-9258-6c19a755817e"
+    ],
+    "Featured": true,
+    "DOC": {
+      "_seconds": 1728075600,
+      "_nanoseconds": 925000000
+    },
+    "Category": "Essential",
+    "Available": true,
+    "Review": 4.1,
+    "Description": {
+      "en": "This cabin stands out with its natural wooden construction, creating a warm and inviting atmosphere. The rich grain of the wood panels adds character and depth, while the golden tones of the material reflect the ambient lighting beautifully. The wooden interior is complemented by sleek, minimalist fixtures and subtle lighting accents, which together enhance the cozy and elegant feel of the space. It's a harmonious blend of rustic charm and modern sophistication, making it a perfect retreat.",
+      "ar": "تتميّز هذه الكبينة ببنائها الخشبي الطبيعي، ما يخلق أجواءً دافئة وجذابة.  \nتضفي التعرّجات الغنية في ألواح الخشب طابعًا مميزًا وعمقًا بصريًا، بينما تعكس درجاته الذهبية الإضاءة المحيطة بشكل جميل.  \nيُكمّل التصميم الداخلي الخشبي لمسات إضاءة ناعمة وتفاصيل عصرية أنيقة، مما يعزّز الإحساس بالدفء والرُقي في آنٍ معًا.  \nإنها مزيج متناغم بين الطابع الريفي الساحر والأناقة العصرية، ما يجعلها ملاذًا مثالياً."
+    },
+    "Name": {
+      "en": "Japandi",
+      "ar": "جاباندي"
+    },
+    "Features": {
+      "ar": [
+        "خشب راقٍ",
+        "أرضية من الرخام"
+      ],
+      "en": [
+        "Fine Wood",
+        "Marble Floor"
+      ]
+    }
+  },
+  "Minimal": {
+    "id": "Minimal",
+    "Images": [
+      "https://firebasestorage.googleapis.com/v0/b/elevooo.appspot.com/o/Cabins%2FMinimal%2F7-1.jpg?alt=media&token=db5d0975-c11a-4d54-bf28-6185337aeb10",
+      "https://firebasestorage.googleapis.com/v0/b/elevooo.appspot.com/o/Cabins%2FMinimal%2F7-2.jpg?alt=media&token=07880b94-b6fa-4825-ace4-8674688e4f31",
+      "https://firebasestorage.googleapis.com/v0/b/elevooo.appspot.com/o/Cabins%2FMinimal%2F7-3.jpg?alt=media&token=023ea69b-6b7a-4334-a175-32dc4a6170ac"
+    ],
+    "Featured": true,
+    "Available": true,
+    "DOC": {
+      "_seconds": 1728075600,
+      "_nanoseconds": 201000000
+    },
+    "Category": "Essential",
+    "Review": 3.8,
+    "Name": {
+      "en": "Minimal",
+      "ar": "مينيمال"
+    },
+    "Features": {
+      "en": [
+        "Stainless Steel Walls",
+        "Ivory Floor"
+      ],
+      "ar": [
+        "حوائط فولاذ مقاوم للصدأ",
+        "أرضية ايفوري"
+      ]
+    },
+    "Description": {
+      "en": "The interior of this elevator exudes modern elegance with its sleek, reflective metal walls and light-colored marble floor. The ceiling features a prominent, bright light panel that evenly illuminates the space, creating an inviting atmosphere. Vertical ridges on the walls add a subtle texture to the smooth surfaces, enhancing the contemporary aesthetic. Handrails are positioned on both sides, ensuring functionality and safety. The doors are visible at the far end, completing the clean and sophisticated design of this elevator.",
+      "ar": "يعبّر التصميم الداخلي لهذا المصعد عن أناقة عصرية من خلال جدرانه المعدنية اللامعة وأرضيته الرخامية الفاتحة.  \nيتوسّط السقف لوح إضاءة ساطع يوزّع الضوء بشكل متساوٍ، مما يخلق جوًا مريحًا وجاذبًا.  \nتُضفي الخطوط العمودية على الجدران ملمسًا ناعمًا يعزّز الطابع العصري للمكان.  \nتتواجد الدرابزينات على الجانبين لضمان الأمان والوظيفية.  \nأما الأبواب، فتظهر في الجهة المقابلة، لتُكمل مظهر المصعد النظيف والأنيق."
+    }
+  },
+  "Modern": {
+    "id": "Modern",
+    "Featured": true,
+    "Images": [
+      "https://firebasestorage.googleapis.com/v0/b/elevooo.appspot.com/o/Cabins%2FModern%2F5-1.jpg?alt=media&token=715ad113-2a9c-4cce-bbc7-f6449e30d536",
+      "https://firebasestorage.googleapis.com/v0/b/elevooo.appspot.com/o/Cabins%2FModern%2F5-2.jpg?alt=media&token=5086abfd-e7db-4a7a-aff7-9f212ed46eb0",
+      "https://firebasestorage.googleapis.com/v0/b/elevooo.appspot.com/o/Cabins%2FModern%2F5-3.jpg?alt=media&token=6d265df9-b175-4ec4-99cf-bb3472682462"
+    ],
+    "DOC": {
+      "_seconds": 1729198800,
+      "_nanoseconds": 555000000
+    },
+    "Category": "Prime",
+    "Review": 3.1,
+    "Available": false,
+    "Description": {
+      "en": "The interior design of this cabin embraces modern aesthetics with sleek, metallic walls and a dark, textured floor that exudes a sense of sophistication. Linear LED lights on the ceiling cast a gentle glow, creating an inviting ambiance. A discreet handrail runs along the back wall, complementing the minimalist design. This cabin perfectly blends functionality with contemporary style, making it a visually appealing space.",
+      "ar": "يعتمد التصميم الداخلي لهذه الكبينة على الجماليات العصرية، مع جدران معدنية أنيقة وأرضية داكنة بملمس واضح تُضفي إحساسًا بالرُقي.  \nتُضيء إضاءات LED الخطية في السقف المكان بوهج ناعم، مما يخلق أجواءً دافئة ومريحة.  \nيمتد درابزين مخفي على الجدار الخلفي، يُكمّل التصميم المينيمالي للكابينة.  \nتمزج هذه الكبينة بين الوظيفة والأسلوب العصري بشكل مثالي، ما يجعلها مساحة جذابة بصريًا."
+    },
+    "Name": {
+      "en": "Modern",
+      "ar": "مودرن"
+    },
+    "Features": {
+      "en": [
+        "Galaxy Floor",
+        "Metallic Walls",
+        "Linear LED"
+      ],
+      "ar": [
+        " أرضية جالاكسي",
+        "جدران معدنية",
+        "إضاءة LED خطية"
+      ]
+    }
+  },
+  "Noir": {
+    "id": "Noir",
+    "Available": true,
+    "Category": "Prime",
+    "DOC": {
+      "_seconds": 1744690080,
+      "_nanoseconds": 115000000
+    },
+    "Featured": false,
+    "Images": [
+      "https://firebasestorage.googleapis.com/v0/b/elevooo.appspot.com/o/Cabins%2FNoir%2FFront.png?alt=media&token=0a936174-1e9c-4098-ad02-c1b1973525e7",
+      "https://firebasestorage.googleapis.com/v0/b/elevooo.appspot.com/o/Cabins%2FNoir%2FFloor.png?alt=media&token=414e2403-b88b-4f5d-be50-795fead98123",
+      "https://firebasestorage.googleapis.com/v0/b/elevooo.appspot.com/o/Cabins%2FNoir%2FCeiling.png?alt=media&token=83fc51ee-4a36-434d-afaf-88ce9c03e1d1",
+      "https://firebasestorage.googleapis.com/v0/b/elevooo.appspot.com/o/Cabins%2FNoir%2F3D.png?alt=media&token=1bf9b501-cbfa-4780-ac13-8a238a385723"
+    ],
+    "Review": 4.5,
+    "Name": {
+      "en": "Noir",
+      "ar": "نوار"
+    },
+    "Description": {
+      "en": "Noir redefines what minimalism means in vertical mobility. Crafted with bold restraint, this cabin features seamless graphite matte laminate walls, a soft-glow flush LED ceiling, and precision-fit brushed gunmetal rails. The result? A tranquil, modern space that reflects clarity, order, and sophistication in every detail. Whether for residential towers or business hubs, Noir is built to impress without ever raising its voice.",
+      "ar": "تعيد Noir تعريف معنى البساطة في عالم التنقّل العمودي.  \nبتصميم جريء ومضبوط، تتميّز هذه الكبينة بجدران مغطاة بلامينيت غير لامع بلون الغرافيت دون فواصل، وسقف LED مضاء بتوهج ناعم ومسطّح، ودرابزينات دقيقة مصنوعة من المعدن المصقول بلون البنّي المدخّن.  \nالنتيجة؟ مساحة هادئة وعصرية تعكس الوضوح، والنظام، والرُقي في كل تفصيلة.  \nسواء في الأبراج السكنية أو المراكز التجارية، صُمّمت Noir لتترك انطباعًا قويًا... دون أن ترفع صوتها."
+    },
+    "Features": {
+      "en": [
+        "Graphite Matte Walls",
+        "Flush Frosted LED Panel",
+        "ShadowStone Floor"
+      ],
+      "ar": [
+        "جدران غير لامعة بلون الغرافيت",
+        "لوحة LED مضاءة ومسطّحة بتشطيب ضبابي",
+        "أرضية ShadowStone"
+      ]
+    }
+  },
+  "Strata": {
+    "id": "Strata",
+    "Available": true,
+    "Category": "Essential",
+    "DOC": {
+      "_seconds": 1744668000,
+      "_nanoseconds": 944000000
+    },
+    "Images": [
+      "https://firebasestorage.googleapis.com/v0/b/elevooo.appspot.com/o/Cabins%2FStrata%2FFront.png?alt=media&token=5b6b0262-e4ea-4e23-af98-b0ae52cce205",
+      "https://firebasestorage.googleapis.com/v0/b/elevooo.appspot.com/o/Cabins%2FStrata%2FFloor.png?alt=media&token=4b917f30-9c3b-4d16-bb39-f1ea4295f7a4",
+      "https://firebasestorage.googleapis.com/v0/b/elevooo.appspot.com/o/Cabins%2FStrata%2FCeiling.png?alt=media&token=d4e09be5-6e78-4e9d-aef6-fe894ca19f3d",
+      "https://firebasestorage.googleapis.com/v0/b/elevooo.appspot.com/o/Cabins%2FStrata%2F3D.png?alt=media&token=a9e77b10-c5e5-47e9-81f9-08a2edf6d19a"
+    ],
+    "Review": 4.1,
+    "Description": {
+      "en": "Strata brings sharp contrast and structured beauty to the everyday. Featuring warm woodgrain panels edged in matte black steel, a centered vertical mirror, and minimal slim lighting, this cabin delivers visual impact at a developer-friendly cost. Built for mid-rise buildings, modern residences, and bold commercial cores, Strata turns your vertical transit into a quiet design statement. Essential doesn't have to be boring. Strata makes sure of it.",
+      "ar": "Strata تُقدّم تباينًا حادًا وجمالًا منظّمًا في تجربة يومية بسيطة.  \nتتميّز الكبينة بألواح خشبية دافئة محاطة بحواف من الفولاذ الأسود غير اللامع، ومِرآة عمودية في المنتصف، وإضاءة نحيفة بأقل قدر من التفاصيل.  \nتوفر هذه الكبينة حضورًا بصريًا لافتًا بتكلفة مناسبة للمطوّرين.  \nمصمّمة للمباني المتوسطة الارتفاع، والمساكن العصرية، والمراكز التجارية الجريئة، تجعل Strata التنقّل العمودي رسالة تصميم هادئة.  \nالأساسي لا يعني الممل — وStrata تؤكد ذلك."
+    },
+    "Name": {
+      "en": "Strata",
+      "ar": "ستراتا"
+    },
+    "Featured": true,
+    "Features": {
+      "en": [
+        "Black-Framed Wood Paneling",
+        "Double Linear LED Ceiling",
+        "LavaTone Vinyl Floor"
+      ],
+      "ar": [
+        "ألواح خشبية بإطار أسود",
+        "سقف بإضاءتين LED",
+        "أرضية فينيل بتشطيب LavaTone"
+      ]
+    }
+  }
+}

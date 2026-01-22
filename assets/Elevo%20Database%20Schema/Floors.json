@@ -1,0 +1,50 @@
+{
+  "SandVeil": {
+    "id": "SandVeil",
+    "Available": true,
+    "DOC": {
+      "_seconds": 1745013600,
+      "_nanoseconds": 829000000
+    },
+    "Name": {
+      "en": "SandVeil",
+      "ar": "ساند ڤيل"
+    },
+    "Category": "Elite",
+    "Images": [
+      "https://firebasestorage.googleapis.com/v0/b/elevooo.appspot.com/o/Floors%2FSandVeil%2FSandVeil.png?alt=media&token=b853519e-7b33-4062-af9b-c85b48a28367"
+    ]
+  },
+  "ShadowStone": {
+    "id": "ShadowStone",
+    "Available": true,
+    "Name": {
+      "en": "ShadowStone",
+      "ar": "شادو ستون"
+    },
+    "DOC": {
+      "_seconds": 1745013600,
+      "_nanoseconds": 84000000
+    },
+    "Category": "Essential",
+    "Images": [
+      "https://firebasestorage.googleapis.com/v0/b/elevooo.appspot.com/o/Floors%2FShadowStone%2FShadowStone.png?alt=media&token=73075182-5f13-4822-9896-04af6eb6e611"
+    ]
+  },
+  "ZeroEdge": {
+    "id": "ZeroEdge",
+    "Available": true,
+    "Category": "Elite",
+    "DOC": {
+      "_seconds": 1745013600,
+      "_nanoseconds": 353000000
+    },
+    "Name": {
+      "en": "ZeroEdge",
+      "ar": "زيرو ايدج"
+    },
+    "Images": [
+      "https://firebasestorage.googleapis.com/v0/b/elevooo.appspot.com/o/Floors%2FZeroEdge%2FZeroEdge.png?alt=media&token=e533987f-db4a-46a3-a56a-9079c29fac12"
+    ]
+  }
+}

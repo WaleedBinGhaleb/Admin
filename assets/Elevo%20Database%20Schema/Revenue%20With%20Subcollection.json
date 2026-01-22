@@ -1,0 +1,178 @@
+{
+  "2024": {
+    "id": "2024",
+    "Total Profit": 0,
+    "Total Maintenance:": 0,
+    "Total Paid": 0,
+    "__collections__": {
+      "Months": [
+        {
+          "id": "Apr2024",
+          "index": 3,
+          "Profit": 0,
+          "Maint": 1510
+        },
+        {
+          "id": "Aug2024",
+          "Maint": 0,
+          "index": 7,
+          "Profit": 0
+        },
+        {
+          "id": "Dec2024",
+          "Maint": 0,
+          "index": 11,
+          "Profit": 0
+        },
+        {
+          "id": "Feb2024",
+          "index": 1,
+          "Profit": 0,
+          "Maint": 1888
+        },
+        {
+          "id": "Jan2024",
+          "index": 0,
+          "Profit": 0,
+          "Maint": 1440
+        },
+        {
+          "id": "Jul2024",
+          "Maint": 1050,
+          "index": 6,
+          "Profit": 0
+        },
+        {
+          "id": "Jun2024",
+          "Maint": 450,
+          "index": 5,
+          "Profit": 0
+        },
+        {
+          "id": "Mar2024",
+          "index": 2,
+          "Profit": 0,
+          "Maint": 5985
+        },
+        {
+          "id": "May2024",
+          "index": 4,
+          "Profit": 0,
+          "Maint": 15000
+        },
+        {
+          "id": "Nov2024",
+          "Maint": 0,
+          "index": 10,
+          "Profit": 0
+        },
+        {
+          "id": "Oct2024",
+          "Maint": 0,
+          "index": 9,
+          "Profit": 0
+        },
+        {
+          "id": "Sep2024",
+          "Maint": 0,
+          "index": 8,
+          "Profit": 0
+        }
+      ]
+    }
+  },
+  "2025": {
+    "id": "2025",
+    "Total Maintenance": 0,
+    "Total Paid": 0,
+    "Total Profit": 0,
+    "__collections__": {
+      "Months": [
+        {
+          "id": "Apr2025",
+          "Maint": 0,
+          "Paid": 0,
+          "Profit": 0,
+          "index": 3
+        },
+        {
+          "id": "Aug2025",
+          "index": 7,
+          "Profit": 0,
+          "Maint": 0,
+          "Paid": 0
+        },
+        {
+          "id": "Dec2025",
+          "Maint": 0,
+          "Profit": 0,
+          "index": 11,
+          "Paid": 0
+        },
+        {
+          "id": "Feb2025",
+          "Maint": 0,
+          "Paid": 0,
+          "index": 1,
+          "Profit": 0
+        },
+        {
+          "id": "Jan2025",
+          "Profit": 0,
+          "index": 0,
+          "Paid": 0,
+          "Maint": 1200
+        },
+        {
+          "id": "Jul2025",
+          "Maint": 0,
+          "index": 6,
+          "Paid": 0,
+          "Profit": 0
+        },
+        {
+          "id": "Jun2025",
+          "Paid": 0,
+          "Profit": 0,
+          "Maint": 0,
+          "index": 5
+        },
+        {
+          "id": "Mar2025",
+          "Paid": 0,
+          "index": 2,
+          "Profit": 0,
+          "Maint": 0
+        },
+        {
+          "id": "May2025",
+          "index": 4,
+          "Profit": 0,
+          "Paid": 0,
+          "Maint": 0
+        },
+        {
+          "id": "Nov2025",
+          "Paid": 0,
+          "Profit": 0,
+          "Maint": 0,
+          "index": 10
+        },
+        {
+          "id": "Oct2025",
+          "index": 9,
+          "Profit": 0,
+          "Paid": 0,
+          "Maint": 0
+        },
+        {
+          "id": "Sep2025",
+          "Maint": 0,
+          "Paid": 0,
+          "index": 8,
+          "Profit": 0
+        }
+      ]
+    }
+  }
+}

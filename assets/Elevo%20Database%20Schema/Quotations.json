@@ -1,0 +1,66 @@
+{
+  "15-1-ElRehabCity": {
+    "id": "15-1-ElRehabCity",
+    "ShareCode": "355833",
+    "UserName": "Aly ghaleb",
+    "Timer": {
+      "_seconds": 1767961792,
+      "_nanoseconds": 379000000
+    },
+    "RequestCounter": 1,
+    "SearchKey": [
+      "1",
+      "15",
+      "e",
+      "el",
+      "elr",
+      "elre",
+      "elreh",
+      "elreha",
+      "elrehab",
+      "elrehabc",
+      "elrehabci",
+      "elrehabcit",
+      "elrehabcity",
+      "15-1-elrehabcity",
+      "all"
+    ],
+    "UserEmail": "alys@s.com",
+    "Interested": "",
+    "ShareCodeCreatedOn": {
+      "_seconds": 1767788992,
+      "_nanoseconds": 379000000
+    },
+    "QuotationSent": false,
+    "Date&Time": {
+      "_seconds": 1767788992,
+      "_nanoseconds": 379000000
+    },
+    "__collections__": {
+      "Requested": [
+        {
+          "id": "7Jan",
+          "Package": "Prime",
+          "Date&Time": {
+            "_seconds": 1767788992,
+            "_nanoseconds": 382000000
+          },
+          "PropertyId": "15-1-ElRehabCity"
+        }
+      ],
+      "Users": [
+        {
+          "id": "alys@s.com",
+          "Group": "15",
+          "Area": "El Rehab City",
+          "Type": "Building",
+          "Email": "alys@s.com",
+          "Number": "1",
+          "Phone": "01000000000",
+          "FullName": "Aly ghaleb",
+          "AptNumber": "11"
+        }
+      ]
+    }
+  }
+}

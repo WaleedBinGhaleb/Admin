@@ -1,0 +1,76 @@
+{
+  "LatestSettings": {
+    "id": "LatestSettings",
+    "Addresses": {
+      "ChangeMaxCount": 3,
+      "MaxAddressesPerUser": 2,
+      "ChangeWindowDays": 30
+    },
+    "App": {
+      "UpdateCheckCooldownMinutes": 60,
+      "UpdateMessage": {
+        "ar": "هناك إصدار جديد من التطبيق متاح. يُرجى التحديث إلى أحدث نسخة.",
+        "en": "A new version of the app is available. Please update to the latest version."
+      },
+      "LifecycleDebounceSeconds": 2,
+      "ForceUpdateEnabled": false,
+      "PreventScreenshotEnabled": false,
+      "MaintenanceModeEnabled": false,
+      "MinSupportedVersion": "1.4.5-BETA",
+      "LatestVersion": "1.4.5-BETA",
+      "PresenceHeartbeatSeconds": 60,
+      "MaintenanceModeMessage": {
+        "ar": "نعتذر، نحن نقوم بأعمال صيانة حالياً.",
+        "en": "Sorry, we're doing maintenance right now."
+      }
+    },
+    "Catalogue": {
+      "CabinsPreviewLimit": 4,
+      "TestimonialsPreviewLimit": 6,
+      "FloorsPreviewLimit": 4,
+      "MachinesPreviewLimit": 4
+    },
+    "ElevoGo": {
+      "MaintenanceMessage": {
+        "ar": "نحن نعمل على تحسين خدمة ElevoGo لجعل صعودك بالمصعد أكثر سلاسة. شكرًا لك على صبرك!",
+        "en": "We're improving ElevoGo to make your elevator rides smoother. Thanks for your patience!"
+      },
+      "Enabled": false
+    },
+    "DebugUsers": [
+      "seo@s.com"
+    ],
+    "Audit": {
+      "Role": "Super",
+      "UpdatedBy": "wizzaz@protonmailcom",
+      "UpdatedAt": {
+        "_seconds": 1735689600,
+        "_nanoseconds": 0
+      }
+    },
+    "EleviAgent": {
+      "LauncherEnabled": false
+    },
+    "Auth": {
+      "RequireEmailVerification": true,
+      "BetaGateEnabled": true
+    },
+    "Elevators": {
+      "ContractsPreviewLimit": 20,
+      "ServiceHistoryPreviewLimit": 5,
+      "FaultsPreviewLimit": 6,
+      "ModificationsPreviewLimit": 5
+    },
+    "Maintenance": {
+      "MonthlyRequestLimit": 1,
+      "SchedulingEnabled": true
+    },
+    "Quotations": {
+      "FallbackTimerSeconds": 86400,
+      "Enabled": true,
+      "DoorsStreamLimit": 10,
+      "DefaultWaitHours": 48,
+      "MaxActivePerAddress": 1
+    }
+  }
+}

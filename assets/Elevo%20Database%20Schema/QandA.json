@@ -1,0 +1,59 @@
+{
+  "Electricity": {
+    "id": "Electricity",
+    "Tags": [
+      "Timeline",
+      "Electricity"
+    ],
+    "Active": true,
+    "UpdatedAt": {
+      "_seconds": 1755550800,
+      "_nanoseconds": 734000000
+    },
+    "Category": "Electricity",
+    "Answer": [
+      {
+        "UnhelpfulCounter": 0,
+        "ar": "يستغرق الأمر عادة من أسبوعين إلى أربعة أسابيع من لحظة التقديم عليه في شركة الكهرباء، لكن هذه المدة قابلة للتغيير من قبل شركة الكهرباء.",
+        "en": "It usually takes about two to four weeks from the moment we apply for it at the electricity company, but these times are subject to change by the electricity company.",
+        "HelpfulCounter": 0
+      },
+      {
+        "HelpfulCounter": 0,
+        "UnhelpfulCounter": 0,
+        "ar": "يعتمد ذلك على ما إذا كان المصعد مزوّدًا بإنفرتر أم لا، وعلى عدد مرات استخدامه يوميًا. يمكن للإنفرتر أن يوفر ما يصل إلى 70% من استهلاك الكهرباء. هذا مجرد تقدير. كبداية، يمكن شحن حوالي 200 جنيه للشهر الأول ومتابعة الاستهلاك، ثم زيادة أو تقليل المبلغ وفقًا للاستهلاك.",
+        "en": "It depends on whether your elevator has an inverter or not, and how many times it is used per day. The inverter can save up to 70% of the electricity. This is only an estimation. For starters, you may charge around 200 EGP for the first month and monitor the consumption, then increase or decrease the amount accordingly."
+      },
+      {
+        "ar": "يتم شحن المصعد والسلالم على نفس العداد، لكن البلدية هي التي تتولى عملية التسوية بالكامل. فهي تفصل التكاليف وتخصم حصة المصعد من رسوم الصيانة السنوية المفروضة على كل شقة. كشركة مصاعد، لا نتدخل إطلاقًا ولا نملك أي صلاحية فيما يتعلق بكيفية حساب أو توزيع هذه التكاليف.",
+        "HelpfulCounter": 0,
+        "en": "Both the elevator and the stairs are charged on the same meter, but the settlement is handled entirely by City Hall. They separate the costs and deduct the elevator’s share from the annual maintenance fee collected from each apartment. As an elevator company, we do not interfere in this process and have no authority over how it is calculated or distributed.",
+        "UnhelpfulCounter": 0
+      },
+      {
+        "HelpfulCounter": 0,
+        "en": "As an elevator company, we cannot make this request to the electricity company, nor does anyone have the authority to oblige them to separate it. The electricity company operates under its own regulations, which may change over time. Should any change occur, we will make sure to update you accordingly.",
+        "UnhelpfulCounter": 0,
+        "ar": "كشركة مصاعد، لا يمكننا تقديم هذا الطلب إلى شركة الكهرباء، كما لا يملك أي طرف صلاحية إلزامها بالفصل. شركة الكهرباء تعمل وفق أنظمتها الخاصة، التي قد تتغير مع مرور الوقت. وفي حال حدوث أي تغيير، سنحرص على إعلامكم بذلك."
+      }
+    ],
+    "Question": [
+      {
+        "en": "How long does it take to install the electricity meter?",
+        "ar": "كم من الوقت يستغرق تركيب عداد الكهرباء؟"
+      },
+      {
+        "ar": "كم من المال يجب شحنه في عداد الكهرباء شهريًا؟",
+        "en": "How much money is needed to be charged in the electricity meter per month?"
+      },
+      {
+        "en": "How can we separate between the electricity bill for the building’s stairs and the elevator’s since they are both on the same meter?",
+        "ar": "كيف يمكننا الفصل بين فاتورة كهرباء السلالم الخاصة بالمبنى وفاتورة المصعد، وهما على نفس العداد؟"
+      },
+      {
+        "en": "Can we request to separate the electricity meter bill so that the stairs and the elevator are charged separately?",
+        "ar": "هل يمكننا طلب فصل فاتورة عداد الكهرباء بحيث تُحسب السلالم والمصعد بشكل منفصل؟"
+      }
+    ]
+  }
+}
