@@ -1,0 +1,5432 @@
+{
+  "1-1-ElRehabCity": {
+    "id": "1-1-ElRehabCity",
+    "Property": {
+      "Address": "Ahmed Shawky",
+      "Type": "Building",
+      "Area": "El Rehab City",
+      "Group": "1",
+      "Number": "1",
+      "Model": "Z",
+      "Levels": 4,
+      "SignDate": {
+        "_seconds": 1769978217,
+        "_nanoseconds": 705000000
+      },
+      "PropertyId": "1-1-ElRehabCity"
+    },
+    "Contract": {
+      "Price": 850000,
+      "NumberOfMembers": 1,
+      "EFDate": {
+        "_seconds": 1767218400,
+        "_nanoseconds": 0
+      },
+      "Percentages": [
+        50,
+        50
+      ],
+      "WarrantyMonths": 12,
+      "DownPayment": 100000,
+      "Notes": ""
+    },
+    "Members": [
+      {
+        "Name": "Aly Ghaleb",
+        "AptNumber": 11,
+        "MobileNumber": "01000000000",
+        "SSN": "00000000000000",
+        "Paid": 0,
+        "DOP": {
+          "_seconds": 1767218400,
+          "_nanoseconds": 0
+        }
+      }
+    ],
+    "Ownership": "ElevoInstalled",
+    "SearchKey": [
+      "1",
+      "e",
+      "el",
+      "r",
+      "re",
+      "reh",
+      "reha",
+      "rehab",
+      "c",
+      "ci",
+      "cit",
+      "city",
+      "El Rehab City",
+      "all"
+    ],
+    "MaintenancePrice": 0,
+    "DOC": {
+      "_seconds": 1769978217,
+      "_nanoseconds": 705000000
+    },
+    "RequestedModify": false,
+    "RequestedEmergency": false,
+    "Status": "Under construction",
+    "__collections__": {
+      "MaintenanceContract": [
+        {
+          "id": "1-1-ElRehabCity",
+          "Status": null,
+          "RenewalRequestedAt": null,
+          "AutoRenew": false,
+          "CreatedAt": {
+            "_seconds": 1770475220,
+            "_nanoseconds": 634476000
+          },
+          "RenewalStatus": null,
+          "RenewalOffer": {
+            "Price": null,
+            "WarrantyMonths": null,
+            "Notes": null,
+            "ValidUntil": null
+          },
+          "RenewalDecision": {
+            "Status": null,
+            "DecidedAt": null,
+            "DecidedByEmail": null
+          },
+          "WarrantyMonths": 12,
+          "EndDate": null,
+          "UpdatedAt": {
+            "_seconds": 1770475220,
+            "_nanoseconds": 634476000
+          },
+          "RenewalCount": 0,
+          "StartDate": null,
+          "Price": null,
+          "RenewalRequested": false,
+          "RenewalAvail": false,
+          "CanRequestMaintenance": false,
+          "RenewalRequestedByEmail": null,
+          "RenewalRequestedByName": null,
+          "Notes": null
+        }
+      ],
+      "Members": [
+        {
+          "id": "demo@elevo.me",
+          "Group": "1",
+          "Area": "El Rehab City",
+          "Number": "1",
+          "Phone": "01000000000",
+          "FullName": "Demo Test",
+          "LastPrefUpdatedAt": {
+            "_seconds": 1769981202,
+            "_nanoseconds": 573000000
+          },
+          "AptNumber": "11",
+          "Notifications": true,
+          "ApprovedOn": {
+            "_seconds": 1769981200,
+            "_nanoseconds": 488000000
+          },
+          "PropertyId": "1-1-ElRehabCity",
+          "LastTokenSetAt": {
+            "_seconds": 1770177851,
+            "_nanoseconds": 246000000
+          },
+          "Locale": "ar"
+        },
+        {
+          "id": "w@s.com",
+          "Group": "1",
+          "Area": "El Rehab City",
+          "Number": "1",
+          "Phone": "01000000000",
+          "FullName": "Waleed Bin Talal",
+          "LastPrefUpdatedAt": {
+            "_seconds": 1769978279,
+            "_nanoseconds": 541000000
+          },
+          "AptNumber": "11",
+          "Notifications": true,
+          "ApprovedOn": {
+            "_seconds": 1769978277,
+            "_nanoseconds": 782000000
+          },
+          "PropertyId": "1-1-ElRehabCity",
+          "Locale": "en"
+        }
+      ],
+      "Requests": [
+        {
+          "id": "demo@elevo.me",
+          "AptNumber": "11",
+          "Area": "El Rehab City",
+          "Declined": false,
+          "Email": "demo@elevo.me",
+          "FullName": "Demo Test",
+          "Group": "1",
+          "Number": "1",
+          "PendingOn": {
+            "_seconds": 1769981192,
+            "_nanoseconds": 184000000
+          },
+          "Phone": "01000000000",
+          "PropertyId": "1-1-ElRehabCity",
+          "Type": "Building",
+          "Approved": true,
+          "ApprovedOn": {
+            "_seconds": 1769981200,
+            "_nanoseconds": 488000000
+          },
+          "Pending": false
+        },
+        {
+          "id": "w@s.com",
+          "AptNumber": "11",
+          "Area": "El Rehab City",
+          "Declined": false,
+          "Email": "w@s.com",
+          "FullName": "Waleed Bin Talal",
+          "Group": "1",
+          "Number": "1",
+          "PendingOn": {
+            "_seconds": 1769978268,
+            "_nanoseconds": 207999000
+          },
+          "Phone": "01000000000",
+          "PropertyId": "1-1-ElRehabCity",
+          "Type": "Building",
+          "Approved": true,
+          "ApprovedOn": {
+            "_seconds": 1769978277,
+            "_nanoseconds": 781000000
+          },
+          "Pending": false
+        }
+      ]
+    }
+  },
+  "11-19-ElRehabCity": {
+    "id": "11-19-ElRehabCity",
+    "CanRequestMaintenance": false,
+    "Contract": {
+      "DownPayment": 0,
+      "EFDate": {
+        "_seconds": 1770415200,
+        "_nanoseconds": 0
+      },
+      "Notes": "Old ones",
+      "NumberOfMembers": 1,
+      "Percentages": [
+        100
+      ],
+      "Price": 500000,
+      "WarrantyMonths": 6
+    },
+    "DOC": {
+      "_seconds": 1770479181,
+      "_nanoseconds": 0
+    },
+    "Members": [
+      {
+        "AptNumber": 42,
+        "DOP": {
+          "_seconds": 1770415200,
+          "_nanoseconds": 0
+        },
+        "MobileNumber": "01000000000",
+        "Name": "Khaled Newehy",
+        "Paid": 0,
+        "SSN": "00000000000000"
+      }
+    ],
+    "Ownership": "ElevoInstalled",
+    "Property": {
+      "Address": "Old Souq",
+      "Area": "El Rehab City",
+      "Group": "11",
+      "Levels": 4,
+      "Model": "Y",
+      "Number": "19",
+      "PropertyId": "11-19-ElRehabCity",
+      "SignDate": {
+        "_seconds": 1770479181,
+        "_nanoseconds": 281785000
+      },
+      "Type": "Building"
+    },
+    "RequestedEmergency": false,
+    "RequestedModify": false,
+    "SearchKey": [
+      "1",
+      "11",
+      "19",
+      "e",
+      "el",
+      "r",
+      "re",
+      "reh",
+      "reha",
+      "rehab",
+      "c",
+      "ci",
+      "cit",
+      "city",
+      "El Rehab City",
+      "all"
+    ],
+    "Status": "Active",
+    "__collections__": {
+      "MaintenanceContract": [
+        {
+          "id": "11-19-ElRehabCity",
+          "Status": null,
+          "RenewalRequestedAt": null,
+          "AutoRenew": false,
+          "CreatedAt": {
+            "_seconds": 1770479181,
+            "_nanoseconds": 985115000
+          },
+          "RenewalStatus": null,
+          "RenewalOffer": {
+            "Price": null,
+            "WarrantyMonths": null,
+            "Notes": null,
+            "ValidUntil": null
+          },
+          "RenewalDecision": {
+            "Status": null,
+            "DecidedAt": null,
+            "DecidedByEmail": null
+          },
+          "WarrantyMonths": 6,
+          "EndDate": null,
+          "UpdatedAt": null,
+          "RenewalCount": null,
+          "StartDate": null,
+          "Price": null,
+          "RenewalRequested": false,
+          "RenewalAvail": false,
+          "CanRequestMaintenance": false,
+          "RenewalRequestedByEmail": null,
+          "RenewalRequestedByName": null,
+          "Notes": null
+        }
+      ]
+    }
+  },
+  "11-4-ElRehabCity": {
+    "id": "11-4-ElRehabCity",
+    "Contract": {
+      "Percentages": [
+        50
+      ],
+      "Price": 590000,
+      "EFDate": {
+        "_seconds": 1735682400,
+        "_nanoseconds": 0
+      },
+      "NumberOfMembers": 1,
+      "DownPayment": 275000,
+      "WarrantyMonths": 12,
+      "Notes": "15K remaining to the begining of August."
+    },
+    "Members": [
+      {
+        "MobileNumber": "01122392992",
+        "DOP": {
+          "_seconds": 1721336400,
+          "_nanoseconds": 0
+        },
+        "Paid": 275000,
+        "AptNumber": 42,
+        "Name": "Tawfik Ali Mohamed Hussain",
+        "SSN": "00000000000000"
+      }
+    ],
+    "SearchKey": [
+      "1",
+      "11",
+      "4",
+      "e",
+      "el",
+      "r",
+      "re",
+      "reh",
+      "reha",
+      "rehab",
+      "c",
+      "ci",
+      "cit",
+      "city",
+      "all",
+      "all"
+    ],
+    "DOC": {
+      "_seconds": 1721336400,
+      "_nanoseconds": 323000000
+    },
+    "RequestedModify": false,
+    "Property": {
+      "Area": "El Rehab City",
+      "Type": "Building",
+      "Number": "4",
+      "Model": "Z",
+      "Levels": 4,
+      "SignDate": {
+        "_seconds": 1721336400,
+        "_nanoseconds": 0
+      },
+      "Address": "Ahmed Mohsen Street",
+      "PropertyId": "11-4-ElRehabCity",
+      "Group": "11"
+    },
+    "MaintenanceStart": {
+      "_seconds": 1737756000,
+      "_nanoseconds": 0
+    },
+    "RequestedEmergency": false,
+    "Status": "Active",
+    "MaintenanceEnd": {
+      "_seconds": 1769292000,
+      "_nanoseconds": 0
+    },
+    "CanRequestMaintenance": false,
+    "MaintenancePrice": 600,
+    "Contract.WarrantyMonths": 1,
+    "__collections__": {
+      "Contracts": [
+        {
+          "id": "ElevatorContract",
+          "Title": "Elevator Contract",
+          "Name": "G11 B4 Contract",
+          "URL": "https://firebasestorage.googleapis.com/v0/b/elevooo.appspot.com/o/Contracts%2F11-4-ElRehabCity%2F20241019_191931.pdf?alt=media&token=798bc6c7-abfc-4636-8bd9-272ab597f5a3",
+          "Date": {
+            "_seconds": 1727298000,
+            "_nanoseconds": 0
+          },
+          "Available": false
+        },
+        {
+          "id": "ElevatorProposal",
+          "Title": "Elevator Proposal",
+          "Name": "G11 B4 Proposal",
+          "URL": "https://firebasestorage.googleapis.com/v0/b/elevooo.appspot.com/o/Contracts%2F11-4-ElRehabCity%2F20241019_191931.pdf?alt=media&token=798bc6c7-abfc-4636-8bd9-272ab597f5a3",
+          "Date": {
+            "_seconds": 1739311200,
+            "_nanoseconds": 798000000
+          },
+          "Available": false
+        }
+      ],
+      "MaintenanceContract": [
+        {
+          "id": "11-4-ElRehabCity",
+          "CreatedAt": {
+            "_seconds": 1770495304,
+            "_nanoseconds": 480729000
+          },
+          "CanRequestMaintenance": false,
+          "WarrantyMonths": 12,
+          "RenewalOffer": {
+            "Notes": null,
+            "Price": 500,
+            "ValidUntil": {
+              "_seconds": 1770588000,
+              "_nanoseconds": 0
+            },
+            "MaintenanceMonths": 1,
+            "StartDate": {
+              "_seconds": 1769896800,
+              "_nanoseconds": 0
+            },
+            "EndDate": {
+              "_seconds": 1772316000,
+              "_nanoseconds": 0
+            }
+          },
+          "RenewalAvail": false,
+          "RenewalDecision": {
+            "DecidedByEmail": "d@s.com",
+            "Status": "Approved",
+            "DecidedAt": {
+              "_seconds": 1770503321,
+              "_nanoseconds": 908000000
+            }
+          },
+          "StartDate": {
+            "_seconds": 1769896800,
+            "_nanoseconds": 0
+          },
+          "Status": "Active",
+          "Price": 500,
+          "EndDate": {
+            "_seconds": 1772316000,
+            "_nanoseconds": 0
+          },
+          "Renewal": {
+            "Requested": true,
+            "RequestedByEmail": "d@s.com",
+            "RequestedName": "Ahmed Mohsen",
+            "RequestedAt": {
+              "_seconds": 1770502242,
+              "_nanoseconds": 208000000
+            },
+            "Status": "Approved",
+            "Count": 1
+          },
+          "AutoRenewedBy": "Ahmed Mohsen",
+          "AutoRenew": false,
+          "UpdatedAt": {
+            "_seconds": 1770503457,
+            "_nanoseconds": 309000000
+          },
+          "AutoRenewedOn": {
+            "_seconds": 1770503457,
+            "_nanoseconds": 309000000
+          }
+        }
+      ],
+      "Members": [
+        {
+          "id": "d@s.com",
+          "FullName": "Ahmed Mohsen",
+          "Area": "El Rehab City",
+          "Group": "11",
+          "Number": "4",
+          "AptNumber": "12",
+          "Phone": "01000000000",
+          "ApprovedOn": {
+            "_seconds": 1740307133,
+            "_nanoseconds": 556000000
+          },
+          "PropertyId": "11-4-ElRehabCity",
+          "LastPrefUpdatedAt": {
+            "_seconds": 1766020242,
+            "_nanoseconds": 771000000
+          },
+          "Notifications": true,
+          "DeviceId": "c0EISctkR86bySZNjk6HkO:APA91bHgB4BIMu859mqYth2NdbuojRqgmT0AF1tHYkd_RNtAeoGFiX_iVd6dlLg65DQ8k1vBj33vTKw48MrYRD57dF2wOy4XEyRjX03EJ1g_SaTBfNeUhS4",
+          "LastTokenSetAt": {
+            "_seconds": 1770466764,
+            "_nanoseconds": 939000000
+          },
+          "Locale": "en"
+        },
+        {
+          "id": "laura@s.com",
+          "Group": "11",
+          "Area": "El Rehab City",
+          "Number": "4",
+          "Phone": "01000000000",
+          "AptNumber": "22",
+          "ApprovedOn": {
+            "_seconds": 1726160378,
+            "_nanoseconds": 680000000
+          },
+          "FullName": "Laura Martinez",
+          "PropertyId": "11-4-ElRehabCity",
+          "LastPrefUpdatedAt": {
+            "_seconds": 1758486796,
+            "_nanoseconds": 366000000
+          },
+          "Notifications": true,
+          "Locale": "ar",
+          "DeviceId": "fsqgRRXKRZyM3h4Ear78HQ:APA91bEnWQ1vpAzXPwngwXfC1pgQzuFbYkBIrl_1WYPVyICwbTw83sj76Nnd50bwOgjfYdTwl_Fei8q--m1vRpDRgnVzZZQVc04Mfm6OrgSlimgmSkSNkhw",
+          "LastTokenSetAt": {
+            "_seconds": 1768250307,
+            "_nanoseconds": 368000000
+          }
+        },
+        {
+          "id": "mat@s.com",
+          "LastTokenSetAt": {
+            "_seconds": 1767789100,
+            "_nanoseconds": 232000000
+          },
+          "Notifications": true,
+          "Locale": "ar"
+        }
+      ],
+      "Requests": [
+        {
+          "id": "d@s.com",
+          "AptNumber": "12",
+          "Area": "El Rehab City",
+          "Declined": false,
+          "Email": "d@s.com",
+          "FullName": "Ahmed Mohsen",
+          "Group": "11",
+          "Number": "4",
+          "PendingOn": {
+            "_seconds": 1740307122,
+            "_nanoseconds": 721999000
+          },
+          "Phone": "01000000000",
+          "PropertyId": "11-4-ElRehabCity",
+          "Type": "Building",
+          "Approved": true,
+          "ApprovedOn": {
+            "_seconds": 1740307133,
+            "_nanoseconds": 74000000
+          },
+          "Pending": false
+        }
+      ]
+    }
+  },
+  "13-12-ElRehabCity": {
+    "id": "13-12-ElRehabCity",
+    "CanRequestMaintenance": false,
+    "Contract": {
+      "DownPayment": 0,
+      "EFDate": {
+        "_seconds": 1748725200,
+        "_nanoseconds": 0
+      },
+      "Notes": "Old ones don't take numbers seriously.",
+      "NumberOfMembers": 1,
+      "Percentages": [
+        100
+      ],
+      "Price": 650000,
+      "WarrantyMonths": 6
+    },
+    "DOC": {
+      "_seconds": 1770474710,
+      "_nanoseconds": 0
+    },
+    "Members": [
+      {
+        "AptNumber": 32,
+        "DOP": {
+          "_seconds": 1748725200,
+          "_nanoseconds": 0
+        },
+        "MobileNumber": "01000000000",
+        "Name": "Mohamed",
+        "Paid": 0,
+        "SSN": "00000000000000"
+      }
+    ],
+    "Ownership": "ElevoInstalled",
+    "Property": {
+      "Address": "Rehab Mall 1",
+      "Area": "El Rehab City",
+      "Group": "13",
+      "Levels": 4,
+      "Model": "Z",
+      "Number": "12",
+      "PropertyId": "13-12-ElRehabCity",
+      "SignDate": {
+        "_seconds": 1770474710,
+        "_nanoseconds": 642273000
+      },
+      "Type": "Building"
+    },
+    "RequestedEmergency": false,
+    "RequestedModify": false,
+    "SearchKey": [
+      "1",
+      "13",
+      "12",
+      "e",
+      "el",
+      "r",
+      "re",
+      "reh",
+      "reha",
+      "rehab",
+      "c",
+      "ci",
+      "cit",
+      "city",
+      "El Rehab City",
+      "all"
+    ],
+    "Status": "Active",
+    "__collections__": {
+      "MaintenanceContract": [
+        {
+          "id": "13-12-ElRehabCity",
+          "Status": null,
+          "RenewalRequestedAt": null,
+          "AutoRenew": false,
+          "CreatedAt": {
+            "_seconds": 1770474711,
+            "_nanoseconds": 390312000
+          },
+          "RenewalStatus": null,
+          "RenewalOffer": {
+            "Price": null,
+            "WarrantyMonths": null,
+            "Notes": null,
+            "ValidUntil": null
+          },
+          "RenewalDecision": {
+            "Status": null,
+            "DecidedAt": null,
+            "DecidedByEmail": null
+          },
+          "WarrantyMonths": 6,
+          "EndDate": null,
+          "UpdatedAt": null,
+          "RenewalCount": null,
+          "StartDate": null,
+          "Price": null,
+          "RenewalRequested": false,
+          "RenewalAvail": false,
+          "CanRequestMaintenance": false,
+          "RenewalRequestedByEmail": null,
+          "RenewalRequestedByName": null,
+          "Notes": null
+        }
+      ]
+    }
+  },
+  "13-4-ElRehabCity": {
+    "id": "13-4-ElRehabCity",
+    "CanRequestMaintenance": false,
+    "DOC": {
+      "_seconds": 1770474841,
+      "_nanoseconds": 0
+    },
+    "Ownership": "ElevoInstalled",
+    "RequestedEmergency": false,
+    "RequestedModify": false,
+    "SearchKey": [
+      "1",
+      "13",
+      "4",
+      "e",
+      "el",
+      "r",
+      "re",
+      "reh",
+      "reha",
+      "rehab",
+      "c",
+      "ci",
+      "cit",
+      "city",
+      "El Rehab City",
+      "all"
+    ],
+    "Status": "Active",
+    "MaintenancePrice": 0,
+    "Contract": {
+      "DownPayment": 0,
+      "EFDate": {
+        "_seconds": 1590962400,
+        "_nanoseconds": 0
+      },
+      "NumberOfMembers": 1,
+      "Percentages": [
+        100
+      ],
+      "Price": 350000,
+      "WarrantyMonths": 12,
+      "Notes": "Old ones."
+    },
+    "Property": {
+      "Address": "Rehab Mall 1",
+      "Area": "El Rehab City",
+      "Group": "13",
+      "Levels": 4,
+      "Model": "Z",
+      "Number": "4",
+      "PropertyId": "13-4-ElRehabCity",
+      "Type": "Building",
+      "SignDate": {
+        "_seconds": 1770476391,
+        "_nanoseconds": 223726000
+      }
+    },
+    "Members": [
+      {
+        "AptNumber": 42,
+        "DOP": {
+          "_seconds": 1577829600,
+          "_nanoseconds": 0
+        },
+        "MobileNumber": "01000000000",
+        "Name": "Hossam Reda",
+        "Paid": 0,
+        "SSN": "00000000000000"
+      }
+    ],
+    "__collections__": {
+      "MaintenanceContract": [
+        {
+          "id": "13-4-ElRehabCity",
+          "Status": null,
+          "RenewalRequestedAt": null,
+          "AutoRenew": false,
+          "CreatedAt": {
+            "_seconds": 1770474841,
+            "_nanoseconds": 791572000
+          },
+          "RenewalStatus": null,
+          "RenewalOffer": {
+            "Price": null,
+            "WarrantyMonths": null,
+            "Notes": null,
+            "ValidUntil": null
+          },
+          "RenewalDecision": {
+            "Status": null,
+            "DecidedAt": null,
+            "DecidedByEmail": null
+          },
+          "WarrantyMonths": 12,
+          "EndDate": null,
+          "UpdatedAt": null,
+          "RenewalCount": null,
+          "StartDate": null,
+          "Price": null,
+          "RenewalRequested": false,
+          "RenewalAvail": false,
+          "CanRequestMaintenance": false,
+          "RenewalRequestedByEmail": null,
+          "RenewalRequestedByName": null,
+          "Notes": null
+        }
+      ]
+    }
+  },
+  "16-11-ElRehabCity": {
+    "id": "16-11-ElRehabCity",
+    "Property": {
+      "Address": "Ahmde Shawqi",
+      "Type": "Building",
+      "Area": "El Rehab City",
+      "Group": "16",
+      "Number": "11",
+      "Model": "Z",
+      "Levels": 4,
+      "SignDate": {
+        "_seconds": 1737583200,
+        "_nanoseconds": 0
+      },
+      "PropertyId": "16-11-ElRehabCity"
+    },
+    "Members": [
+      {
+        "Name": "Maha AlFouli",
+        "AptNumber": 41,
+        "MobileNumber": "01000000000",
+        "SSN": "00000000000000",
+        "Paid": 337500,
+        "DOP": {
+          "_seconds": 1737669600,
+          "_nanoseconds": 0
+        }
+      }
+    ],
+    "SearchKey": [
+      "1",
+      "16",
+      "11",
+      "e",
+      "el",
+      "r",
+      "re",
+      "reh",
+      "reha",
+      "rehab",
+      "c",
+      "ci",
+      "cit",
+      "city",
+      "El Rehab City",
+      "all"
+    ],
+    "MaintenancePrice": 0,
+    "DOC": {
+      "_seconds": 1761654778,
+      "_nanoseconds": 970000000
+    },
+    "RequestedModify": false,
+    "RequestedEmergency": false,
+    "MaintenanceStart": {
+      "_seconds": 1770156000,
+      "_nanoseconds": 0
+    },
+    "Contract": {
+      "Price": 675000,
+      "NumberOfMembers": 1,
+      "Percentages": [
+        50,
+        20,
+        20,
+        8,
+        2
+      ],
+      "WarrantyMonths": 12,
+      "DownPayment": 337500,
+      "Notes": "",
+      "EFDate": {
+        "_seconds": 1770156000,
+        "_nanoseconds": 0
+      }
+    },
+    "Status": "Active",
+    "__collections__": {
+      "MaintenanceContract": [
+        {
+          "id": "16-11-ElRehabCity",
+          "Status": null,
+          "RenewalRequestedAt": null,
+          "AutoRenew": false,
+          "CreatedAt": {
+            "_seconds": 1770475225,
+            "_nanoseconds": 747468000
+          },
+          "RenewalStatus": null,
+          "RenewalOffer": {
+            "Price": null,
+            "WarrantyMonths": null,
+            "Notes": null,
+            "ValidUntil": null
+          },
+          "RenewalDecision": {
+            "Status": null,
+            "DecidedAt": null,
+            "DecidedByEmail": null
+          },
+          "WarrantyMonths": 12,
+          "EndDate": null,
+          "UpdatedAt": {
+            "_seconds": 1770475225,
+            "_nanoseconds": 747468000
+          },
+          "RenewalCount": 0,
+          "StartDate": null,
+          "Price": null,
+          "RenewalRequested": false,
+          "RenewalAvail": false,
+          "CanRequestMaintenance": false,
+          "RenewalRequestedByEmail": null,
+          "RenewalRequestedByName": null,
+          "Notes": null
+        }
+      ],
+      "Milestones": [
+        {
+          "id": "16-11-ElRehabCity",
+          "Status": "Starting Construction",
+          "ArabicStatus": "إنشاء غرفة الماكينات",
+          "Milestones": [
+            {
+              "ArabicTitle": "الحصول على تراخيص المباني",
+              "Available": true,
+              "EndDate": {
+                "_seconds": 1737928800,
+                "_nanoseconds": 0
+              },
+              "StartDate": {
+                "_seconds": 1737842400,
+                "_nanoseconds": 0
+              },
+              "Status": "Finished",
+              "Title": "Obtaining building permits"
+            },
+            {
+              "ArabicTitle": "الحصول على التراخيص من الجهاز",
+              "Available": true,
+              "EndDate": {
+                "_seconds": 1764626400,
+                "_nanoseconds": 0
+              },
+              "StartDate": {
+                "_seconds": 1738447200,
+                "_nanoseconds": 0
+              },
+              "Status": "Finished",
+              "Title": "Obtaining licenses for City Hall"
+            },
+            {
+              "ArabicTitle": "تركيب عداد الكهرباء",
+              "Available": true,
+              "EndDate": {
+                "_seconds": 1764972000,
+                "_nanoseconds": 0
+              },
+              "StartDate": {
+                "_seconds": 1764972000,
+                "_nanoseconds": 0
+              },
+              "Status": "Finished",
+              "Title": "Installing electricity meter"
+            },
+            {
+              "ArabicTitle": "بدء أعمال البناء",
+              "Available": true,
+              "EndDate": {
+                "_seconds": 1765231200,
+                "_nanoseconds": 0
+              },
+              "StartDate": {
+                "_seconds": 1765231200,
+                "_nanoseconds": 0
+              },
+              "Status": "Finished",
+              "Title": "Starting Construction"
+            },
+            {
+              "ArabicTitle": "تحضير حفرة المصعد",
+              "Available": true,
+              "EndDate": {
+                "_seconds": 1765231200,
+                "_nanoseconds": 0
+              },
+              "StartDate": {
+                "_seconds": 1765231200,
+                "_nanoseconds": 0
+              },
+              "Status": "Finished",
+              "Title": "Preparing the elevator pit"
+            },
+            {
+              "ArabicTitle": "تكسير الأسقف",
+              "Available": true,
+              "EndDate": {
+                "_seconds": 1765663200,
+                "_nanoseconds": 0
+              },
+              "StartDate": {
+                "_seconds": 1765317600,
+                "_nanoseconds": 0
+              },
+              "Status": "Finished",
+              "Title": "Ceiling dismantling"
+            },
+            {
+              "ArabicTitle": "تركيب الأساس",
+              "Available": true,
+              "EndDate": {
+                "_seconds": 1765922400,
+                "_nanoseconds": 0
+              },
+              "StartDate": {
+                "_seconds": 1765663200,
+                "_nanoseconds": 0
+              },
+              "Status": "Finished",
+              "Title": "Installing the foundation"
+            },
+            {
+              "ArabicTitle": "تركيب القضبان والأبواب",
+              "Available": true,
+              "EndDate": {
+                "_seconds": 1766613600,
+                "_nanoseconds": 0
+              },
+              "StartDate": {
+                "_seconds": 1766440800,
+                "_nanoseconds": 0
+              },
+              "Status": "Finished",
+              "Title": "Installing rails & doors"
+            },
+            {
+              "ArabicTitle": "إنشاء غرفة الماكينات",
+              "Available": true,
+              "EndDate": {
+                "_seconds": 1766593699,
+                "_nanoseconds": 240000000
+              },
+              "StartDate": {
+                "_seconds": 1766613600,
+                "_nanoseconds": 0
+              },
+              "Status": "Ongoing",
+              "Title": "Building machine room"
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "16-9-ElRehabCity": {
+    "id": "16-9-ElRehabCity",
+    "SearchKey": [
+      "1",
+      "16",
+      "9",
+      "e",
+      "el",
+      "r",
+      "re",
+      "reh",
+      "reha",
+      "rehab",
+      "c",
+      "ci",
+      "cit",
+      "city",
+      "El Rehab City",
+      "all"
+    ],
+    "Members": [
+      {
+        "MobileNumber": "01100666027",
+        "DOP": {
+          "_seconds": 1609452000,
+          "_nanoseconds": 0
+        },
+        "Paid": 125000,
+        "AptNumber": 32,
+        "Name": "Hossam Madbouly",
+        "SSN": "01000000000000"
+      }
+    ],
+    "Property": {
+      "Group": "16",
+      "Area": "El Rehab City",
+      "Type": "Building",
+      "Address": "Ahmed Shawqy Street",
+      "Number": "9",
+      "Model": "Z",
+      "Levels": 4,
+      "SignDate": {
+        "_seconds": 1609452000,
+        "_nanoseconds": 0
+      },
+      "PropertyId": "16-9-ElRehabCity"
+    },
+    "DOC": {
+      "_seconds": 1641333600,
+      "_nanoseconds": 388000000
+    },
+    "MaintenancePrice": 500,
+    "Contract": {
+      "Percentages": [
+        100
+      ],
+      "Price": 325000,
+      "EFDate": {
+        "_seconds": 1617228000,
+        "_nanoseconds": 0
+      },
+      "NumberOfMembers": 1,
+      "DownPayment": 125000,
+      "WarrantyMonths": 12,
+      "Notes": "",
+      "WarrantyEnds": {
+        "_seconds": 1648850400,
+        "_nanoseconds": 0
+      }
+    },
+    "MaintenanceStart": {
+      "_seconds": 1735682400,
+      "_nanoseconds": 0
+    },
+    "MaintenanceEnd": {
+      "_seconds": 1767218400,
+      "_nanoseconds": 0
+    },
+    "RequestedEmergency": false,
+    "RequestedModify": false,
+    "Status": "Active",
+    "__collections__": {
+      "Faults": [
+        {
+          "id": "10:19am-AhmedMohsen",
+          "Date": {
+            "_seconds": 1762417161,
+            "_nanoseconds": 529999000
+          },
+          "Description": "",
+          "FaultId": "10:19am-AhmedMohsen",
+          "FaultType": "Elevator not moving",
+          "Phone": "01001800355",
+          "ReportedBy": "Ahmed Mohsen",
+          "Status": "Finished",
+          "ResolveDate": {
+            "_seconds": 1762461009,
+            "_nanoseconds": 89000000
+          }
+        }
+      ],
+      "MaintenanceContract": [
+        {
+          "id": "16-9-ElRehabCity",
+          "Status": null,
+          "RenewalRequestedAt": null,
+          "AutoRenew": false,
+          "CreatedAt": {
+            "_seconds": 1770475227,
+            "_nanoseconds": 849340000
+          },
+          "RenewalStatus": null,
+          "RenewalOffer": {
+            "Price": null,
+            "WarrantyMonths": null,
+            "Notes": null,
+            "ValidUntil": null
+          },
+          "RenewalDecision": {
+            "Status": null,
+            "DecidedAt": null,
+            "DecidedByEmail": null
+          },
+          "WarrantyMonths": 12,
+          "RenewalCount": 0,
+          "RenewalRequested": false,
+          "RenewalAvail": false,
+          "CanRequestMaintenance": false,
+          "RenewalRequestedByEmail": null,
+          "RenewalRequestedByName": null,
+          "Notes": null,
+          "StartDate": {
+            "_seconds": 1767218400,
+            "_nanoseconds": 0
+          },
+          "EndDate": {
+            "_seconds": 1798754400,
+            "_nanoseconds": 0
+          },
+          "Price": 500,
+          "UpdatedAt": {
+            "_seconds": 1770476048,
+            "_nanoseconds": 672303000
+          }
+        }
+      ],
+      "Members": [
+        {
+          "id": "d@s.com",
+          "Group": "16",
+          "Area": "El Rehab City",
+          "Number": "9",
+          "Phone": "01000000000",
+          "AptNumber": "22",
+          "ApprovedOn": {
+            "_seconds": 1728137355,
+            "_nanoseconds": 0
+          },
+          "FullName": "Ahmed Mohsen",
+          "PropertyId": "16-9-ElRehabCity",
+          "LastPrefUpdatedAt": {
+            "_seconds": 1766020020,
+            "_nanoseconds": 55000000
+          },
+          "Notifications": true,
+          "DeviceId": "c0EISctkR86bySZNjk6HkO:APA91bHgB4BIMu859mqYth2NdbuojRqgmT0AF1tHYkd_RNtAeoGFiX_iVd6dlLg65DQ8k1vBj33vTKw48MrYRD57dF2wOy4XEyRjX03EJ1g_SaTBfNeUhS4",
+          "LastTokenSetAt": {
+            "_seconds": 1770466764,
+            "_nanoseconds": 939000000
+          },
+          "Locale": "en"
+        },
+        {
+          "id": "elevoelevators@gmail.com",
+          "FullName": "Elevo Support",
+          "Area": "El Rehab City",
+          "Group": "16",
+          "Number": "9",
+          "AptNumber": "11",
+          "Phone": "01000000000",
+          "ApprovedOn": {
+            "_seconds": 1753813757,
+            "_nanoseconds": 945000000
+          },
+          "PropertyId": "16-9-ElRehabCity",
+          "Notifications": true,
+          "LastTokenSetAt": {
+            "_seconds": 1758559492,
+            "_nanoseconds": 265000000
+          }
+        }
+      ],
+      "Modifications": [
+        {
+          "id": "10Feb-SeoYaji",
+          "FullName": "Seo Yaji",
+          "Phone": "0100502000",
+          "Date": {
+            "_seconds": 1739138400,
+            "_nanoseconds": 404000000
+          },
+          "Request": "Change the locks on the door",
+          "Available": false,
+          "Status": "Finished"
+        },
+        {
+          "id": "11Feb-AhmedMohsen-1912",
+          "Available": true,
+          "Date": {
+            "_seconds": 1739427552,
+            "_nanoseconds": 362999000
+          },
+          "FullName": "Ahmed Mohsen",
+          "Phone": "01001800355",
+          "Request": "hey",
+          "Status": "Finished"
+        },
+        {
+          "id": "11Feb-SeoYaji",
+          "Request": "Do something with the lights please!",
+          "Phone": "0100502000",
+          "Date": {
+            "_seconds": 1739224800,
+            "_nanoseconds": 404000000
+          },
+          "FullName": "Seo Yaji",
+          "Available": false,
+          "Status": "Finished"
+        }
+      ],
+      "Requests": [
+        {
+          "id": "elevoelevators@gmail.com",
+          "Group": "16",
+          "Email": "elevoelevators@gmail.com",
+          "PropertyId": "16-9-ElRehabCity",
+          "PendingOn": {
+            "_seconds": 1753813748,
+            "_nanoseconds": 226000000
+          },
+          "Type": "Building",
+          "Area": "El Rehab City",
+          "Number": "9",
+          "Declined": false,
+          "Phone": "01000000000",
+          "FullName": "Elevo Support",
+          "AptNumber": "11",
+          "Approved": true,
+          "ApprovedOn": {
+            "_seconds": 1753813757,
+            "_nanoseconds": 267000000
+          },
+          "Pending": false
+        }
+      ]
+    }
+  },
+  "17-7-ElRehabCity": {
+    "id": "17-7-ElRehabCity",
+    "CanRequestMaintenance": false,
+    "Contract": {
+      "DownPayment": 0,
+      "EFDate": {
+        "_seconds": 1770415200,
+        "_nanoseconds": 0
+      },
+      "Notes": "Old ones",
+      "NumberOfMembers": 1,
+      "Percentages": [
+        100
+      ],
+      "Price": 315000,
+      "WarrantyMonths": 6
+    },
+    "DOC": {
+      "_seconds": 1770479627,
+      "_nanoseconds": 0
+    },
+    "Members": [
+      {
+        "AptNumber": 41,
+        "DOP": {
+          "_seconds": 1770415200,
+          "_nanoseconds": 0
+        },
+        "MobileNumber": "01000000000",
+        "Name": "Khaled",
+        "Paid": 0,
+        "SSN": "00000000000000"
+      }
+    ],
+    "Ownership": "ElevoInstalled",
+    "Property": {
+      "Address": "Ahmed Shawqy",
+      "Area": "El Rehab City",
+      "Group": "17",
+      "Levels": 4,
+      "Model": "Y",
+      "Number": "7",
+      "PropertyId": "17-7-ElRehabCity",
+      "SignDate": {
+        "_seconds": 1770479627,
+        "_nanoseconds": 448850000
+      },
+      "Type": "Building"
+    },
+    "RequestedEmergency": false,
+    "RequestedModify": false,
+    "SearchKey": [
+      "1",
+      "17",
+      "7",
+      "e",
+      "el",
+      "r",
+      "re",
+      "reh",
+      "reha",
+      "rehab",
+      "c",
+      "ci",
+      "cit",
+      "city",
+      "El Rehab City",
+      "all"
+    ],
+    "Status": "Active",
+    "__collections__": {
+      "MaintenanceContract": [
+        {
+          "id": "17-7-ElRehabCity",
+          "Status": null,
+          "RenewalRequestedAt": null,
+          "AutoRenew": false,
+          "CreatedAt": {
+            "_seconds": 1770479628,
+            "_nanoseconds": 134142000
+          },
+          "RenewalStatus": null,
+          "RenewalOffer": {
+            "Price": null,
+            "WarrantyMonths": null,
+            "Notes": null,
+            "ValidUntil": null
+          },
+          "RenewalDecision": {
+            "Status": null,
+            "DecidedAt": null,
+            "DecidedByEmail": null
+          },
+          "WarrantyMonths": 6,
+          "EndDate": null,
+          "UpdatedAt": null,
+          "RenewalCount": null,
+          "StartDate": null,
+          "Price": null,
+          "RenewalRequested": false,
+          "RenewalAvail": false,
+          "CanRequestMaintenance": false,
+          "RenewalRequestedByEmail": null,
+          "RenewalRequestedByName": null,
+          "Notes": null
+        }
+      ]
+    }
+  },
+  "2-3-ElRehabCity": {
+    "id": "2-3-ElRehabCity",
+    "Property": {
+      "Address": "Group 2 - Building 3",
+      "Type": "Building",
+      "Area": "El Rehab City",
+      "Group": "2",
+      "Number": "3",
+      "Model": "X",
+      "Levels": 4,
+      "SignDate": {
+        "_seconds": 1767532790,
+        "_nanoseconds": 919000000
+      },
+      "PropertyId": "2-3-ElRehabCity"
+    },
+    "Contract": {
+      "Price": 750000,
+      "NumberOfMembers": 1,
+      "EFDate": {
+        "_seconds": 1785531600,
+        "_nanoseconds": 0
+      },
+      "Percentages": [
+        46,
+        32,
+        22
+      ],
+      "WarrantyMonths": 12,
+      "DownPayment": 100000,
+      "Notes": "took 100K on 3rd of Jan 2026 while waiting for the rest."
+    },
+    "Members": [
+      {
+        "Name": "Osama Mahmoud",
+        "AptNumber": 41,
+        "MobileNumber": "01000000000",
+        "SSN": "25912062101516",
+        "Paid": 50000,
+        "DOP": {
+          "_seconds": 1767391200,
+          "_nanoseconds": 0
+        }
+      }
+    ],
+    "Status": "Under construction",
+    "SearchKey": [
+      "2",
+      "3",
+      "e",
+      "el",
+      "r",
+      "re",
+      "reh",
+      "reha",
+      "rehab",
+      "c",
+      "ci",
+      "cit",
+      "city",
+      "El Rehab City",
+      "all"
+    ],
+    "MaintenancePrice": 0,
+    "DOC": {
+      "_seconds": 1767532790,
+      "_nanoseconds": 919000000
+    },
+    "RequestedModify": false,
+    "RequestedEmergency": false,
+    "__collections__": {
+      "MaintenanceContract": [
+        {
+          "id": "2-3-ElRehabCity",
+          "Status": null,
+          "RenewalRequestedAt": null,
+          "AutoRenew": false,
+          "CreatedAt": {
+            "_seconds": 1770475229,
+            "_nanoseconds": 665352000
+          },
+          "RenewalStatus": null,
+          "RenewalOffer": {
+            "Price": null,
+            "WarrantyMonths": null,
+            "Notes": null,
+            "ValidUntil": null
+          },
+          "RenewalDecision": {
+            "Status": null,
+            "DecidedAt": null,
+            "DecidedByEmail": null
+          },
+          "WarrantyMonths": 12,
+          "EndDate": null,
+          "UpdatedAt": {
+            "_seconds": 1770475229,
+            "_nanoseconds": 665352000
+          },
+          "RenewalCount": 0,
+          "StartDate": null,
+          "Price": null,
+          "RenewalRequested": false,
+          "RenewalAvail": false,
+          "CanRequestMaintenance": false,
+          "RenewalRequestedByEmail": null,
+          "RenewalRequestedByName": null,
+          "Notes": null
+        }
+      ]
+    }
+  },
+  "2-6-ElRehabCity": {
+    "id": "2-6-ElRehabCity",
+    "Property": {
+      "Address": "Ahmed Shawqi",
+      "Type": "Building",
+      "Area": "El Rehab City",
+      "Group": "2",
+      "Number": "6",
+      "Model": "Z",
+      "Levels": 4,
+      "SignDate": {
+        "_seconds": 1737583200,
+        "_nanoseconds": 0
+      },
+      "PropertyId": "2-6-ElRehabCity"
+    },
+    "Members": [
+      {
+        "Name": "Yasser Kotb",
+        "AptNumber": 41,
+        "MobileNumber": "01000000000",
+        "SSN": "00000000000000",
+        "Paid": 342500,
+        "DOP": {
+          "_seconds": 1737669600,
+          "_nanoseconds": 0
+        }
+      }
+    ],
+    "SearchKey": [
+      "2",
+      "6",
+      "e",
+      "el",
+      "r",
+      "re",
+      "reh",
+      "reha",
+      "rehab",
+      "c",
+      "ci",
+      "cit",
+      "city",
+      "El Rehab City",
+      "all"
+    ],
+    "MaintenancePrice": 0,
+    "DOC": {
+      "_seconds": 1761654931,
+      "_nanoseconds": 412000000
+    },
+    "RequestedModify": false,
+    "RequestedEmergency": false,
+    "Contract": {
+      "Price": 685000,
+      "NumberOfMembers": 1,
+      "Percentages": [
+        50,
+        20,
+        20,
+        8,
+        2
+      ],
+      "WarrantyMonths": 12,
+      "DownPayment": 342500,
+      "Notes": "",
+      "EFDate": {
+        "_seconds": 1769205600,
+        "_nanoseconds": 0
+      }
+    },
+    "MaintenanceStart": {
+      "_seconds": 1769205600,
+      "_nanoseconds": 0
+    },
+    "Status": "Active",
+    "__collections__": {
+      "Decisions": [
+        {
+          "id": "CabinSelection",
+          "Title": "Cabin Selection",
+          "Description": "",
+          "Date": {
+            "_seconds": 1764234917,
+            "_nanoseconds": 708000000
+          },
+          "ExpiresAt": {
+            "_seconds": 1765663200,
+            "_nanoseconds": 0
+          },
+          "Options": [
+            {
+              "CabinId": "Japandi",
+              "Name": "Japandi",
+              "ArName": "جاباندي",
+              "ImageUrl": "https://firebasestorage.googleapis.com/v0/b/elevooo.appspot.com/o/Cabins%2FJapandi%2F6.jpg?alt=media&token=1280b04d-b62e-4235-a231-1253f7d6ed5e",
+              "Available": true,
+              "Review": 4.1,
+              "Notes": "",
+              "ArNotes": ""
+            },
+            {
+              "CabinId": "Minimal",
+              "Name": "Minimal",
+              "ArName": "مينيمال",
+              "ImageUrl": "https://firebasestorage.googleapis.com/v0/b/elevooo.appspot.com/o/Cabins%2FMinimal%2F7-1.jpg?alt=media&token=db5d0975-c11a-4d54-bf28-6185337aeb10",
+              "Available": true,
+              "Review": 3.8,
+              "Notes": "",
+              "ArNotes": ""
+            },
+            {
+              "CabinId": "Glam",
+              "Name": "Glam",
+              "ArName": "جلام",
+              "ImageUrl": "https://firebasestorage.googleapis.com/v0/b/elevooo.appspot.com/o/Cabins%2FGlam%2F3-1.jpg?alt=media&token=519cc68a-7092-4303-898f-2acf311379b3",
+              "Available": true,
+              "Review": 4.8,
+              "Notes": "",
+              "ArNotes": ""
+            }
+          ],
+          "DefaultOption": "Glam",
+          "TotalVotes": 0,
+          "Available": true,
+          "ArDescription": "",
+          "SearchKey": [
+            "c",
+            "ca",
+            "cab",
+            "cabi",
+            "cabin",
+            "cabin ",
+            "cabin s",
+            "cabin se",
+            "cabin sel",
+            "cabin sele",
+            "cabin selec",
+            "cabin select",
+            "cabin selecti",
+            "cabin selectio",
+            "cabin selection"
+          ],
+          "ArTitle": "اختيار الكابينة",
+          "Count": {
+            "Japandi": 0,
+            "Minimal": 0,
+            "Glam": 0
+          },
+          "ImagePreview": "https://firebasestorage.googleapis.com/v0/b/elevooo.appspot.com/o/CabinSelection%2FImagePreview.png?alt=media&token=98ffccfb-f228-4559-974e-c335c8c5b29e",
+          "Status": "Auto Choose"
+        }
+      ],
+      "MaintenanceContract": [
+        {
+          "id": "2-6-ElRehabCity",
+          "Status": null,
+          "RenewalRequestedAt": null,
+          "AutoRenew": false,
+          "CreatedAt": {
+            "_seconds": 1770475231,
+            "_nanoseconds": 800905000
+          },
+          "RenewalStatus": null,
+          "RenewalOffer": {
+            "Price": null,
+            "WarrantyMonths": null,
+            "Notes": null,
+            "ValidUntil": null
+          },
+          "RenewalDecision": {
+            "Status": null,
+            "DecidedAt": null,
+            "DecidedByEmail": null
+          },
+          "WarrantyMonths": 12,
+          "EndDate": null,
+          "UpdatedAt": {
+            "_seconds": 1770475231,
+            "_nanoseconds": 800905000
+          },
+          "RenewalCount": 0,
+          "StartDate": null,
+          "Price": null,
+          "RenewalRequested": false,
+          "RenewalAvail": false,
+          "CanRequestMaintenance": false,
+          "RenewalRequestedByEmail": null,
+          "RenewalRequestedByName": null,
+          "Notes": null
+        }
+      ],
+      "Milestones": [
+        {
+          "id": "2-6-ElRehabCity",
+          "ProgressReels": [
+            {
+              "ArabicDescription": "تركيب السكك والأبواب ✅",
+              "Status": "Assembling control unit",
+              "PhotoURLs": [],
+              "Description": "Installing Rails & Doors ✅",
+              "Views": 0,
+              "AddedOn": {
+                "_seconds": 1763155211,
+                "_nanoseconds": 535000000
+              },
+              "Title": "Installing rails",
+              "Index": 0,
+              "ArabicTitle": "المرحلة الأولي",
+              "Available": false,
+              "URL": ""
+            },
+            {
+              "ArabicDescription": "",
+              "Status": "",
+              "PhotoURLs": [],
+              "Description": "",
+              "Views": 0,
+              "AddedOn": {
+                "_seconds": 1763159459,
+                "_nanoseconds": 40014000
+              },
+              "Title": "",
+              "Index": 1,
+              "ArabicTitle": "",
+              "Available": false,
+              "URL": ""
+            }
+          ],
+          "Status": "Building machine room",
+          "ArabicStatus": "أعمال المحارة",
+          "Milestones": [
+            {
+              "ArabicTitle": "الحصول على تراخيص المباني",
+              "Available": true,
+              "EndDate": {
+                "_seconds": 1737928800,
+                "_nanoseconds": 0
+              },
+              "StartDate": {
+                "_seconds": 1737842400,
+                "_nanoseconds": 0
+              },
+              "Status": "Finished",
+              "Title": "Obtaining building permits"
+            },
+            {
+              "ArabicTitle": "الحصول على التراخيص من الجهاز",
+              "Available": true,
+              "EndDate": {
+                "_seconds": 1761426000,
+                "_nanoseconds": 0
+              },
+              "StartDate": {
+                "_seconds": 1743458400,
+                "_nanoseconds": 0
+              },
+              "Status": "Finished",
+              "Title": "Obtaining licenses for City Hall"
+            },
+            {
+              "ArabicTitle": "توريد الماكينة و منتجات المصعد",
+              "Available": true,
+              "EndDate": {
+                "_seconds": 1762293600,
+                "_nanoseconds": 0
+              },
+              "StartDate": {
+                "_seconds": 1762293600,
+                "_nanoseconds": 0
+              },
+              "Status": "Finished",
+              "Title": "Supplying Machine & Elevator Products"
+            },
+            {
+              "ArabicTitle": "بدء أعمال البناء",
+              "Available": true,
+              "EndDate": {
+                "_seconds": 1762335390,
+                "_nanoseconds": 793000000
+              },
+              "StartDate": {
+                "_seconds": 1762335390,
+                "_nanoseconds": 793000000
+              },
+              "Status": "Finished",
+              "Title": "Starting Construction"
+            },
+            {
+              "ArabicTitle": "أعمال الحفر",
+              "Available": true,
+              "EndDate": {
+                "_seconds": 1762335421,
+                "_nanoseconds": 574000000
+              },
+              "StartDate": {
+                "_seconds": 1762335421,
+                "_nanoseconds": 574000000
+              },
+              "Status": "Finished",
+              "Title": "Excavation work"
+            },
+            {
+              "ArabicTitle": "توريد مواد البناء",
+              "Available": true,
+              "EndDate": {
+                "_seconds": 1762352348,
+                "_nanoseconds": 720000000
+              },
+              "StartDate": {
+                "_seconds": 1762293600,
+                "_nanoseconds": 0
+              },
+              "Status": "Finished",
+              "Title": "Supplying Construction Products"
+            },
+            {
+              "ArabicTitle": "تحضير حفرة المصعد",
+              "Available": true,
+              "EndDate": {
+                "_seconds": 1762380000,
+                "_nanoseconds": 0
+              },
+              "StartDate": {
+                "_seconds": 1762380000,
+                "_nanoseconds": 0
+              },
+              "Status": "Finished",
+              "Title": "Preparing the elevator pit"
+            },
+            {
+              "ArabicTitle": "فتح مكان لعداد الكهرباء",
+              "Available": true,
+              "EndDate": {
+                "_seconds": 1762385641,
+                "_nanoseconds": 0
+              },
+              "StartDate": {
+                "_seconds": 1762385641,
+                "_nanoseconds": 0
+              },
+              "Status": "Finished",
+              "Title": "Opening a spot for electricity meter"
+            },
+            {
+              "ArabicTitle": "استمرار أعمال البناء",
+              "Available": true,
+              "EndDate": {
+                "_seconds": 1762812000,
+                "_nanoseconds": 0
+              },
+              "StartDate": {
+                "_seconds": 1762423587,
+                "_nanoseconds": 591000000
+              },
+              "Status": "Finished",
+              "Title": "Continuing Construction"
+            },
+            {
+              "ArabicTitle": "تركيب السقالات",
+              "Available": true,
+              "EndDate": {
+                "_seconds": 1762812000,
+                "_nanoseconds": 0
+              },
+              "StartDate": {
+                "_seconds": 1762812000,
+                "_nanoseconds": 0
+              },
+              "Status": "Finished",
+              "Title": "Installing the scaffold"
+            },
+            {
+              "ArabicTitle": "تركيب القضبان والأبواب",
+              "Available": true,
+              "EndDate": {
+                "_seconds": 1763157600,
+                "_nanoseconds": 0
+              },
+              "StartDate": {
+                "_seconds": 1762969760,
+                "_nanoseconds": 820000000
+              },
+              "Status": "Finished",
+              "Title": "Installing rails & doors"
+            },
+            {
+              "ArabicTitle": "تكسير الأسقف",
+              "Available": true,
+              "EndDate": {
+                "_seconds": 1763503200,
+                "_nanoseconds": 0
+              },
+              "StartDate": {
+                "_seconds": 1763244000,
+                "_nanoseconds": 0
+              },
+              "Status": "Finished",
+              "Title": "Ceiling dismantling"
+            },
+            {
+              "ArabicTitle": "بناء هيكل الطابق",
+              "Available": true,
+              "EndDate": {
+                "_seconds": 1763638776,
+                "_nanoseconds": 573000000
+              },
+              "StartDate": {
+                "_seconds": 1763416800,
+                "_nanoseconds": 0
+              },
+              "Status": "Finished",
+              "Title": "Building floor frame"
+            },
+            {
+              "ArabicTitle": "إنشاء غرفة الماكينات",
+              "Available": true,
+              "EndDate": {
+                "_seconds": 1766527200,
+                "_nanoseconds": 0
+              },
+              "StartDate": {
+                "_seconds": 1763589600,
+                "_nanoseconds": 0
+              },
+              "Status": "Finished",
+              "Title": "Building machine room"
+            },
+            {
+              "ArabicTitle": "قيد انتظار الدفع",
+              "Available": true,
+              "EndDate": {
+                "_seconds": 1764033103,
+                "_nanoseconds": 179000000
+              },
+              "StartDate": {
+                "_seconds": 1763157600,
+                "_nanoseconds": 0
+              },
+              "Status": "Finished",
+              "Title": "Waiting payment"
+            },
+            {
+              "ArabicTitle": "أعمال المحارة",
+              "Available": true,
+              "EndDate": {
+                "_seconds": 1766181600,
+                "_nanoseconds": 0
+              },
+              "StartDate": {
+                "_seconds": 1764540000,
+                "_nanoseconds": 0
+              },
+              "Status": "Finished",
+              "Title": "Plastering"
+            },
+            {
+              "ArabicTitle": "تركيب الماكينة",
+              "Available": true,
+              "EndDate": {
+                "_seconds": 1766872800,
+                "_nanoseconds": 0
+              },
+              "StartDate": {
+                "_seconds": 1766593602,
+                "_nanoseconds": 782999000
+              },
+              "Status": "Finished",
+              "Title": "Installing machine"
+            },
+            {
+              "ArabicTitle": "تركيب الكابينة",
+              "Available": true,
+              "EndDate": {
+                "_seconds": 1766959200,
+                "_nanoseconds": 0
+              },
+              "StartDate": {
+                "_seconds": 1766593608,
+                "_nanoseconds": 509000000
+              },
+              "Status": "Finished",
+              "Title": "Assembling cabin"
+            },
+            {
+              "ArabicTitle": "أعمال المحارة",
+              "Available": true,
+              "EndDate": {
+                "_seconds": 1767218400,
+                "_nanoseconds": 0
+              },
+              "StartDate": {
+                "_seconds": 1767183785,
+                "_nanoseconds": 779000000
+              },
+              "Status": "Finished",
+              "Title": "Plastering"
+            }
+          ]
+        }
+      ],
+      "Requests": [
+        {
+          "id": "man200021@yahoo.com",
+          "AptNumber": "42",
+          "Area": "El Rehab City",
+          "Declined": false,
+          "Email": "man200021@yahoo.com",
+          "FullName": "Yasser Kotb",
+          "Group": "2",
+          "Number": "6",
+          "PendingOn": {
+            "_seconds": 1764237318,
+            "_nanoseconds": 289000000
+          },
+          "Phone": "01001585577",
+          "PropertyId": "2-6-ElRehabCity",
+          "Type": "Building",
+          "Approved": true,
+          "ApprovedOn": {
+            "_seconds": 1764237337,
+            "_nanoseconds": 5000000
+          },
+          "Pending": false
+        }
+      ]
+    }
+  },
+  "23-3-ElRehabCity": {
+    "id": "23-3-ElRehabCity",
+    "Property": {
+      "Address": "23/3 Street",
+      "Type": "Building",
+      "Area": "El Rehab City",
+      "Group": "23",
+      "Number": "3",
+      "Model": "X",
+      "Levels": 4,
+      "SignDate": {
+        "_seconds": 1762942786,
+        "_nanoseconds": 247000000
+      },
+      "PropertyId": "23-3-ElRehabCity"
+    },
+    "Contract": {
+      "Price": 780000,
+      "NumberOfMembers": 1,
+      "EFDate": {
+        "_seconds": 1738360800,
+        "_nanoseconds": 0
+      },
+      "Percentages": [
+        100
+      ],
+      "WarrantyMonths": 12,
+      "DownPayment": 200000,
+      "Notes": ""
+    },
+    "Members": [
+      {
+        "Name": "Manal Abdelgawad",
+        "AptNumber": 43,
+        "MobileNumber": "01000000000",
+        "SSN": "00000000000000",
+        "Paid": 200000,
+        "DOP": {
+          "_seconds": 1724533200,
+          "_nanoseconds": 0
+        }
+      }
+    ],
+    "Status": "Under construction",
+    "SearchKey": [
+      "2",
+      "23",
+      "3",
+      "e",
+      "el",
+      "r",
+      "re",
+      "reh",
+      "reha",
+      "rehab",
+      "c",
+      "ci",
+      "cit",
+      "city",
+      "El Rehab City",
+      "all"
+    ],
+    "MaintenancePrice": 0,
+    "DOC": {
+      "_seconds": 1762942786,
+      "_nanoseconds": 248000000
+    },
+    "RequestedModify": false,
+    "RequestedEmergency": false,
+    "__collections__": {
+      "MaintenanceContract": [
+        {
+          "id": "23-3-ElRehabCity",
+          "Status": null,
+          "RenewalRequestedAt": null,
+          "AutoRenew": false,
+          "CreatedAt": {
+            "_seconds": 1770475233,
+            "_nanoseconds": 651119000
+          },
+          "RenewalStatus": null,
+          "RenewalOffer": {
+            "Price": null,
+            "WarrantyMonths": null,
+            "Notes": null,
+            "ValidUntil": null
+          },
+          "RenewalDecision": {
+            "Status": null,
+            "DecidedAt": null,
+            "DecidedByEmail": null
+          },
+          "WarrantyMonths": 12,
+          "EndDate": null,
+          "UpdatedAt": {
+            "_seconds": 1770475233,
+            "_nanoseconds": 651119000
+          },
+          "RenewalCount": 0,
+          "StartDate": null,
+          "Price": null,
+          "RenewalRequested": false,
+          "RenewalAvail": false,
+          "CanRequestMaintenance": false,
+          "RenewalRequestedByEmail": null,
+          "RenewalRequestedByName": null,
+          "Notes": null
+        }
+      ],
+      "Milestones": [
+        {
+          "id": "23-3-ElRehabCity",
+          "Status": "Waiting for gas company inquiry",
+          "ArabicStatus": "تكسير الجدران",
+          "Milestones": [
+            {
+              "ArabicTitle": "قيد انتظار التراخيص",
+              "Available": true,
+              "EndDate": {
+                "_seconds": 1762812000,
+                "_nanoseconds": 0
+              },
+              "StartDate": {
+                "_seconds": 1741989600,
+                "_nanoseconds": 0
+              },
+              "Status": "Finished",
+              "Title": "Waiting for licenses"
+            },
+            {
+              "ArabicTitle": "قيد انتظار طلب شركة الغاز",
+              "Available": true,
+              "EndDate": {
+                "_seconds": 1763503200,
+                "_nanoseconds": 0
+              },
+              "StartDate": {
+                "_seconds": 1762969847,
+                "_nanoseconds": 477000000
+              },
+              "Status": "Finished",
+              "Title": "Waiting for gas company inquiry"
+            },
+            {
+              "ArabicTitle": "تحويل أنابيب الغاز",
+              "Available": true,
+              "EndDate": {
+                "_seconds": 1766008800,
+                "_nanoseconds": 0
+              },
+              "StartDate": {
+                "_seconds": 1765404000,
+                "_nanoseconds": 0
+              },
+              "Status": "Finished",
+              "Title": "Redirecting gas pipes"
+            },
+            {
+              "ArabicTitle": "توريد الماكينة و منتجات المصعد",
+              "Available": true,
+              "EndDate": {
+                "_seconds": 1766440800,
+                "_nanoseconds": 0
+              },
+              "StartDate": {
+                "_seconds": 1766440800,
+                "_nanoseconds": 0
+              },
+              "Status": "Finished",
+              "Title": "Supplying Machine & Elevator Products"
+            },
+            {
+              "ArabicTitle": "بدء أعمال البناء",
+              "Available": true,
+              "EndDate": {
+                "_seconds": 1766493385,
+                "_nanoseconds": 526999000
+              },
+              "StartDate": {
+                "_seconds": 1766493385,
+                "_nanoseconds": 526999000
+              },
+              "Status": "Finished",
+              "Title": "Starting Construction"
+            },
+            {
+              "ArabicTitle": "أعمال الحفر",
+              "Available": true,
+              "EndDate": {
+                "_seconds": 1766493396,
+                "_nanoseconds": 562999000
+              },
+              "StartDate": {
+                "_seconds": 1766493396,
+                "_nanoseconds": 562999000
+              },
+              "Status": "Finished",
+              "Title": "Excavation work"
+            },
+            {
+              "ArabicTitle": "تركيب الأساس",
+              "Available": true,
+              "EndDate": {
+                "_seconds": 1766527200,
+                "_nanoseconds": 0
+              },
+              "StartDate": {
+                "_seconds": 1766527200,
+                "_nanoseconds": 0
+              },
+              "Status": "Ongoing",
+              "Title": "Installing the foundation"
+            },
+            {
+              "ArabicTitle": "تكسير الجدران",
+              "Available": true,
+              "EndDate": {
+                "_seconds": 1766493442,
+                "_nanoseconds": 94000000
+              },
+              "StartDate": {
+                "_seconds": 1766440800,
+                "_nanoseconds": 0
+              },
+              "Status": "Finished",
+              "Title": "Wall dismantling"
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "43-8-ElRehabCity": {
+    "id": "43-8-ElRehabCity",
+    "DOC": {
+      "_seconds": 1755030712,
+      "_nanoseconds": 0
+    },
+    "MaintenancePrice": 0,
+    "Members": [
+      {
+        "AptNumber": 44,
+        "DOP": {
+          "_seconds": 1609452000,
+          "_nanoseconds": 0
+        },
+        "MobileNumber": "01000000000",
+        "Name": "Admin Addes this",
+        "Paid": 0,
+        "SSN": "00000000000000"
+      }
+    ],
+    "RequestedEmergency": false,
+    "RequestedModify": false,
+    "SearchKey": [
+      "4",
+      "43",
+      "8",
+      "e",
+      "el",
+      "r",
+      "re",
+      "reh",
+      "reha",
+      "rehab",
+      "c",
+      "ci",
+      "cit",
+      "city",
+      "El Rehab City",
+      "all"
+    ],
+    "Status": "Active",
+    "Property": {
+      "Address": "Umm Kulthum",
+      "Area": "El Rehab City",
+      "Group": "43",
+      "Levels": 4,
+      "Number": "8",
+      "PropertyId": "43-8-ElRehabCity",
+      "SignDate": {
+        "_seconds": 1609452000,
+        "_nanoseconds": 0
+      },
+      "Type": "Building",
+      "Model": "M"
+    },
+    "Contract": {
+      "DownPayment": 0,
+      "EFDate": {
+        "_seconds": 1622498400,
+        "_nanoseconds": 0
+      },
+      "Notes": "",
+      "NumberOfMembers": 1,
+      "Percentages": [
+        100
+      ],
+      "Price": 600000,
+      "WarrantyMonths": 12,
+      "WarrantyEnds": {
+        "_seconds": 1654034400,
+        "_nanoseconds": 0
+      }
+    },
+    "__collections__": {
+      "MaintenanceContract": [
+        {
+          "id": "43-8-ElRehabCity",
+          "Status": null,
+          "RenewalRequestedAt": null,
+          "AutoRenew": false,
+          "CreatedAt": {
+            "_seconds": 1770475235,
+            "_nanoseconds": 568987000
+          },
+          "RenewalStatus": null,
+          "RenewalOffer": {
+            "Price": null,
+            "WarrantyMonths": null,
+            "Notes": null,
+            "ValidUntil": null
+          },
+          "RenewalDecision": {
+            "Status": null,
+            "DecidedAt": null,
+            "DecidedByEmail": null
+          },
+          "WarrantyMonths": 12,
+          "EndDate": null,
+          "UpdatedAt": {
+            "_seconds": 1770475235,
+            "_nanoseconds": 568987000
+          },
+          "RenewalCount": 0,
+          "StartDate": null,
+          "Price": null,
+          "RenewalRequested": false,
+          "RenewalAvail": false,
+          "CanRequestMaintenance": false,
+          "RenewalRequestedByEmail": null,
+          "RenewalRequestedByName": null,
+          "Notes": null
+        }
+      ]
+    }
+  },
+  "46-1-ElRehabCity": {
+    "id": "46-1-ElRehabCity",
+    "Members": [
+      {
+        "Name": "Emad Mohamady",
+        "AptNumber": 34,
+        "MobileNumber": "01000000000",
+        "SSN": "27104010106372",
+        "Paid": 351000,
+        "DOP": {
+          "_seconds": 1729890000,
+          "_nanoseconds": 0
+        }
+      }
+    ],
+    "SearchKey": [
+      "4",
+      "46",
+      "1",
+      "e",
+      "el",
+      "r",
+      "re",
+      "reh",
+      "reha",
+      "rehab",
+      "c",
+      "ci",
+      "cit",
+      "city",
+      "El Rehab City",
+      "all"
+    ],
+    "MaintenancePrice": 0,
+    "Property": {
+      "Address": "Saad Zaghlol Street",
+      "Type": "Building",
+      "Area": "El Rehab City",
+      "Group": "46",
+      "Number": "1",
+      "Model": "N",
+      "Levels": 4,
+      "SignDate": {
+        "_seconds": 1729890000,
+        "_nanoseconds": 0
+      },
+      "PropertyId": "46-1-ElRehabCity"
+    },
+    "DOC": {
+      "_seconds": 1730322000,
+      "_nanoseconds": 92000000
+    },
+    "RequestedEmergency": false,
+    "RequestedModify": false,
+    "MaintenanceStart": {
+      "_seconds": 1763330400,
+      "_nanoseconds": 0
+    },
+    "MaintenanceEnd": {
+      "_seconds": 1794866400,
+      "_nanoseconds": 0
+    },
+    "Status": "Active",
+    "Contract": {
+      "Price": 780000,
+      "NumberOfMembers": 1,
+      "Percentages": [
+        45,
+        15,
+        10,
+        20,
+        8,
+        2
+      ],
+      "WarrantyMonths": 12,
+      "DownPayment": 351000,
+      "Notes": "110,500 to be paid before 15/12/2024",
+      "EFDate": {
+        "_seconds": 1763330400,
+        "_nanoseconds": 0
+      }
+    },
+    "__collections__": {
+      "MaintenanceContract": [
+        {
+          "id": "46-1-ElRehabCity",
+          "Status": null,
+          "RenewalRequestedAt": null,
+          "AutoRenew": false,
+          "CreatedAt": {
+            "_seconds": 1770475237,
+            "_nanoseconds": 851726000
+          },
+          "RenewalStatus": null,
+          "RenewalOffer": {
+            "Price": null,
+            "WarrantyMonths": null,
+            "Notes": null,
+            "ValidUntil": null
+          },
+          "RenewalDecision": {
+            "Status": null,
+            "DecidedAt": null,
+            "DecidedByEmail": null
+          },
+          "WarrantyMonths": 12,
+          "RenewalCount": 0,
+          "Price": null,
+          "RenewalRequested": false,
+          "RenewalAvail": false,
+          "CanRequestMaintenance": false,
+          "RenewalRequestedByEmail": null,
+          "RenewalRequestedByName": null,
+          "Notes": null,
+          "StartDate": {
+            "_seconds": 1763330400,
+            "_nanoseconds": 0
+          },
+          "EndDate": {
+            "_seconds": 1794866400,
+            "_nanoseconds": 0
+          },
+          "UpdatedAt": {
+            "_seconds": 1770475869,
+            "_nanoseconds": 359416000
+          }
+        }
+      ],
+      "Members": [
+        {
+          "id": "hvqcpg7hp6@privaterelay.appleid.com",
+          "FullName": "Wael Faltas",
+          "Area": "El Rehab City",
+          "Group": "46",
+          "Number": "1",
+          "AptNumber": "44",
+          "Phone": "01226470985",
+          "ApprovedOn": {
+            "_seconds": 1755028159,
+            "_nanoseconds": 61000000
+          },
+          "PropertyId": "46-1-ElRehabCity",
+          "DeviceId": "dVHcuftODEsZpaVAJOTOjZ:APA91bFo6acU_iABBGgbFwHHg0HlqePYeLpgmD_eSoIz5t9Sc88Vemg4w7MUOlvilG6Ji35RVl3v8iwF5TVgSn8mO_xDipGBzwsx_X1enqC2IYyYO9JBp5k",
+          "LastPrefUpdatedAt": {
+            "_seconds": 1760022180,
+            "_nanoseconds": 782000000
+          },
+          "Notifications": true
+        },
+        {
+          "id": "laura@s.com",
+          "ApprovedOn": {
+            "_seconds": 1752664908,
+            "_nanoseconds": 0
+          },
+          "AptNumber": "1",
+          "Area": "El Rehab City",
+          "FullName": "Laura Martinez",
+          "Group": "46",
+          "Number": "1",
+          "Phone": "01000000000",
+          "PropertyId": "46-1-ElRehabCity",
+          "LastPrefUpdatedAt": {
+            "_seconds": 1758486795,
+            "_nanoseconds": 922000000
+          },
+          "Notifications": true,
+          "Locale": "ar",
+          "DeviceId": "fsqgRRXKRZyM3h4Ear78HQ:APA91bEnWQ1vpAzXPwngwXfC1pgQzuFbYkBIrl_1WYPVyICwbTw83sj76Nnd50bwOgjfYdTwl_Fei8q--m1vRpDRgnVzZZQVc04Mfm6OrgSlimgmSkSNkhw",
+          "LastTokenSetAt": {
+            "_seconds": 1768250307,
+            "_nanoseconds": 368000000
+          }
+        },
+        {
+          "id": "w@s.com",
+          "Group": "46",
+          "Area": "El Rehab City",
+          "Number": "1",
+          "Phone": "01000000000",
+          "FullName": "Waleed Bin Talal",
+          "AptNumber": "11",
+          "ApprovedOn": {
+            "_seconds": 1759320024,
+            "_nanoseconds": 622000000
+          },
+          "PropertyId": "46-1-ElRehabCity",
+          "LastPrefUpdatedAt": {
+            "_seconds": 1764673025,
+            "_nanoseconds": 21000000
+          },
+          "Notifications": true,
+          "LastTokenSetAt": {
+            "_seconds": 1768750178,
+            "_nanoseconds": 993000000
+          },
+          "Locale": "en"
+        }
+      ],
+      "Milestones": [
+        {
+          "id": "46-1-ElRehabCity",
+          "Milestones": [
+            {
+              "ArabicTitle": "قيد انتظار طلب شركة الغاز",
+              "Available": true,
+              "EndDate": {
+                "_seconds": 1737324000,
+                "_nanoseconds": 0
+              },
+              "StartDate": {
+                "_seconds": 1737324000,
+                "_nanoseconds": 0
+              },
+              "Status": "Finished",
+              "Title": "Waiting for gas company inquiry"
+            },
+            {
+              "ArabicTitle": "تحويل أنابيب الغاز",
+              "Available": true,
+              "EndDate": {
+                "_seconds": 1738274400,
+                "_nanoseconds": 0
+              },
+              "StartDate": {
+                "_seconds": 1738274400,
+                "_nanoseconds": 0
+              },
+              "Status": "Finished",
+              "Title": "Redirecting gas pipes"
+            },
+            {
+              "ArabicTitle": "قيد انتظار التراخيص",
+              "Available": true,
+              "EndDate": {
+                "_seconds": 1754341200,
+                "_nanoseconds": 0
+              },
+              "StartDate": {
+                "_seconds": 1735164000,
+                "_nanoseconds": 0
+              },
+              "Status": "Finished",
+              "Title": "Waiting for licenses"
+            },
+            {
+              "ArabicTitle": "بدء أعمال البناء",
+              "Available": true,
+              "EndDate": {
+                "_seconds": 1754427600,
+                "_nanoseconds": 0
+              },
+              "StartDate": {
+                "_seconds": 1754427600,
+                "_nanoseconds": 0
+              },
+              "Status": "Finished",
+              "Title": "Starting Construction"
+            },
+            {
+              "ArabicTitle": "أعمال الحفر",
+              "Available": true,
+              "EndDate": {
+                "_seconds": 1754773200,
+                "_nanoseconds": 0
+              },
+              "StartDate": {
+                "_seconds": 1754427600,
+                "_nanoseconds": 0
+              },
+              "Status": "Finished",
+              "Title": "Excavation work"
+            },
+            {
+              "ArabicTitle": "تحضير حفرة المصعد",
+              "Available": true,
+              "EndDate": {
+                "_seconds": 1754773200,
+                "_nanoseconds": 0
+              },
+              "StartDate": {
+                "_seconds": 1754525350,
+                "_nanoseconds": 236000000
+              },
+              "Status": "Finished",
+              "Title": "Preparing the elevator pit"
+            },
+            {
+              "ArabicTitle": "توريد مواد البناء",
+              "Available": true,
+              "EndDate": {
+                "_seconds": 1754922949,
+                "_nanoseconds": 825000000
+              },
+              "StartDate": {
+                "_seconds": 1754922949,
+                "_nanoseconds": 825000000
+              },
+              "Status": "Finished",
+              "Title": "Supplying Construction Products"
+            },
+            {
+              "ArabicTitle": "تركيب الأساس",
+              "Available": true,
+              "EndDate": {
+                "_seconds": 1754922963,
+                "_nanoseconds": 893000000
+              },
+              "StartDate": {
+                "_seconds": 1754922963,
+                "_nanoseconds": 893000000
+              },
+              "Status": "Finished",
+              "Title": "Installing the foundation"
+            },
+            {
+              "ArabicTitle": "صب الخرسانة",
+              "Available": true,
+              "EndDate": {
+                "_seconds": 1754859600,
+                "_nanoseconds": 0
+              },
+              "StartDate": {
+                "_seconds": 1754922987,
+                "_nanoseconds": 528000000
+              },
+              "Status": "Finished",
+              "Title": "Concrete pouring"
+            },
+            {
+              "ArabicTitle": "انتظار تماسك الخرسانة",
+              "Available": true,
+              "EndDate": {
+                "_seconds": 1755291600,
+                "_nanoseconds": 0
+              },
+              "StartDate": {
+                "_seconds": 1754923020,
+                "_nanoseconds": 395000000
+              },
+              "Status": "Finished",
+              "Title": "Waiting for concrete to set"
+            },
+            {
+              "ArabicTitle": "توريد البرج المعدني",
+              "Available": true,
+              "EndDate": {
+                "_seconds": 1755291600,
+                "_nanoseconds": 0
+              },
+              "StartDate": {
+                "_seconds": 1755291600,
+                "_nanoseconds": 0
+              },
+              "Status": "Finished",
+              "Title": "Supplying Metal Tower"
+            },
+            {
+              "ArabicTitle": "فتح مكان لعداد الكهرباء",
+              "Available": true,
+              "EndDate": {
+                "_seconds": 1755637200,
+                "_nanoseconds": 0
+              },
+              "StartDate": {
+                "_seconds": 1755550800,
+                "_nanoseconds": 0
+              },
+              "Status": "Finished",
+              "Title": "Opening a spot for electricity meter"
+            },
+            {
+              "ArabicTitle": "تركيب السقالات",
+              "Available": true,
+              "EndDate": {
+                "_seconds": 1755982800,
+                "_nanoseconds": 0
+              },
+              "StartDate": {
+                "_seconds": 1755637200,
+                "_nanoseconds": 0
+              },
+              "Status": "Finished",
+              "Title": "Installing the scaffold"
+            },
+            {
+              "ArabicTitle": "تركيب البرج المعدني",
+              "Available": true,
+              "EndDate": {
+                "_seconds": 1756501200,
+                "_nanoseconds": 0
+              },
+              "StartDate": {
+                "_seconds": 1756069200,
+                "_nanoseconds": 0
+              },
+              "Status": "Finished",
+              "Title": "Assembling metal tower"
+            },
+            {
+              "ArabicTitle": "توريد منتجات المصعد",
+              "Available": true,
+              "EndDate": {
+                "_seconds": 1756587600,
+                "_nanoseconds": 0
+              },
+              "StartDate": {
+                "_seconds": 1756587600,
+                "_nanoseconds": 0
+              },
+              "Status": "Finished",
+              "Title": "Supplying Elevator Products"
+            },
+            {
+              "ArabicTitle": "تركيب القضبان والأبواب",
+              "Available": true,
+              "EndDate": {
+                "_seconds": 1757451600,
+                "_nanoseconds": 0
+              },
+              "StartDate": {
+                "_seconds": 1757278800,
+                "_nanoseconds": 0
+              },
+              "Status": "Finished",
+              "Title": "Installing rails & doors"
+            },
+            {
+              "ArabicTitle": "تكسير الجدران",
+              "Available": true,
+              "EndDate": {
+                "_seconds": 1756760400,
+                "_nanoseconds": 0
+              },
+              "StartDate": {
+                "_seconds": 1756674000,
+                "_nanoseconds": 0
+              },
+              "Status": "Finished",
+              "Title": "Wall dismantling"
+            },
+            {
+              "ArabicTitle": "قيد انتظار الدفع",
+              "Available": true,
+              "EndDate": {
+                "_seconds": 1757624400,
+                "_nanoseconds": 0
+              },
+              "StartDate": {
+                "_seconds": 1757522992,
+                "_nanoseconds": 134000000
+              },
+              "Status": "Finished",
+              "Title": "Waiting payment"
+            },
+            {
+              "ArabicTitle": "توريد مواد البناء",
+              "Available": true,
+              "EndDate": {
+                "_seconds": 1757526407,
+                "_nanoseconds": 139000000
+              },
+              "StartDate": {
+                "_seconds": 1757526407,
+                "_nanoseconds": 139000000
+              },
+              "Status": "Finished",
+              "Title": "Supplying Construction Products"
+            },
+            {
+              "ArabicTitle": "توريد الماكينة",
+              "Available": true,
+              "EndDate": {
+                "_seconds": 1757797200,
+                "_nanoseconds": 0
+              },
+              "StartDate": {
+                "_seconds": 1757710800,
+                "_nanoseconds": 0
+              },
+              "Status": "Finished",
+              "Title": "Supplying Machine"
+            },
+            {
+              "ArabicTitle": "استمرار أعمال البناء",
+              "Available": true,
+              "EndDate": {
+                "_seconds": 1758142800,
+                "_nanoseconds": 0
+              },
+              "StartDate": {
+                "_seconds": 1757797200,
+                "_nanoseconds": 0
+              },
+              "Status": "Finished",
+              "Title": "Continuing Construction"
+            },
+            {
+              "ArabicTitle": "تركيب الماكينة",
+              "Available": true,
+              "EndDate": {
+                "_seconds": 1758488400,
+                "_nanoseconds": 0
+              },
+              "StartDate": {
+                "_seconds": 1758488400,
+                "_nanoseconds": 0
+              },
+              "Status": "Finished",
+              "Title": "Installing machine"
+            },
+            {
+              "ArabicTitle": "إنشاء غرفة الماكينات",
+              "Available": true,
+              "EndDate": {
+                "_seconds": 1758747600,
+                "_nanoseconds": 0
+              },
+              "StartDate": {
+                "_seconds": 1758574800,
+                "_nanoseconds": 0
+              },
+              "Status": "Finished",
+              "Title": "Building machine room"
+            },
+            {
+              "ArabicTitle": "قيد انتظار الدفع",
+              "Available": true,
+              "EndDate": {
+                "_seconds": 1759957200,
+                "_nanoseconds": 0
+              },
+              "StartDate": {
+                "_seconds": 1758747600,
+                "_nanoseconds": 0
+              },
+              "Status": "Finished",
+              "Title": "Waiting payment"
+            },
+            {
+              "ArabicTitle": "أعمال المحارة",
+              "Available": true,
+              "EndDate": {
+                "_seconds": 1759611600,
+                "_nanoseconds": 0
+              },
+              "StartDate": {
+                "_seconds": 1758747600,
+                "_nanoseconds": 0
+              },
+              "Status": "Finished",
+              "Title": "Plastering"
+            },
+            {
+              "ArabicTitle": "توريد الكابينة",
+              "Available": true,
+              "EndDate": {
+                "_seconds": 1761339600,
+                "_nanoseconds": 0
+              },
+              "StartDate": {
+                "_seconds": 1759957200,
+                "_nanoseconds": 0
+              },
+              "Status": "Finished",
+              "Title": "Supplying Cabin"
+            },
+            {
+              "ArabicTitle": "قيد انتظار شركة الكهرباء",
+              "Available": true,
+              "EndDate": {
+                "_seconds": 1761598800,
+                "_nanoseconds": 0
+              },
+              "StartDate": {
+                "_seconds": 1760562000,
+                "_nanoseconds": 0
+              },
+              "Status": "Finished",
+              "Title": "Waiting for electricity company"
+            },
+            {
+              "ArabicTitle": "تركيب الكابينة",
+              "Available": true,
+              "EndDate": {
+                "_seconds": 1761598800,
+                "_nanoseconds": 0
+              },
+              "StartDate": {
+                "_seconds": 1761426000,
+                "_nanoseconds": 0
+              },
+              "Status": "Finished",
+              "Title": "Assembling cabin"
+            },
+            {
+              "ArabicTitle": "تركيب عداد الكهرباء",
+              "Available": true,
+              "EndDate": {
+                "_seconds": 1761685200,
+                "_nanoseconds": 0
+              },
+              "StartDate": {
+                "_seconds": 1761598800,
+                "_nanoseconds": 0
+              },
+              "Status": "Finished",
+              "Title": "Installing electricity meter"
+            },
+            {
+              "ArabicTitle": "إنهاء أعمال الدهان",
+              "Available": true,
+              "EndDate": {
+                "_seconds": 1762639200,
+                "_nanoseconds": 0
+              },
+              "StartDate": {
+                "_seconds": 1762293600,
+                "_nanoseconds": 0
+              },
+              "Status": "Finished",
+              "Title": "Finishing the paint job"
+            },
+            {
+              "ArabicTitle": "تركيب وحدة التحكم",
+              "Available": true,
+              "EndDate": {
+                "_seconds": 1763157600,
+                "_nanoseconds": 0
+              },
+              "StartDate": {
+                "_seconds": 1762034400,
+                "_nanoseconds": 0
+              },
+              "Status": "Finished",
+              "Title": "Assembling control unit"
+            },
+            {
+              "ArabicTitle": "تشغيل تجريبي للمصعد",
+              "Available": true,
+              "EndDate": {
+                "_seconds": 1763330400,
+                "_nanoseconds": 0
+              },
+              "StartDate": {
+                "_seconds": 1763244000,
+                "_nanoseconds": 0
+              },
+              "Status": "Finished",
+              "Title": "Test running the elevator"
+            },
+            {
+              "ArabicTitle": "جاهز للتسليم",
+              "Available": true,
+              "EndDate": {
+                "_seconds": 1763330400,
+                "_nanoseconds": 0
+              },
+              "StartDate": {
+                "_seconds": 1763330400,
+                "_nanoseconds": 0
+              },
+              "Status": "Finished",
+              "Title": "Ready for handover"
+            },
+            {
+              "ArabicTitle": "تم التسليم",
+              "Available": true,
+              "EndDate": {
+                "_seconds": 1763330400,
+                "_nanoseconds": 0
+              },
+              "StartDate": {
+                "_seconds": 1763330400,
+                "_nanoseconds": 0
+              },
+              "Status": "Finished",
+              "Title": "Delivered"
+            }
+          ],
+          "Status": "Delivered",
+          "ArabicStatus": "تم التسليم",
+          "ProgressReels": [
+            {
+              "PhotoURLs": [
+                "https://firebasestorage.googleapis.com/v0/b/elevooo.appspot.com/o/Progress%20Snapshots%2F46-1-ElRehabCity%2F20250630_2000_Sunset%20Elevator%20Installation_simple_compose_01jz0wdjygex8949sy76c8xkgy.png?alt=media&token=2083ef1d-b19e-41c7-8a98-54ec1796881f",
+                "https://firebasestorage.googleapis.com/v0/b/elevooo.appspot.com/o/Progress%20Snapshots%2F46-1-ElRehabCity%2F20250630_2012_Urban%20Elevator%20Installation_simple_compose_01jz0x319refs9nkknn3xm1k0p.png?alt=media&token=acfb2466-4a15-4b73-897a-458377098eb7",
+                "https://firebasestorage.googleapis.com/v0/b/elevooo.appspot.com/o/Progress%20Snapshots%2F46-1-ElRehabCity%2F20250630_2015_Luxury%20Gold%20Elevator_remix_01jz0x9nehf7xsy5se7kcxf32t.png?alt=media&token=2295b6c1-e8cc-4e1d-92ce-62820171cd2b"
+              ],
+              "Title": "Last Phase",
+              "Index": 0,
+              "AddedOn": {
+                "_seconds": 1763233804,
+                "_nanoseconds": 577000000
+              },
+              "Views": 21,
+              "ArabicTitle": "Last Phase",
+              "isSeen": [
+                "w@s.com",
+                "laura@s.com"
+              ],
+              "ArabicDescription": "Last Phase",
+              "Description": "Last Phase of the installation is complete.",
+              "Available": false,
+              "URL": "",
+              "Status": ""
+            }
+          ],
+          "FinishDate": {
+            "_seconds": 1763330400,
+            "_nanoseconds": 0
+          },
+          "ShowDate": false
+        }
+      ],
+      "Requests": [
+        {
+          "id": "faswaaltizawy@gmail.com",
+          "Group": "46",
+          "Email": "faswaaltizawy@gmail.com",
+          "PropertyId": "46-1-ElRehabCity",
+          "Type": "Building",
+          "Area": "El Rehab City",
+          "Number": "1",
+          "Phone": "01000000000",
+          "FullName": "Faswa Al Tizawy",
+          "AptNumber": "11",
+          "DeclinedOn": {
+            "_seconds": 1754525159,
+            "_nanoseconds": 454000000
+          },
+          "PendingOn": {
+            "_seconds": 1754525175,
+            "_nanoseconds": 381000000
+          },
+          "Declined": false,
+          "Approved": true,
+          "ApprovedOn": {
+            "_seconds": 1754525178,
+            "_nanoseconds": 733000000
+          },
+          "Pending": false
+        },
+        {
+          "id": "hvqcpg7hp6@privaterelay.appleid.com",
+          "AptNumber": "44",
+          "Area": "El Rehab City",
+          "Declined": false,
+          "Email": "hvqcpg7hp6@privaterelay.appleid.com",
+          "Group": "46",
+          "Number": "1",
+          "PendingOn": {
+            "_seconds": 1755028065,
+            "_nanoseconds": 552000000
+          },
+          "Phone": "01226470985",
+          "PropertyId": "46-1-ElRehabCity",
+          "Type": "Building",
+          "FullName": "Wael Faltas",
+          "Approved": true,
+          "ApprovedOn": {
+            "_seconds": 1755028155,
+            "_nanoseconds": 164000000
+          },
+          "Pending": false
+        },
+        {
+          "id": "laura@s.com",
+          "Group": "46",
+          "Email": "laura@s.com",
+          "PropertyId": "46-1-ElRehabCity",
+          "PendingOn": {
+            "_seconds": 1752660927,
+            "_nanoseconds": 563000000
+          },
+          "Type": "Building",
+          "Area": "El Rehab City",
+          "Number": "1",
+          "Declined": false,
+          "Phone": "01000000000",
+          "FullName": "Laura Martinez",
+          "AptNumber": "1",
+          "Approved": true,
+          "ApprovedOn": {
+            "_seconds": 1752664907,
+            "_nanoseconds": 0
+          },
+          "Pending": false
+        },
+        {
+          "id": "w@s.com",
+          "PendingOn": {
+            "_seconds": 1759319989,
+            "_nanoseconds": 845000000
+          },
+          "Area": "El Rehab City",
+          "Number": "1",
+          "Declined": false,
+          "Group": "46",
+          "Phone": "01000000000",
+          "AptNumber": "11",
+          "PropertyId": "46-1-ElRehabCity",
+          "Email": "w@s.com",
+          "FullName": "Waleed Bin Talal",
+          "Type": "Building",
+          "Approved": true,
+          "ApprovedOn": {
+            "_seconds": 1759320024,
+            "_nanoseconds": 622000000
+          },
+          "Pending": false
+        }
+      ]
+    }
+  },
+  "46-4-ElRehabCity": {
+    "id": "46-4-ElRehabCity",
+    "CanRequestMaintenance": false,
+    "Contract": {
+      "DownPayment": 0,
+      "EFDate": {
+        "_seconds": 1751317200,
+        "_nanoseconds": 0
+      },
+      "Notes": "Old ones.",
+      "NumberOfMembers": 1,
+      "Percentages": [
+        100
+      ],
+      "Price": 650000,
+      "WarrantyMonths": 12
+    },
+    "DOC": {
+      "_seconds": 1770476706,
+      "_nanoseconds": 0
+    },
+    "Members": [
+      {
+        "AptNumber": 42,
+        "DOP": {
+          "_seconds": 1735682400,
+          "_nanoseconds": 0
+        },
+        "MobileNumber": "01000000000",
+        "Name": "Maged Gerges",
+        "Paid": 0,
+        "SSN": "00000000000000"
+      }
+    ],
+    "Ownership": "ElevoInstalled",
+    "Property": {
+      "Address": "Saad Zaghloul",
+      "Area": "El Rehab City",
+      "Group": "46",
+      "Levels": 4,
+      "Model": "N",
+      "Number": "4",
+      "PropertyId": "46-4-ElRehabCity",
+      "SignDate": {
+        "_seconds": 1770476706,
+        "_nanoseconds": 585096000
+      },
+      "Type": "Building"
+    },
+    "RequestedEmergency": false,
+    "RequestedModify": false,
+    "SearchKey": [
+      "4",
+      "46",
+      "e",
+      "el",
+      "r",
+      "re",
+      "reh",
+      "reha",
+      "rehab",
+      "c",
+      "ci",
+      "cit",
+      "city",
+      "El Rehab City",
+      "all"
+    ],
+    "Status": "Active",
+    "MaintenancePrice": 600,
+    "Contract.WarrantyMonths": 6,
+    "__collections__": {
+      "MaintenanceContract": [
+        {
+          "id": "46-4-ElRehabCity",
+          "Status": null,
+          "RenewalRequestedAt": null,
+          "AutoRenew": false,
+          "CreatedAt": {
+            "_seconds": 1770476707,
+            "_nanoseconds": 176505000
+          },
+          "RenewalStatus": null,
+          "RenewalOffer": {
+            "Price": null,
+            "WarrantyMonths": null,
+            "Notes": null,
+            "ValidUntil": null
+          },
+          "RenewalDecision": {
+            "Status": null,
+            "DecidedAt": null,
+            "DecidedByEmail": null
+          },
+          "RenewalCount": null,
+          "RenewalRequested": false,
+          "RenewalAvail": false,
+          "CanRequestMaintenance": false,
+          "RenewalRequestedByEmail": null,
+          "RenewalRequestedByName": null,
+          "Notes": null,
+          "Price": 600,
+          "StartDate": {
+            "_seconds": 1767218400,
+            "_nanoseconds": 0
+          },
+          "WarrantyMonths": 6,
+          "EndDate": {
+            "_seconds": 1782853200,
+            "_nanoseconds": 0
+          },
+          "UpdatedAt": {
+            "_seconds": 1770476744,
+            "_nanoseconds": 699882000
+          }
+        }
+      ]
+    }
+  },
+  "48-6-ElRehabCity": {
+    "id": "48-6-ElRehabCity",
+    "Property": {
+      "Address": "Umm Kulthum",
+      "Type": "Building",
+      "Area": "El Rehab City",
+      "Group": "48",
+      "Number": "6",
+      "Model": "M",
+      "Levels": 4,
+      "SignDate": {
+        "_seconds": 1765397205,
+        "_nanoseconds": 716000000
+      },
+      "PropertyId": "48-6-ElRehabCity"
+    },
+    "Contract": {
+      "Price": 1075000,
+      "NumberOfMembers": 1,
+      "EFDate": {
+        "_seconds": 1785531600,
+        "_nanoseconds": 0
+      },
+      "Percentages": [
+        40,
+        25,
+        20,
+        12,
+        3
+      ],
+      "WarrantyMonths": 12,
+      "DownPayment": 160000,
+      "Notes": "Paid 160k on the day of signing and told us there are more in the upcoming week..."
+    },
+    "Members": [
+      {
+        "Name": "Karam Gabriel",
+        "AptNumber": 41,
+        "MobileNumber": "01000000000",
+        "SSN": "00000000000000",
+        "Paid": 50000,
+        "DOP": {
+          "_seconds": 1765317600,
+          "_nanoseconds": 0
+        }
+      }
+    ],
+    "Status": "Under construction",
+    "SearchKey": [
+      "4",
+      "48",
+      "6",
+      "e",
+      "el",
+      "r",
+      "re",
+      "reh",
+      "reha",
+      "rehab",
+      "c",
+      "ci",
+      "cit",
+      "city",
+      "El Rehab City",
+      "all"
+    ],
+    "MaintenancePrice": 0,
+    "DOC": {
+      "_seconds": 1765397205,
+      "_nanoseconds": 717000000
+    },
+    "RequestedModify": false,
+    "RequestedEmergency": false,
+    "__collections__": {
+      "MaintenanceContract": [
+        {
+          "id": "48-6-ElRehabCity",
+          "Status": null,
+          "RenewalRequestedAt": null,
+          "AutoRenew": false,
+          "CreatedAt": {
+            "_seconds": 1770475240,
+            "_nanoseconds": 223368000
+          },
+          "RenewalStatus": null,
+          "RenewalOffer": {
+            "Price": null,
+            "WarrantyMonths": null,
+            "Notes": null,
+            "ValidUntil": null
+          },
+          "RenewalDecision": {
+            "Status": null,
+            "DecidedAt": null,
+            "DecidedByEmail": null
+          },
+          "WarrantyMonths": 12,
+          "EndDate": null,
+          "UpdatedAt": {
+            "_seconds": 1770475240,
+            "_nanoseconds": 223368000
+          },
+          "RenewalCount": 0,
+          "StartDate": null,
+          "Price": null,
+          "RenewalRequested": false,
+          "RenewalAvail": false,
+          "CanRequestMaintenance": false,
+          "RenewalRequestedByEmail": null,
+          "RenewalRequestedByName": null,
+          "Notes": null
+        }
+      ],
+      "Milestones": [
+        {
+          "id": "48-6-ElRehabCity",
+          "Status": "Obtaining building permits",
+          "ArabicStatus": "قيد انتظار التراخيص",
+          "Milestones": [
+            {
+              "ArabicTitle": "الحصول على تراخيص المباني",
+              "Available": true,
+              "EndDate": {
+                "_seconds": 1765590749,
+                "_nanoseconds": 732000000
+              },
+              "StartDate": {
+                "_seconds": 1765404000,
+                "_nanoseconds": 0
+              },
+              "Status": "Ongoing",
+              "Title": "Obtaining building permits"
+            },
+            {
+              "ArabicTitle": "قيد انتظار التراخيص",
+              "Available": true,
+              "EndDate": {
+                "_seconds": 1765590832,
+                "_nanoseconds": 562000000
+              },
+              "StartDate": {
+                "_seconds": 1765590832,
+                "_nanoseconds": 562000000
+              },
+              "Status": "In Queue",
+              "Title": "Waiting for licenses"
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "49-2-ElRehabCity": {
+    "id": "49-2-ElRehabCity",
+    "Contract": {
+      "DownPayment": 386000,
+      "EFDate": {
+        "_seconds": 1741557600,
+        "_nanoseconds": 0
+      },
+      "Notes": "It was 710K at first then added 35K for another door in level 1 and 21K for internal door",
+      "NumberOfMembers": 1,
+      "Percentages": [
+        90,
+        10
+      ],
+      "Price": 766000,
+      "WarrantyMonths": 12
+    },
+    "DOC": {
+      "_seconds": 1741901217,
+      "_nanoseconds": 0
+    },
+    "MaintenancePrice": 0,
+    "Members": [
+      {
+        "AptNumber": 49,
+        "DOP": {
+          "_seconds": 1760043600,
+          "_nanoseconds": 0
+        },
+        "MobileNumber": "01212242278",
+        "Name": "David Isaac",
+        "Paid": 50000,
+        "SSN": "00000000000000"
+      }
+    ],
+    "Property": {
+      "Address": "Umm Kolthom Street",
+      "Area": "El Rehab City",
+      "Group": "49",
+      "Levels": 4,
+      "Model": "N",
+      "Number": "2",
+      "PropertyId": "49-2-ElRehabCity",
+      "SignDate": {
+        "_seconds": 1728507600,
+        "_nanoseconds": 0
+      },
+      "Type": "Building"
+    },
+    "RequestedEmergency": false,
+    "RequestedModify": false,
+    "SearchKey": [
+      "4",
+      "49",
+      "2",
+      "e",
+      "el",
+      "r",
+      "re",
+      "reh",
+      "reha",
+      "rehab",
+      "c",
+      "ci",
+      "cit",
+      "city",
+      "El Rehab City",
+      "all"
+    ],
+    "Status": "Active",
+    "__collections__": {
+      "MaintenanceContract": [
+        {
+          "id": "49-2-ElRehabCity",
+          "Status": null,
+          "RenewalRequestedAt": null,
+          "AutoRenew": false,
+          "CreatedAt": {
+            "_seconds": 1770475242,
+            "_nanoseconds": 462118000
+          },
+          "RenewalStatus": null,
+          "RenewalOffer": {
+            "Price": null,
+            "WarrantyMonths": null,
+            "Notes": null,
+            "ValidUntil": null
+          },
+          "RenewalDecision": {
+            "Status": null,
+            "DecidedAt": null,
+            "DecidedByEmail": null
+          },
+          "WarrantyMonths": 12,
+          "EndDate": null,
+          "UpdatedAt": {
+            "_seconds": 1770475242,
+            "_nanoseconds": 462118000
+          },
+          "RenewalCount": 0,
+          "StartDate": null,
+          "Price": null,
+          "RenewalRequested": false,
+          "RenewalAvail": false,
+          "CanRequestMaintenance": false,
+          "RenewalRequestedByEmail": null,
+          "RenewalRequestedByName": null,
+          "Notes": null
+        }
+      ],
+      "Members": [
+        {
+          "id": "oahae7000@gmail.com",
+          "FullName": "YSoSerious",
+          "Area": "El Rehab City",
+          "Group": "49",
+          "Number": "2",
+          "AptNumber": "6",
+          "Phone": "01000777817",
+          "ApprovedOn": {
+            "_seconds": 1754233970,
+            "_nanoseconds": 757000000
+          },
+          "PropertyId": "49-2-ElRehabCity",
+          "LastPrefUpdatedAt": {
+            "_seconds": 1766607425,
+            "_nanoseconds": 676000000
+          },
+          "Notifications": true,
+          "Locale": "en",
+          "LastTokenSetAt": {
+            "_seconds": 1768506727,
+            "_nanoseconds": 166000000
+          }
+        }
+      ],
+      "Requests": [
+        {
+          "id": "oahae7000@gmail.com",
+          "Group": "49",
+          "Email": "oahae7000@gmail.com",
+          "PropertyId": "49-2-ElRehabCity",
+          "PendingOn": {
+            "_seconds": 1754233955,
+            "_nanoseconds": 101000000
+          },
+          "Type": "Building",
+          "Area": "El Rehab City",
+          "Number": "2",
+          "Declined": false,
+          "Phone": "01000777817",
+          "FullName": "YSoSerious",
+          "AptNumber": "6",
+          "Approved": true,
+          "ApprovedOn": {
+            "_seconds": 1754233969,
+            "_nanoseconds": 379000000
+          },
+          "Pending": false
+        },
+        {
+          "id": "w@s.com",
+          "AptNumber": "11",
+          "Area": "El Rehab City",
+          "Declined": false,
+          "Email": "w@s.com",
+          "FullName": "Waleed Bin Talal",
+          "Group": "49",
+          "Number": "2",
+          "PendingOn": {
+            "_seconds": 1741901292,
+            "_nanoseconds": 647000000
+          },
+          "Phone": "01000000000",
+          "PropertyId": "49-2-ElRehabCity",
+          "Type": "Building",
+          "Approved": true,
+          "ApprovedOn": {
+            "_seconds": 1741901404,
+            "_nanoseconds": 0
+          },
+          "Pending": false
+        }
+      ]
+    }
+  },
+  "49-7-ElRehabCity": {
+    "id": "49-7-ElRehabCity",
+    "CanRequestMaintenance": false,
+    "Contract": {
+      "DownPayment": 0,
+      "EFDate": {
+        "_seconds": 1748725200,
+        "_nanoseconds": 0
+      },
+      "Notes": "Old ones.",
+      "NumberOfMembers": 1,
+      "Percentages": [
+        100
+      ],
+      "Price": 680000,
+      "WarrantyMonths": 6
+    },
+    "DOC": {
+      "_seconds": 1770474260,
+      "_nanoseconds": 0
+    },
+    "Members": [
+      {
+        "AptNumber": 41,
+        "DOP": {
+          "_seconds": 1735682400,
+          "_nanoseconds": 0
+        },
+        "MobileNumber": "01000000000",
+        "Name": "Mostafa",
+        "Paid": 0,
+        "SSN": "00000000000000"
+      }
+    ],
+    "Ownership": "ElevoInstalled",
+    "Property": {
+      "Address": "Umm Kolthom Street",
+      "Area": "El Rehab City",
+      "Group": "49",
+      "Levels": 4,
+      "Model": "G",
+      "Number": "7",
+      "PropertyId": "49-7-ElRehabCity",
+      "SignDate": {
+        "_seconds": 1770474260,
+        "_nanoseconds": 453536000
+      },
+      "Type": "Building"
+    },
+    "RequestedEmergency": false,
+    "RequestedModify": false,
+    "SearchKey": [
+      "4",
+      "49",
+      "7",
+      "e",
+      "el",
+      "r",
+      "re",
+      "reh",
+      "reha",
+      "rehab",
+      "c",
+      "ci",
+      "cit",
+      "city",
+      "El Rehab City",
+      "all"
+    ],
+    "Status": "Active",
+    "__collections__": {
+      "MaintenanceContract": [
+        {
+          "id": "49-7-ElRehabCity",
+          "Status": null,
+          "RenewalRequestedAt": null,
+          "AutoRenew": false,
+          "CreatedAt": {
+            "_seconds": 1770474261,
+            "_nanoseconds": 113994000
+          },
+          "RenewalStatus": null,
+          "RenewalOffer": {
+            "Price": null,
+            "WarrantyMonths": null,
+            "Notes": null,
+            "ValidUntil": null
+          },
+          "RenewalDecision": {
+            "Status": null,
+            "DecidedAt": null,
+            "DecidedByEmail": null
+          },
+          "WarrantyMonths": 6,
+          "EndDate": null,
+          "UpdatedAt": null,
+          "RenewalCount": null,
+          "StartDate": null,
+          "Price": null,
+          "RenewalRequested": false,
+          "RenewalAvail": false,
+          "CanRequestMaintenance": false,
+          "RenewalRequestedByEmail": null,
+          "RenewalRequestedByName": null,
+          "Notes": null
+        }
+      ]
+    }
+  },
+  "49-8-ElRehabCity": {
+    "id": "49-8-ElRehabCity",
+    "Contract": {
+      "Price": 600000,
+      "NumberOfMembers": 1,
+      "EFDate": {
+        "_seconds": 1738360800,
+        "_nanoseconds": 0
+      },
+      "Percentages": [
+        100
+      ],
+      "WarrantyMonths": 12,
+      "DownPayment": 0,
+      "Notes": ""
+    },
+    "Members": [
+      {
+        "Name": "Khaled",
+        "AptNumber": 41,
+        "MobileNumber": "01000000000",
+        "SSN": "00000000000000",
+        "Paid": 0,
+        "DOP": {
+          "_seconds": 1735682400,
+          "_nanoseconds": 0
+        }
+      }
+    ],
+    "Status": "Active",
+    "SearchKey": [
+      "4",
+      "49",
+      "8",
+      "e",
+      "el",
+      "r",
+      "re",
+      "reh",
+      "reha",
+      "rehab",
+      "c",
+      "ci",
+      "cit",
+      "city",
+      "El Rehab City",
+      "all"
+    ],
+    "MaintenancePrice": 0,
+    "DOC": {
+      "_seconds": 1754907907,
+      "_nanoseconds": 223000000
+    },
+    "RequestedModify": false,
+    "RequestedEmergency": false,
+    "Property": {
+      "Address": "Umm Kulthum",
+      "Type": "Building",
+      "Area": "El Rehab City",
+      "Group": "49",
+      "Number": "8",
+      "Levels": 4,
+      "SignDate": {
+        "_seconds": 1735682400,
+        "_nanoseconds": 0
+      },
+      "PropertyId": "49-8-ElRehabCity",
+      "Model": "R"
+    },
+    "__collections__": {
+      "Contracts": [
+        {
+          "id": "ElevatorContract",
+          "Date": {
+            "_seconds": 1754907924,
+            "_nanoseconds": 313000000
+          },
+          "Title": "",
+          "Name": "",
+          "URL": "",
+          "Available": false
+        },
+        {
+          "id": "ElevatorProposal",
+          "Date": {
+            "_seconds": 1754907924,
+            "_nanoseconds": 440000000
+          },
+          "Title": "",
+          "Name": "",
+          "URL": "",
+          "Available": false
+        }
+      ],
+      "MaintenanceContract": [
+        {
+          "id": "49-8-ElRehabCity",
+          "Status": null,
+          "RenewalRequestedAt": null,
+          "AutoRenew": false,
+          "CreatedAt": {
+            "_seconds": 1770475244,
+            "_nanoseconds": 123307000
+          },
+          "RenewalStatus": null,
+          "RenewalOffer": {
+            "Price": null,
+            "WarrantyMonths": null,
+            "Notes": null,
+            "ValidUntil": null
+          },
+          "RenewalDecision": {
+            "Status": null,
+            "DecidedAt": null,
+            "DecidedByEmail": null
+          },
+          "WarrantyMonths": 12,
+          "EndDate": null,
+          "UpdatedAt": {
+            "_seconds": 1770475244,
+            "_nanoseconds": 123307000
+          },
+          "RenewalCount": 0,
+          "StartDate": null,
+          "Price": null,
+          "RenewalRequested": false,
+          "RenewalAvail": false,
+          "CanRequestMaintenance": false,
+          "RenewalRequestedByEmail": null,
+          "RenewalRequestedByName": null,
+          "Notes": null
+        }
+      ]
+    }
+  },
+  "6-5-ElRehabCity": {
+    "id": "6-5-ElRehabCity",
+    "Property": {
+      "Address": "Talaat Mostafa",
+      "Type": "Building",
+      "Area": "El Rehab City",
+      "Group": "6",
+      "Number": "5",
+      "Model": "X",
+      "Levels": 4,
+      "SignDate": {
+        "_seconds": 1743976800,
+        "_nanoseconds": 0
+      },
+      "PropertyId": "6-5-ElRehabCity"
+    },
+    "Members": [
+      {
+        "Name": "Amr Abdelsalam",
+        "AptNumber": 41,
+        "MobileNumber": "01223956786",
+        "SSN": "00000000000000",
+        "Paid": 56000,
+        "DOP": {
+          "_seconds": 1743976800,
+          "_nanoseconds": 0
+        }
+      }
+    ],
+    "SearchKey": [
+      "6",
+      "5",
+      "e",
+      "el",
+      "r",
+      "re",
+      "reh",
+      "reha",
+      "rehab",
+      "c",
+      "ci",
+      "cit",
+      "city",
+      "El Rehab City",
+      "all"
+    ],
+    "MaintenancePrice": 0,
+    "DOC": {
+      "_seconds": 1744049368,
+      "_nanoseconds": 876000000
+    },
+    "RequestedModify": false,
+    "Contract": {
+      "Price": 690000,
+      "NumberOfMembers": 1,
+      "Percentages": [
+        40,
+        25,
+        20,
+        3,
+        2
+      ],
+      "WarrantyMonths": 6,
+      "DownPayment": 168000,
+      "Notes": "Waiting to get the remaining to get 276K",
+      "EFDate": {
+        "_seconds": 1756674000,
+        "_nanoseconds": 0
+      },
+      "WarrantyEnds": {
+        "_seconds": 1772316000,
+        "_nanoseconds": 0
+      }
+    },
+    "MaintenanceEnd": {
+      "_seconds": 1774303200,
+      "_nanoseconds": 0
+    },
+    "MaintenanceStart": {
+      "_seconds": 1758661200,
+      "_nanoseconds": 0
+    },
+    "RequestedEmergency": false,
+    "Status": "Active",
+    "__collections__": {
+      "MaintenanceContract": [
+        {
+          "id": "6-5-ElRehabCity",
+          "Status": null,
+          "RenewalRequestedAt": null,
+          "AutoRenew": false,
+          "CreatedAt": {
+            "_seconds": 1770475246,
+            "_nanoseconds": 719877000
+          },
+          "RenewalStatus": null,
+          "RenewalOffer": {
+            "Price": null,
+            "WarrantyMonths": null,
+            "Notes": null,
+            "ValidUntil": null
+          },
+          "RenewalDecision": {
+            "Status": null,
+            "DecidedAt": null,
+            "DecidedByEmail": null
+          },
+          "WarrantyMonths": 6,
+          "EndDate": null,
+          "UpdatedAt": {
+            "_seconds": 1770475246,
+            "_nanoseconds": 719877000
+          },
+          "RenewalCount": 0,
+          "StartDate": null,
+          "Price": null,
+          "RenewalRequested": false,
+          "RenewalAvail": false,
+          "CanRequestMaintenance": false,
+          "RenewalRequestedByEmail": null,
+          "RenewalRequestedByName": null,
+          "Notes": null
+        }
+      ],
+      "Members": [
+        {
+          "id": "seo@s.com",
+          "FullName": "Seo Yaji",
+          "Area": "El Rehab City",
+          "Group": "6",
+          "Number": "5",
+          "AptNumber": "1",
+          "Phone": "01000000000",
+          "ApprovedOn": {
+            "_seconds": 1752575095,
+            "_nanoseconds": 747000000
+          },
+          "PropertyId": "6-5-ElRehabCity",
+          "LastPrefUpdatedAt": {
+            "_seconds": 1758490373,
+            "_nanoseconds": 476000000
+          },
+          "Notifications": true,
+          "LastTokenSetAt": {
+            "_seconds": 1768307284,
+            "_nanoseconds": 488000000
+          },
+          "Locale": "en"
+        }
+      ],
+      "Milestones": [
+        {
+          "id": "6-5-ElRehabCity",
+          "FinishDate": {
+            "_seconds": 1757451600,
+            "_nanoseconds": 0
+          },
+          "ShowDate": false,
+          "Milestones": [
+            {
+              "Title": "Waiting for gas company inquiry",
+              "Available": true,
+              "Status": "Finished",
+              "EndDate": {
+                "_seconds": 1747429200,
+                "_nanoseconds": 0
+              },
+              "ArabicTitle": "قيد انتظار طلب شركة الغاز",
+              "StartDate": {
+                "_seconds": 1744063200,
+                "_nanoseconds": 0
+              }
+            },
+            {
+              "EndDate": {
+                "_seconds": 1747774800,
+                "_nanoseconds": 0
+              },
+              "StartDate": {
+                "_seconds": 1747515600,
+                "_nanoseconds": 0
+              },
+              "Title": "Redirecting gas pipes",
+              "Status": "Finished",
+              "ArabicTitle": "تحويل أنابيب الغاز",
+              "Available": true
+            },
+            {
+              "Title": "Waiting for City Hall",
+              "Status": "Finished",
+              "Available": true,
+              "StartDate": {
+                "_seconds": 1747856152,
+                "_nanoseconds": 560000000
+              },
+              "ArabicTitle": "قيد انتظار جهاز المدينة",
+              "EndDate": {
+                "_seconds": 1747861200,
+                "_nanoseconds": 0
+              }
+            },
+            {
+              "ArabicTitle": "بدء أعمال البناء",
+              "EndDate": {
+                "_seconds": 1748034000,
+                "_nanoseconds": 0
+              },
+              "StartDate": {
+                "_seconds": 1748034000,
+                "_nanoseconds": 0
+              },
+              "Available": true,
+              "Status": "Finished",
+              "Title": "Starting Construction"
+            },
+            {
+              "Status": "Finished",
+              "Available": true,
+              "Title": "Obstructed by a third party",
+              "EndDate": {
+                "_seconds": 1749848400,
+                "_nanoseconds": 0
+              },
+              "StartDate": {
+                "_seconds": 1748206800,
+                "_nanoseconds": 0
+              },
+              "ArabicTitle": "معوّق من طرف ثالث"
+            },
+            {
+              "ArabicTitle": "تحضير حفرة المصعد",
+              "StartDate": {
+                "_seconds": 1749848400,
+                "_nanoseconds": 0
+              },
+              "Available": true,
+              "EndDate": {
+                "_seconds": 1750539600,
+                "_nanoseconds": 0
+              },
+              "Status": "Finished",
+              "Title": "Preparing the elevator pit"
+            },
+            {
+              "ArabicTitle": "تركيب السقالات",
+              "Available": true,
+              "EndDate": {
+                "_seconds": 1750626000,
+                "_nanoseconds": 0
+              },
+              "Status": "Finished",
+              "Title": "Installing the scaffold",
+              "StartDate": {
+                "_seconds": 1750539600,
+                "_nanoseconds": 0
+              }
+            },
+            {
+              "Title": "Opening a spot for electricity meter",
+              "ArabicTitle": "فتح مكان لعداد الكهرباء",
+              "StartDate": {
+                "_seconds": 1750712400,
+                "_nanoseconds": 0
+              },
+              "Available": true,
+              "EndDate": {
+                "_seconds": 1750712400,
+                "_nanoseconds": 0
+              },
+              "Status": "Finished"
+            },
+            {
+              "EndDate": {
+                "_seconds": 1751749200,
+                "_nanoseconds": 0
+              },
+              "Status": "Finished",
+              "Available": true,
+              "Title": "Assembling metal tower",
+              "ArabicTitle": "تركيب البرج المعدني",
+              "StartDate": {
+                "_seconds": 1750712400,
+                "_nanoseconds": 0
+              }
+            },
+            {
+              "Title": "Waiting for City Hall approval",
+              "ArabicTitle": "قيد انتظار موافقة جهاز المدينة",
+              "EndDate": {
+                "_seconds": 1751835600,
+                "_nanoseconds": 0
+              },
+              "StartDate": {
+                "_seconds": 1751749200,
+                "_nanoseconds": 0
+              },
+              "Available": true,
+              "Status": "Finished"
+            },
+            {
+              "Status": "Finished",
+              "EndDate": {
+                "_seconds": 1751922000,
+                "_nanoseconds": 0
+              },
+              "Available": true,
+              "ArabicTitle": "تكسير الجدران",
+              "StartDate": {
+                "_seconds": 1751922000,
+                "_nanoseconds": 0
+              },
+              "Title": "Wall dismantling"
+            },
+            {
+              "ArabicTitle": "تركيب القضبان والأبواب",
+              "StartDate": {
+                "_seconds": 1752354000,
+                "_nanoseconds": 0
+              },
+              "Status": "Finished",
+              "EndDate": {
+                "_seconds": 1752526800,
+                "_nanoseconds": 0
+              },
+              "Available": true,
+              "Title": "Installing rails & doors"
+            },
+            {
+              "Available": true,
+              "EndDate": {
+                "_seconds": 1753822800,
+                "_nanoseconds": 0
+              },
+              "Title": "Building machine room",
+              "StartDate": {
+                "_seconds": 1752526800,
+                "_nanoseconds": 0
+              },
+              "Status": "Finished",
+              "ArabicTitle": "إنشاء غرفة الماكينات"
+            },
+            {
+              "EndDate": {
+                "_seconds": 1754168400,
+                "_nanoseconds": 0
+              },
+              "Available": true,
+              "StartDate": {
+                "_seconds": 1754168400,
+                "_nanoseconds": 0
+              },
+              "Status": "Finished",
+              "Title": "Installing machine",
+              "ArabicTitle": "تركيب الماكينة"
+            },
+            {
+              "EndDate": {
+                "_seconds": 1755550800,
+                "_nanoseconds": 0
+              },
+              "Available": true,
+              "ArabicTitle": "تركيب الكابينة",
+              "Title": "Assembling cabin",
+              "Status": "Finished",
+              "StartDate": {
+                "_seconds": 1755550800,
+                "_nanoseconds": 0
+              }
+            },
+            {
+              "Available": true,
+              "StartDate": {
+                "_seconds": 1755637200,
+                "_nanoseconds": 0
+              },
+              "EndDate": {
+                "_seconds": 1755637200,
+                "_nanoseconds": 0
+              },
+              "Status": "Finished",
+              "ArabicTitle": "قيد انتظار شركة الكهرباء",
+              "Title": "Waiting for electricity company"
+            },
+            {
+              "ArabicTitle": "تركيب عداد الكهرباء",
+              "Status": "Finished",
+              "Available": true,
+              "StartDate": {
+                "_seconds": 1755723600,
+                "_nanoseconds": 0
+              },
+              "EndDate": {
+                "_seconds": 1755723600,
+                "_nanoseconds": 0
+              },
+              "Title": "Installing electricity meter"
+            },
+            {
+              "Status": "Finished",
+              "ArabicTitle": "توريد منتجات المصعد",
+              "Title": "Supplying Elevator Products",
+              "EndDate": {
+                "_seconds": 1755801040,
+                "_nanoseconds": 31000000
+              },
+              "StartDate": {
+                "_seconds": 1755801040,
+                "_nanoseconds": 31000000
+              },
+              "Available": true
+            },
+            {
+              "EndDate": {
+                "_seconds": 1755810000,
+                "_nanoseconds": 0
+              },
+              "Available": true,
+              "StartDate": {
+                "_seconds": 1755723600,
+                "_nanoseconds": 0
+              },
+              "Status": "Finished",
+              "ArabicTitle": "تركيب وحدة التحكم",
+              "Title": "Assembling control unit"
+            },
+            {
+              "Title": "Installing metal mesh",
+              "ArabicTitle": "تركيب الشبك المعدني",
+              "EndDate": {
+                "_seconds": 1755896400,
+                "_nanoseconds": 0
+              },
+              "StartDate": {
+                "_seconds": 1755896400,
+                "_nanoseconds": 0
+              },
+              "Status": "Finished",
+              "Available": true
+            },
+            {
+              "Title": "Assembling windows",
+              "Available": true,
+              "ArabicTitle": "تركيب النوافذ",
+              "StartDate": {
+                "_seconds": 1755982800,
+                "_nanoseconds": 0
+              },
+              "Status": "Finished",
+              "EndDate": {
+                "_seconds": 1755982800,
+                "_nanoseconds": 0
+              }
+            },
+            {
+              "Available": true,
+              "StartDate": {
+                "_seconds": 1755964555,
+                "_nanoseconds": 316000000
+              },
+              "EndDate": {
+                "_seconds": 1755982800,
+                "_nanoseconds": 0
+              },
+              "ArabicTitle": "تشغيل تجريبي للمصعد",
+              "Status": "Finished",
+              "Title": "Test running the elevator"
+            },
+            {
+              "EndDate": {
+                "_seconds": 1755637200,
+                "_nanoseconds": 0
+              },
+              "Status": "Finished",
+              "Title": "Finishing the paint job",
+              "Available": true,
+              "ArabicTitle": "إنهاء أعمال الدهان",
+              "StartDate": {
+                "_seconds": 1755637200,
+                "_nanoseconds": 0
+              }
+            },
+            {
+              "Status": "Finished",
+              "StartDate": {
+                "_seconds": 1757523168,
+                "_nanoseconds": 512000000
+              },
+              "Title": "Ready for handover",
+              "ArabicTitle": "جاهز للتسليم",
+              "EndDate": {
+                "_seconds": 1758661200,
+                "_nanoseconds": 0
+              },
+              "Available": true
+            },
+            {
+              "Title": "Delivered",
+              "ArabicTitle": "تم التسليم",
+              "StartDate": {
+                "_seconds": 1758661200,
+                "_nanoseconds": 0
+              },
+              "Status": "Finished",
+              "Available": true,
+              "EndDate": {
+                "_seconds": 1758661200,
+                "_nanoseconds": 0
+              }
+            }
+          ],
+          "Status": "Delivered",
+          "ArabicStatus": "تم التسليم"
+        }
+      ],
+      "Requests": [
+        {
+          "id": "seo@s.com",
+          "AptNumber": "1",
+          "Area": "El Rehab City",
+          "Declined": false,
+          "Email": "seo@s.com",
+          "FullName": "Seo Yaji",
+          "Group": "6",
+          "Number": "5",
+          "PendingOn": {
+            "_seconds": 1752575086,
+            "_nanoseconds": 135999000
+          },
+          "Phone": "01000000000",
+          "PropertyId": "6-5-ElRehabCity",
+          "Type": "Building",
+          "Approved": true,
+          "ApprovedOn": {
+            "_seconds": 1752575095,
+            "_nanoseconds": 48000000
+          },
+          "Pending": false
+        }
+      ]
+    }
+  },
+  "7-19-ElRehabCity": {
+    "id": "7-19-ElRehabCity",
+    "CanRequestMaintenance": false,
+    "Contract": {
+      "DownPayment": 0,
+      "EFDate": {
+        "_seconds": 1638828000,
+        "_nanoseconds": 0
+      },
+      "Notes": "Old ones.",
+      "NumberOfMembers": 1,
+      "Percentages": [
+        100
+      ],
+      "Price": 430000,
+      "WarrantyMonths": 6
+    },
+    "DOC": {
+      "_seconds": 1770477441,
+      "_nanoseconds": 0
+    },
+    "Members": [
+      {
+        "AptNumber": 43,
+        "DOP": {
+          "_seconds": 1609970400,
+          "_nanoseconds": 0
+        },
+        "MobileNumber": "01000000000",
+        "Name": "Fady Gerges",
+        "Paid": 0,
+        "SSN": "00000000000000"
+      }
+    ],
+    "Ownership": "ElevoInstalled",
+    "Property": {
+      "Address": "Old Souq",
+      "Area": "El Rehab City",
+      "Group": "7",
+      "Levels": 4,
+      "Model": "X",
+      "Number": "19",
+      "PropertyId": "7-19-ElRehabCity",
+      "SignDate": {
+        "_seconds": 1770477441,
+        "_nanoseconds": 377388000
+      },
+      "Type": "Building"
+    },
+    "RequestedEmergency": false,
+    "RequestedModify": false,
+    "SearchKey": [
+      "7",
+      "1",
+      "19",
+      "e",
+      "el",
+      "r",
+      "re",
+      "reh",
+      "reha",
+      "rehab",
+      "c",
+      "ci",
+      "cit",
+      "city",
+      "El Rehab City",
+      "all"
+    ],
+    "Status": "Active",
+    "__collections__": {
+      "MaintenanceContract": [
+        {
+          "id": "7-19-ElRehabCity",
+          "Status": null,
+          "RenewalRequestedAt": null,
+          "AutoRenew": false,
+          "CreatedAt": {
+            "_seconds": 1770477442,
+            "_nanoseconds": 60145000
+          },
+          "RenewalStatus": null,
+          "RenewalOffer": {
+            "Price": null,
+            "WarrantyMonths": null,
+            "Notes": null,
+            "ValidUntil": null
+          },
+          "RenewalDecision": {
+            "Status": null,
+            "DecidedAt": null,
+            "DecidedByEmail": null
+          },
+          "WarrantyMonths": 6,
+          "EndDate": null,
+          "UpdatedAt": null,
+          "RenewalCount": null,
+          "StartDate": null,
+          "Price": null,
+          "RenewalRequested": false,
+          "RenewalAvail": false,
+          "CanRequestMaintenance": false,
+          "RenewalRequestedByEmail": null,
+          "RenewalRequestedByName": null,
+          "Notes": null
+        }
+      ]
+    }
+  },
+  "73-14-ElRehabCity": {
+    "id": "73-14-ElRehabCity",
+    "Property": {
+      "Address": "73/14 Street",
+      "Type": "Building",
+      "Area": "El Rehab City",
+      "Group": "73",
+      "Number": "14",
+      "Model": "G",
+      "Levels": 1,
+      "SignDate": {
+        "_seconds": 1729371600,
+        "_nanoseconds": 0
+      },
+      "PropertyId": "73-14-ElRehabCity"
+    },
+    "Members": [
+      {
+        "Name": "Mohamed Assem",
+        "AptNumber": 41,
+        "MobileNumber": "01000000000",
+        "SSN": "00000000000000",
+        "Paid": 0,
+        "DOP": {
+          "_seconds": 1729371600,
+          "_nanoseconds": 0
+        }
+      }
+    ],
+    "SearchKey": [
+      "7",
+      "73",
+      "1",
+      "14",
+      "e",
+      "el",
+      "r",
+      "re",
+      "reh",
+      "reha",
+      "rehab",
+      "c",
+      "ci",
+      "cit",
+      "city",
+      "El Rehab City",
+      "all"
+    ],
+    "MaintenancePrice": 0,
+    "DOC": {
+      "_seconds": 1753033458,
+      "_nanoseconds": 557000000
+    },
+    "RequestedModify": false,
+    "RequestedEmergency": false,
+    "Contract": {
+      "NumberOfMembers": 1,
+      "EFDate": {
+        "_seconds": 1764540000,
+        "_nanoseconds": 0
+      },
+      "Percentages": [
+        50,
+        20,
+        20,
+        8,
+        2
+      ],
+      "WarrantyMonths": 12,
+      "DownPayment": 725000,
+      "Notes": "",
+      "Price": 1545000
+    },
+    "Status": "Under construction",
+    "__collections__": {
+      "Decisions": [
+        {
+          "id": "CabinSelection",
+          "Date": {
+            "_seconds": 1763681022,
+            "_nanoseconds": 948068000
+          },
+          "Status": "Closed",
+          "Title": "Cabin Selection",
+          "Options": [
+            {
+              "ArName": "بريزم",
+              "ArNotes": "",
+              "Name": "Prism",
+              "CabinId": "Prism",
+              "Review": 4,
+              "Available": true,
+              "ImageUrl": "https://firebasestorage.googleapis.com/v0/b/elevooo.appspot.com/o/Cabins%2FPrism%2F1.png?alt=media&token=8e216515-a922-4ce6-a42b-733cfde2dfdf",
+              "Notes": ""
+            },
+            {
+              "ImageUrl": "https://firebasestorage.googleapis.com/v0/b/elevooo.appspot.com/o/Cabins%2FHexa%2F1.png?alt=media&token=d5b2c942-ef42-42e5-98ec-c79844225833",
+              "ArNotes": "",
+              "ArName": "هيكسا",
+              "CabinId": "Hexa",
+              "Notes": "",
+              "Review": 3.7,
+              "Name": "Hexa",
+              "Available": true
+            },
+            {
+              "Name": "Strata",
+              "Notes": "",
+              "CabinId": "Strata",
+              "Available": true,
+              "ArName": "ستراتا",
+              "ArNotes": "",
+              "Review": 4.1,
+              "ImageUrl": "https://firebasestorage.googleapis.com/v0/b/elevooo.appspot.com/o/Cabins%2FStrata%2FFront.png?alt=media&token=5b6b0262-e4ea-4e23-af98-b0ae52cce205"
+            }
+          ],
+          "SearchKey": [
+            "c",
+            "ca",
+            "cab",
+            "cabi",
+            "cabin",
+            "cabin ",
+            "cabin s",
+            "cabin se",
+            "cabin sel",
+            "cabin sele",
+            "cabin selec",
+            "cabin select",
+            "cabin selecti",
+            "cabin selectio",
+            "cabin selection"
+          ],
+          "Description": "",
+          "Available": true,
+          "QuorumMet": false,
+          "ArDescription": "",
+          "ArTitle": "اختيار الكابينة",
+          "DefaultOption": "Hexa",
+          "TotalVotes": 1,
+          "LastUpdatedAt": {
+            "_seconds": 1763996539,
+            "_nanoseconds": 636000000
+          },
+          "Count": {
+            "Hexa": 0,
+            "Prism": 0,
+            "Strata": 0
+          },
+          "ExpiresAt": {
+            "_seconds": 1764001740,
+            "_nanoseconds": 0
+          },
+          "ImagePreview": "https://firebasestorage.googleapis.com/v0/b/elevooo.appspot.com/o/Alerts%2FImagePreview.webp?alt=media&token=848f0f4b-ecbf-470c-af6b-c14c0b001c48",
+          "__collections__": {
+            "Votes": [
+              {
+                "id": "w@s.com",
+                "UserId": "w@s.com",
+                "DeviceId": null,
+                "Option": "Prism",
+                "VotedAt": {
+                  "_seconds": 1763996539,
+                  "_nanoseconds": 636000000
+                },
+                "PropertyId": "73-14-ElRehabCity"
+              }
+            ]
+          }
+        }
+      ],
+      "MaintenanceContract": [
+        {
+          "id": "73-14-ElRehabCity",
+          "Status": null,
+          "RenewalRequestedAt": null,
+          "AutoRenew": false,
+          "CreatedAt": {
+            "_seconds": 1770475248,
+            "_nanoseconds": 923000000
+          },
+          "RenewalStatus": null,
+          "RenewalOffer": {
+            "Price": null,
+            "WarrantyMonths": null,
+            "Notes": null,
+            "ValidUntil": null
+          },
+          "RenewalDecision": {
+            "Status": null,
+            "DecidedAt": null,
+            "DecidedByEmail": null
+          },
+          "WarrantyMonths": 12,
+          "EndDate": null,
+          "UpdatedAt": {
+            "_seconds": 1770475248,
+            "_nanoseconds": 923000000
+          },
+          "RenewalCount": 0,
+          "StartDate": null,
+          "Price": null,
+          "RenewalRequested": false,
+          "RenewalAvail": false,
+          "CanRequestMaintenance": false,
+          "RenewalRequestedByEmail": null,
+          "RenewalRequestedByName": null,
+          "Notes": null
+        }
+      ],
+      "Members": [
+        {
+          "id": "faswaaltizawy@gmail.com",
+          "FullName": "Faswa Al Tizawy",
+          "Area": "El Rehab City",
+          "Group": "73",
+          "Number": "14",
+          "AptNumber": "11",
+          "Phone": "01000000000",
+          "PropertyId": "73-14-ElRehabCity",
+          "Notifications": true,
+          "LastTokenSetAt": {
+            "_seconds": 1755706230,
+            "_nanoseconds": 883000000
+          },
+          "LastPrefUpdatedAt": {
+            "_seconds": 1757784358,
+            "_nanoseconds": 604000000
+          },
+          "ApprovedOn": {
+            "_seconds": 1757784358,
+            "_nanoseconds": 66000000
+          }
+        },
+        {
+          "id": "w@s.com",
+          "FullName": "Waleed Bin Talal",
+          "Area": "El Rehab City",
+          "Group": "73",
+          "Number": "14",
+          "AptNumber": "11",
+          "Phone": "01000000000",
+          "ApprovedOn": {
+            "_seconds": 1753835709,
+            "_nanoseconds": 479000000
+          },
+          "PropertyId": "73-14-ElRehabCity",
+          "LastPrefUpdatedAt": {
+            "_seconds": 1764673026,
+            "_nanoseconds": 54000000
+          },
+          "Notifications": true,
+          "LastTokenSetAt": {
+            "_seconds": 1768750178,
+            "_nanoseconds": 993000000
+          },
+          "Locale": "en"
+        }
+      ],
+      "Milestones": [
+        {
+          "id": "73-14-ElRehabCity",
+          "FinishDate": {
+            "_seconds": 1764453600,
+            "_nanoseconds": 0
+          },
+          "ShowDate": true,
+          "Status": "Continuing Construction",
+          "ArabicStatus": "استمرار أعمال البناء",
+          "Milestones": [
+            {
+              "ArabicTitle": "توريد منتجات المصعد",
+              "Available": true,
+              "EndDate": {
+                "_seconds": 1753045200,
+                "_nanoseconds": 0
+              },
+              "StartDate": {
+                "_seconds": 1753045200,
+                "_nanoseconds": 0
+              },
+              "Status": "Finished",
+              "Title": "Supplying Elevator Products"
+            },
+            {
+              "ArabicTitle": "توريد مواد البناء",
+              "Available": true,
+              "EndDate": {
+                "_seconds": 1753131600,
+                "_nanoseconds": 0
+              },
+              "StartDate": {
+                "_seconds": 1753131600,
+                "_nanoseconds": 0
+              },
+              "Status": "Finished",
+              "Title": "Supplying Construction Products"
+            },
+            {
+              "ArabicTitle": "بدء أعمال البناء",
+              "Available": true,
+              "EndDate": {
+                "_seconds": 1753892910,
+                "_nanoseconds": 0
+              },
+              "StartDate": {
+                "_seconds": 1753131600,
+                "_nanoseconds": 0
+              },
+              "Status": "Finished",
+              "Title": "Starting Construction"
+            },
+            {
+              "ArabicTitle": "أعمال الحفر",
+              "Available": true,
+              "EndDate": {
+                "_seconds": 1753892912,
+                "_nanoseconds": 0
+              },
+              "StartDate": {
+                "_seconds": 1753218000,
+                "_nanoseconds": 0
+              },
+              "Status": "Finished",
+              "Title": "Excavation work"
+            },
+            {
+              "ArabicTitle": "توريد مواد البناء",
+              "Available": true,
+              "EndDate": {
+                "_seconds": 1753893002,
+                "_nanoseconds": 0
+              },
+              "StartDate": {
+                "_seconds": 1753893002,
+                "_nanoseconds": 0
+              },
+              "Status": "Finished",
+              "Title": "Supplying Construction Products"
+            },
+            {
+              "ArabicTitle": "صب الخرسانة",
+              "Available": true,
+              "EndDate": {
+                "_seconds": 1753909200,
+                "_nanoseconds": 0
+              },
+              "StartDate": {
+                "_seconds": 1753909200,
+                "_nanoseconds": 0
+              },
+              "Status": "Finished",
+              "Title": "Concrete pouring"
+            },
+            {
+              "ArabicTitle": "انتظار تماسك الخرسانة",
+              "Available": true,
+              "EndDate": {
+                "_seconds": 1754168400,
+                "_nanoseconds": 0
+              },
+              "StartDate": {
+                "_seconds": 1753909200,
+                "_nanoseconds": 0
+              },
+              "Status": "Finished",
+              "Title": "Waiting for concrete to set"
+            },
+            {
+              "ArabicTitle": "تركيب الأساس",
+              "Available": true,
+              "EndDate": {
+                "_seconds": 1754600400,
+                "_nanoseconds": 0
+              },
+              "StartDate": {
+                "_seconds": 1754254800,
+                "_nanoseconds": 0
+              },
+              "Status": "Finished",
+              "Title": "Installing the foundation"
+            },
+            {
+              "ArabicTitle": "قيد انتظار موافقة جهاز المدينة",
+              "Available": true,
+              "EndDate": {
+                "_seconds": 1755032400,
+                "_nanoseconds": 0
+              },
+              "StartDate": {
+                "_seconds": 1754600400,
+                "_nanoseconds": 0
+              },
+              "Status": "Finished",
+              "Title": "Waiting for City Hall approval"
+            },
+            {
+              "ArabicTitle": "صب الخرسانة",
+              "Available": true,
+              "EndDate": {
+                "_seconds": 1755291600,
+                "_nanoseconds": 0
+              },
+              "StartDate": {
+                "_seconds": 1755118800,
+                "_nanoseconds": 0
+              },
+              "Status": "Finished",
+              "Title": "Concrete pouring"
+            },
+            {
+              "ArabicTitle": "انتظار تماسك الخرسانة",
+              "Available": true,
+              "EndDate": {
+                "_seconds": 1755550800,
+                "_nanoseconds": 0
+              },
+              "StartDate": {
+                "_seconds": 1755291600,
+                "_nanoseconds": 0
+              },
+              "Status": "Finished",
+              "Title": "Waiting for concrete to set"
+            },
+            {
+              "ArabicTitle": "فتح مكان لعداد الكهرباء",
+              "Available": true,
+              "EndDate": {
+                "_seconds": 1755611012,
+                "_nanoseconds": 679000000
+              },
+              "StartDate": {
+                "_seconds": 1755611012,
+                "_nanoseconds": 679000000
+              },
+              "Status": "Finished",
+              "Title": "Opening a spot for electricity meter"
+            },
+            {
+              "ArabicTitle": "استمرار أعمال البناء",
+              "Available": true,
+              "EndDate": {
+                "_seconds": 1755611037,
+                "_nanoseconds": 161000000
+              },
+              "StartDate": {
+                "_seconds": 1755611037,
+                "_nanoseconds": 161000000
+              },
+              "Status": "Finished",
+              "Title": "Continuing Construction"
+            },
+            {
+              "ArabicTitle": "صب الخرسانة",
+              "Available": true,
+              "EndDate": {
+                "_seconds": 1755723600,
+                "_nanoseconds": 0
+              },
+              "StartDate": {
+                "_seconds": 1755723600,
+                "_nanoseconds": 0
+              },
+              "Status": "Finished",
+              "Title": "Concrete pouring"
+            },
+            {
+              "ArabicTitle": "انتظار تماسك الخرسانة",
+              "Available": true,
+              "EndDate": {
+                "_seconds": 1755982800,
+                "_nanoseconds": 0
+              },
+              "StartDate": {
+                "_seconds": 1755723600,
+                "_nanoseconds": 0
+              },
+              "Status": "Finished",
+              "Title": "Waiting for concrete to set"
+            },
+            {
+              "ArabicTitle": "استمرار أعمال البناء",
+              "Available": true,
+              "EndDate": {
+                "_seconds": 1761948000,
+                "_nanoseconds": 0
+              },
+              "StartDate": {
+                "_seconds": 1755982800,
+                "_nanoseconds": 0
+              },
+              "Status": "Ongoing",
+              "Title": "Continuing Construction"
+            }
+          ]
+        }
+      ],
+      "Requests": [
+        {
+          "id": "w@s.com",
+          "AptNumber": "11",
+          "Area": "El Rehab City",
+          "Declined": false,
+          "Email": "w@s.com",
+          "FullName": "Waleed Bin Talal",
+          "Group": "73",
+          "Number": "14",
+          "PendingOn": {
+            "_seconds": 1753835693,
+            "_nanoseconds": 868999000
+          },
+          "Phone": "01000000000",
+          "PropertyId": "73-14-ElRehabCity",
+          "Type": "Building",
+          "Approved": true,
+          "ApprovedOn": {
+            "_seconds": 1753835708,
+            "_nanoseconds": 850000000
+          },
+          "Pending": false
+        }
+      ]
+    }
+  },
+  "73-8-ElRehabCity": {
+    "id": "73-8-ElRehabCity",
+    "Property": {
+      "Address": "73-8",
+      "Type": "Building",
+      "Area": "El Rehab City",
+      "Group": "73",
+      "Number": "8",
+      "Model": "D",
+      "Levels": 4,
+      "SignDate": {
+        "_seconds": 1770141318,
+        "_nanoseconds": 701000000
+      },
+      "PropertyId": "73-8-ElRehabCity"
+    },
+    "Contract": {
+      "Price": 1155000,
+      "NumberOfMembers": 1,
+      "EFDate": {
+        "_seconds": 1790802000,
+        "_nanoseconds": 0
+      },
+      "Percentages": [
+        30,
+        40,
+        15,
+        13,
+        2
+      ],
+      "WarrantyMonths": 12,
+      "DownPayment": 346500,
+      "Notes": ""
+    },
+    "Members": [
+      {
+        "Name": "Wessam Soliman",
+        "AptNumber": 41,
+        "MobileNumber": "01000000000",
+        "SSN": "00000000000000",
+        "Paid": 346500,
+        "DOP": {
+          "_seconds": 1768773600,
+          "_nanoseconds": 0
+        }
+      }
+    ],
+    "Status": "Under construction",
+    "Ownership": "ElevoInstalled",
+    "SearchKey": [
+      "7",
+      "73",
+      "8",
+      "e",
+      "el",
+      "r",
+      "re",
+      "reh",
+      "reha",
+      "rehab",
+      "c",
+      "ci",
+      "cit",
+      "city",
+      "El Rehab City",
+      "all"
+    ],
+    "MaintenancePrice": 0,
+    "DOC": {
+      "_seconds": 1770141318,
+      "_nanoseconds": 702000000
+    },
+    "RequestedModify": false,
+    "RequestedEmergency": false,
+    "__collections__": {
+      "MaintenanceContract": [
+        {
+          "id": "73-8-ElRehabCity",
+          "Status": null,
+          "RenewalRequestedAt": null,
+          "AutoRenew": false,
+          "CreatedAt": {
+            "_seconds": 1770475251,
+            "_nanoseconds": 534892000
+          },
+          "RenewalStatus": null,
+          "RenewalOffer": {
+            "Price": null,
+            "WarrantyMonths": null,
+            "Notes": null,
+            "ValidUntil": null
+          },
+          "RenewalDecision": {
+            "Status": null,
+            "DecidedAt": null,
+            "DecidedByEmail": null
+          },
+          "WarrantyMonths": 12,
+          "EndDate": null,
+          "UpdatedAt": {
+            "_seconds": 1770475251,
+            "_nanoseconds": 534892000
+          },
+          "RenewalCount": 0,
+          "StartDate": null,
+          "Price": null,
+          "RenewalRequested": false,
+          "RenewalAvail": false,
+          "CanRequestMaintenance": false,
+          "RenewalRequestedByEmail": null,
+          "RenewalRequestedByName": null,
+          "Notes": null
+        }
+      ]
+    }
+  },
+  "8-6-ElRehabCity": {
+    "id": "8-6-ElRehabCity",
+    "CanRequestMaintenance": false,
+    "Contract": {
+      "DownPayment": 0,
+      "EFDate": {
+        "_seconds": 1707256800,
+        "_nanoseconds": 0
+      },
+      "Notes": "Old ones",
+      "NumberOfMembers": 1,
+      "Percentages": [
+        100
+      ],
+      "Price": 600000,
+      "WarrantyMonths": 1
+    },
+    "DOC": {
+      "_seconds": 1770477566,
+      "_nanoseconds": 0
+    },
+    "Members": [
+      {
+        "AptNumber": 33,
+        "DOP": {
+          "_seconds": 1770415200,
+          "_nanoseconds": 0
+        },
+        "MobileNumber": "01000000000",
+        "Name": "Magdy Roshdy",
+        "Paid": 0,
+        "SSN": "00000000000000"
+      }
+    ],
+    "Ownership": "ElevoInstalled",
+    "RequestedEmergency": false,
+    "RequestedModify": false,
+    "SearchKey": [
+      "8",
+      "6",
+      "e",
+      "el",
+      "r",
+      "re",
+      "reh",
+      "reha",
+      "rehab",
+      "c",
+      "ci",
+      "cit",
+      "city",
+      "El Rehab City",
+      "all"
+    ],
+    "Status": "Active",
+    "Property": {
+      "Address": "Old Souq",
+      "Area": "El Rehab City",
+      "Group": "8",
+      "Levels": 4,
+      "Number": "6",
+      "PropertyId": "8-6-ElRehabCity",
+      "Type": "Building",
+      "Model": "Y",
+      "SignDate": {
+        "_seconds": 1770479195,
+        "_nanoseconds": 203692000
+      }
+    },
+    "__collections__": {
+      "MaintenanceContract": [
+        {
+          "id": "8-6-ElRehabCity",
+          "Status": null,
+          "RenewalRequestedAt": null,
+          "AutoRenew": false,
+          "CreatedAt": {
+            "_seconds": 1770477566,
+            "_nanoseconds": 814858000
+          },
+          "RenewalStatus": null,
+          "RenewalOffer": {
+            "Price": null,
+            "WarrantyMonths": null,
+            "Notes": null,
+            "ValidUntil": null
+          },
+          "RenewalDecision": {
+            "Status": null,
+            "DecidedAt": null,
+            "DecidedByEmail": null
+          },
+          "WarrantyMonths": 1,
+          "EndDate": null,
+          "UpdatedAt": null,
+          "RenewalCount": null,
+          "StartDate": null,
+          "Price": null,
+          "RenewalRequested": false,
+          "RenewalAvail": false,
+          "CanRequestMaintenance": false,
+          "RenewalRequestedByEmail": null,
+          "RenewalRequestedByName": null,
+          "Notes": null
+        }
+      ]
+    }
+  },
+  "87-10-ElRehabCity": {
+    "id": "87-10-ElRehabCity",
+    "Property": {
+      "Address": "Group 87 - Building 10",
+      "Type": "Building",
+      "Area": "El Rehab City",
+      "Group": "87",
+      "Number": "10",
+      "Model": "S",
+      "Levels": 4,
+      "SignDate": {
+        "_seconds": 1767533041,
+        "_nanoseconds": 649000000
+      },
+      "PropertyId": "87-10-ElRehabCity"
+    },
+    "Contract": {
+      "Price": 830000,
+      "NumberOfMembers": 1,
+      "EFDate": {
+        "_seconds": 1785531600,
+        "_nanoseconds": 0
+      },
+      "Percentages": [
+        12,
+        36,
+        24,
+        24,
+        3
+      ],
+      "WarrantyMonths": 12,
+      "DownPayment": 100000,
+      "Notes": "Paid 100K till we get the licenses and he'll pay 55K for them."
+    },
+    "Members": [
+      {
+        "Name": "Maher",
+        "AptNumber": 31,
+        "MobileNumber": "01000000000",
+        "SSN": "00000000000000",
+        "Paid": 100000,
+        "DOP": {
+          "_seconds": 1767477600,
+          "_nanoseconds": 0
+        }
+      }
+    ],
+    "Status": "Under construction",
+    "SearchKey": [
+      "8",
+      "87",
+      "1",
+      "10",
+      "e",
+      "el",
+      "r",
+      "re",
+      "reh",
+      "reha",
+      "rehab",
+      "c",
+      "ci",
+      "cit",
+      "city",
+      "El Rehab City",
+      "all"
+    ],
+    "MaintenancePrice": 0,
+    "DOC": {
+      "_seconds": 1767533041,
+      "_nanoseconds": 650000000
+    },
+    "RequestedModify": false,
+    "RequestedEmergency": false,
+    "__collections__": {
+      "MaintenanceContract": [
+        {
+          "id": "87-10-ElRehabCity",
+          "Status": null,
+          "RenewalRequestedAt": null,
+          "AutoRenew": false,
+          "CreatedAt": {
+            "_seconds": 1770475253,
+            "_nanoseconds": 307175000
+          },
+          "RenewalStatus": null,
+          "RenewalOffer": {
+            "Price": null,
+            "WarrantyMonths": null,
+            "Notes": null,
+            "ValidUntil": null
+          },
+          "RenewalDecision": {
+            "Status": null,
+            "DecidedAt": null,
+            "DecidedByEmail": null
+          },
+          "WarrantyMonths": 12,
+          "EndDate": null,
+          "UpdatedAt": {
+            "_seconds": 1770475253,
+            "_nanoseconds": 307175000
+          },
+          "RenewalCount": 0,
+          "StartDate": null,
+          "Price": null,
+          "RenewalRequested": false,
+          "RenewalAvail": false,
+          "CanRequestMaintenance": false,
+          "RenewalRequestedByEmail": null,
+          "RenewalRequestedByName": null,
+          "Notes": null
+        }
+      ]
+    }
+  }
+}
