@@ -1,23 +1,34 @@
 {
-  "11-4-ElRehabCity": {
-    "id": "11-4-ElRehabCity",
-    "Address": "Group 11 - Building 4",
-    "Area": "El Rehab City",
-    "AllowBooking": true,
-    "Ongoing": false
-  },
   "16-9-ElRehabCity": {
     "id": "16-9-ElRehabCity",
     "Area": "El Rehab City",
     "Address": "Group 16 - Building 9",
+    "Ongoing": true,
     "AllowBooking": true,
-    "Ongoing": false
-  },
-  "49-2-ElRehabCity": {
-    "id": "49-2-ElRehabCity",
-    "Area": "El Rehab City",
-    "Address": "Group 49 - Building 2",
-    "AllowBooking": true,
-    "Ongoing": false
+    "__collections__": {
+      "Schedule": [
+        {
+          "id": "8Feb-AhmedMohsen",
+          "Address": "Group 16 - Building 9",
+          "FullName": "Ahmed Mohsen",
+          "Notes": "",
+          "Paid": true,
+          "Price": 0,
+          "PropertyId": "16-9-ElRehabCity",
+          "ReservedBy": "d@s.com",
+          "ReservedOn": {
+            "_seconds": 1770575682,
+            "_nanoseconds": 53946000
+          },
+          "SelectedDate": "10Feb",
+          "SelectedDateTime": {
+            "_seconds": 1770674400,
+            "_nanoseconds": 0
+          },
+          "Status": "In Progress",
+          "Time": "12 PM"
+        }
+      ]
+    }
   }
 }

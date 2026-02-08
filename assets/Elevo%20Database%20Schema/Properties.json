@@ -379,19 +379,10 @@
       "PropertyId": "11-4-ElRehabCity",
       "Group": "11"
     },
-    "MaintenanceStart": {
-      "_seconds": 1737756000,
-      "_nanoseconds": 0
-    },
     "RequestedEmergency": false,
     "Status": "Active",
-    "MaintenanceEnd": {
-      "_seconds": 1769292000,
-      "_nanoseconds": 0
-    },
     "CanRequestMaintenance": false,
-    "MaintenancePrice": 600,
-    "Contract.WarrantyMonths": 1,
+    "Contract.WarrantyMonths": 12,
     "__collections__": {
       "Contracts": [
         {
@@ -425,7 +416,6 @@
             "_nanoseconds": 480729000
           },
           "CanRequestMaintenance": false,
-          "WarrantyMonths": 12,
           "RenewalOffer": {
             "Notes": null,
             "Price": 500,
@@ -475,13 +465,14 @@
           },
           "AutoRenewedBy": "Ahmed Mohsen",
           "AutoRenew": false,
-          "UpdatedAt": {
-            "_seconds": 1770503457,
-            "_nanoseconds": 309000000
-          },
           "AutoRenewedOn": {
-            "_seconds": 1770503457,
-            "_nanoseconds": 309000000
+            "_seconds": 1770504389,
+            "_nanoseconds": 305000000
+          },
+          "WarrantyMonths": 12,
+          "UpdatedAt": {
+            "_seconds": 1770564982,
+            "_nanoseconds": 74375000
           }
         }
       ],
@@ -643,6 +634,7 @@
       "all"
     ],
     "Status": "Active",
+    "MaintenancePrice": 3000,
     "__collections__": {
       "MaintenanceContract": [
         {
@@ -667,17 +659,26 @@
             "DecidedByEmail": null
           },
           "WarrantyMonths": 6,
-          "EndDate": null,
-          "UpdatedAt": null,
           "RenewalCount": null,
-          "StartDate": null,
-          "Price": null,
           "RenewalRequested": false,
           "RenewalAvail": false,
           "CanRequestMaintenance": false,
           "RenewalRequestedByEmail": null,
           "RenewalRequestedByName": null,
-          "Notes": null
+          "Notes": null,
+          "StartDate": {
+            "_seconds": 1769896800,
+            "_nanoseconds": 0
+          },
+          "EndDate": {
+            "_seconds": 1785531600,
+            "_nanoseconds": 0
+          },
+          "Price": 3000,
+          "UpdatedAt": {
+            "_seconds": 1770573904,
+            "_nanoseconds": 660627000
+          }
         }
       ]
     }
@@ -711,7 +712,6 @@
       "all"
     ],
     "Status": "Active",
-    "MaintenancePrice": 0,
     "Contract": {
       "DownPayment": 0,
       "EFDate": {
@@ -753,6 +753,7 @@
         "SSN": "00000000000000"
       }
     ],
+    "MaintenancePrice": 9000,
     "__collections__": {
       "MaintenanceContract": [
         {
@@ -777,17 +778,26 @@
             "DecidedByEmail": null
           },
           "WarrantyMonths": 12,
-          "EndDate": null,
-          "UpdatedAt": null,
           "RenewalCount": null,
-          "StartDate": null,
-          "Price": null,
           "RenewalRequested": false,
           "RenewalAvail": false,
           "CanRequestMaintenance": false,
           "RenewalRequestedByEmail": null,
           "RenewalRequestedByName": null,
-          "Notes": null
+          "Notes": null,
+          "StartDate": {
+            "_seconds": 1746046800,
+            "_nanoseconds": 0
+          },
+          "EndDate": {
+            "_seconds": 1777582800,
+            "_nanoseconds": 0
+          },
+          "Price": 9000,
+          "UpdatedAt": {
+            "_seconds": 1770574272,
+            "_nanoseconds": 746503000
+          }
         }
       ]
     }
@@ -1097,7 +1107,6 @@
       "_seconds": 1641333600,
       "_nanoseconds": 388000000
     },
-    "MaintenancePrice": 500,
     "Contract": {
       "Percentages": [
         100
@@ -1116,17 +1125,10 @@
         "_nanoseconds": 0
       }
     },
-    "MaintenanceStart": {
-      "_seconds": 1735682400,
-      "_nanoseconds": 0
-    },
-    "MaintenanceEnd": {
-      "_seconds": 1767218400,
-      "_nanoseconds": 0
-    },
     "RequestedEmergency": false,
     "RequestedModify": false,
     "Status": "Active",
+    "Contract.WarrantyMonths": 12,
     "__collections__": {
       "Faults": [
         {
@@ -1150,45 +1152,76 @@
       "MaintenanceContract": [
         {
           "id": "16-9-ElRehabCity",
-          "Status": null,
-          "RenewalRequestedAt": null,
           "AutoRenew": false,
           "CreatedAt": {
             "_seconds": 1770475227,
             "_nanoseconds": 849340000
           },
-          "RenewalStatus": null,
-          "RenewalOffer": {
-            "Price": null,
-            "WarrantyMonths": null,
-            "Notes": null,
-            "ValidUntil": null
+          "RenewalCount": 0,
+          "CanRequestMaintenance": false,
+          "Notes": null,
+          "Price": 500,
+          "StartDate": {
+            "_seconds": 1769896800,
+            "_nanoseconds": 0
           },
+          "RenewalAvail": false,
+          "Status": "Pending",
+          "RenewalRequestedAt": {
+            "_seconds": 1770562480,
+            "_nanoseconds": 495000000
+          },
+          "RenewalRequested": true,
+          "RenewalStatus": "Requested",
           "RenewalDecision": {
             "Status": null,
             "DecidedAt": null,
             "DecidedByEmail": null
           },
+          "RenewalRequestedByEmail": "d@s.com",
+          "RenewalRequestedByName": "Ahmed Mohsen",
+          "Renewal": {
+            "RequestedByEmail": "d@s.com",
+            "RequestedName": "Ahmed Mohsen",
+            "Requested": true,
+            "Count": 2,
+            "Status": "Requested",
+            "RequestedMonths": 3,
+            "RequestedAt": {
+              "_seconds": 1770562480,
+              "_nanoseconds": 495000000
+            }
+          },
           "WarrantyMonths": 12,
-          "RenewalCount": 0,
-          "RenewalRequested": false,
-          "RenewalAvail": false,
-          "CanRequestMaintenance": false,
-          "RenewalRequestedByEmail": null,
-          "RenewalRequestedByName": null,
-          "Notes": null,
-          "StartDate": {
-            "_seconds": 1767218400,
-            "_nanoseconds": 0
+          "RenewalOffer": {
+            "Notes": null,
+            "Price": 500,
+            "ValidUntil": {
+              "_seconds": 1771106400,
+              "_nanoseconds": 0
+            },
+            "StartDate": {
+              "_seconds": 1802296800,
+              "_nanoseconds": 0
+            },
+            "RequestedMonthsSync": 3,
+            "RequestedAtSync": {
+              "_seconds": 1770562480,
+              "_nanoseconds": 495000000
+            },
+            "MaintenanceMonths": 3,
+            "EndDate": {
+              "_seconds": 1809982800,
+              "_nanoseconds": 0
+            }
           },
           "EndDate": {
-            "_seconds": 1798754400,
+            "_seconds": 1770760800,
             "_nanoseconds": 0
           },
-          "Price": 500,
           "UpdatedAt": {
-            "_seconds": 1770476048,
-            "_nanoseconds": 672303000
+            "_seconds": 1770564994,
+            "_nanoseconds": 809068000
           }
         }
       ],
@@ -3506,7 +3539,6 @@
       "_seconds": 1741901217,
       "_nanoseconds": 0
     },
-    "MaintenancePrice": 0,
     "Members": [
       {
         "AptNumber": 49,
@@ -3555,6 +3587,7 @@
       "all"
     ],
     "Status": "Active",
+    "MaintenancePrice": 3600,
     "__collections__": {
       "MaintenanceContract": [
         {
@@ -3567,32 +3600,38 @@
             "_nanoseconds": 462118000
           },
           "RenewalStatus": null,
-          "RenewalOffer": {
-            "Price": null,
-            "WarrantyMonths": null,
-            "Notes": null,
-            "ValidUntil": null
-          },
           "RenewalDecision": {
             "Status": null,
             "DecidedAt": null,
             "DecidedByEmail": null
           },
           "WarrantyMonths": 12,
-          "EndDate": null,
-          "UpdatedAt": {
-            "_seconds": 1770475242,
-            "_nanoseconds": 462118000
-          },
           "RenewalCount": 0,
-          "StartDate": null,
-          "Price": null,
           "RenewalRequested": false,
           "RenewalAvail": false,
           "CanRequestMaintenance": false,
           "RenewalRequestedByEmail": null,
           "RenewalRequestedByName": null,
-          "Notes": null
+          "Notes": null,
+          "StartDate": {
+            "_seconds": 1742421600,
+            "_nanoseconds": 0
+          },
+          "EndDate": {
+            "_seconds": 1773957600,
+            "_nanoseconds": 0
+          },
+          "Price": 3600,
+          "RenewalOffer": {
+            "WarrantyMonths": null,
+            "Notes": null,
+            "ValidUntil": null,
+            "Price": 3600
+          },
+          "UpdatedAt": {
+            "_seconds": 1770573400,
+            "_nanoseconds": 963413000
+          }
         }
       ],
       "Members": [
@@ -3741,6 +3780,7 @@
       "all"
     ],
     "Status": "Active",
+    "MaintenancePrice": 700,
     "__collections__": {
       "MaintenanceContract": [
         {
@@ -3765,17 +3805,26 @@
             "DecidedByEmail": null
           },
           "WarrantyMonths": 6,
-          "EndDate": null,
-          "UpdatedAt": null,
           "RenewalCount": null,
-          "StartDate": null,
-          "Price": null,
           "RenewalRequested": false,
           "RenewalAvail": false,
           "CanRequestMaintenance": false,
           "RenewalRequestedByEmail": null,
           "RenewalRequestedByName": null,
-          "Notes": null
+          "Notes": null,
+          "Price": 700,
+          "StartDate": {
+            "_seconds": 1769896800,
+            "_nanoseconds": 0
+          },
+          "EndDate": {
+            "_seconds": 1772316000,
+            "_nanoseconds": 0
+          },
+          "UpdatedAt": {
+            "_seconds": 1770573736,
+            "_nanoseconds": 55255000
+          }
         }
       ]
     }
@@ -3885,32 +3934,38 @@
             "_nanoseconds": 123307000
           },
           "RenewalStatus": null,
-          "RenewalOffer": {
-            "Price": null,
-            "WarrantyMonths": null,
-            "Notes": null,
-            "ValidUntil": null
-          },
           "RenewalDecision": {
             "Status": null,
             "DecidedAt": null,
             "DecidedByEmail": null
           },
           "WarrantyMonths": 12,
-          "EndDate": null,
-          "UpdatedAt": {
-            "_seconds": 1770475244,
-            "_nanoseconds": 123307000
-          },
           "RenewalCount": 0,
-          "StartDate": null,
           "Price": null,
           "RenewalRequested": false,
           "RenewalAvail": false,
           "CanRequestMaintenance": false,
           "RenewalRequestedByEmail": null,
           "RenewalRequestedByName": null,
-          "Notes": null
+          "Notes": null,
+          "RenewalOffer": {
+            "WarrantyMonths": null,
+            "Notes": null,
+            "ValidUntil": null,
+            "Price": 3600
+          },
+          "StartDate": {
+            "_seconds": 1769896800,
+            "_nanoseconds": 0
+          },
+          "EndDate": {
+            "_seconds": 1785531600,
+            "_nanoseconds": 0
+          },
+          "UpdatedAt": {
+            "_seconds": 1770573620,
+            "_nanoseconds": 849225000
+          }
         }
       ]
     }
@@ -4526,6 +4581,7 @@
       "all"
     ],
     "Status": "Active",
+    "MaintenancePrice": 5000,
     "__collections__": {
       "MaintenanceContract": [
         {
@@ -4550,17 +4606,26 @@
             "DecidedByEmail": null
           },
           "WarrantyMonths": 6,
-          "EndDate": null,
-          "UpdatedAt": null,
           "RenewalCount": null,
-          "StartDate": null,
-          "Price": null,
           "RenewalRequested": false,
           "RenewalAvail": false,
           "CanRequestMaintenance": false,
           "RenewalRequestedByEmail": null,
           "RenewalRequestedByName": null,
-          "Notes": null
+          "Notes": null,
+          "StartDate": {
+            "_seconds": 1767218400,
+            "_nanoseconds": 0
+          },
+          "EndDate": {
+            "_seconds": 1782853200,
+            "_nanoseconds": 0
+          },
+          "Price": 5000,
+          "UpdatedAt": {
+            "_seconds": 1770579955,
+            "_nanoseconds": 766047000
+          }
         }
       ]
     }
