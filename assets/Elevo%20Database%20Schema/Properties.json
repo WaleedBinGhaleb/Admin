@@ -72,40 +72,55 @@
       "MaintenanceContract": [
         {
           "id": "1-1-ElRehabCity",
-          "Status": null,
-          "RenewalRequestedAt": null,
           "AutoRenew": false,
           "CreatedAt": {
             "_seconds": 1770475220,
             "_nanoseconds": 634476000
-          },
-          "RenewalStatus": null,
-          "RenewalOffer": {
-            "Price": null,
-            "WarrantyMonths": null,
-            "Notes": null,
-            "ValidUntil": null
           },
           "RenewalDecision": {
             "Status": null,
             "DecidedAt": null,
             "DecidedByEmail": null
           },
-          "WarrantyMonths": 12,
           "EndDate": null,
-          "UpdatedAt": {
-            "_seconds": 1770475220,
-            "_nanoseconds": 634476000
-          },
-          "RenewalCount": 0,
           "StartDate": null,
           "Price": null,
-          "RenewalRequested": false,
           "RenewalAvail": false,
           "CanRequestMaintenance": false,
-          "RenewalRequestedByEmail": null,
-          "RenewalRequestedByName": null,
-          "Notes": null
+          "Notes": null,
+          "Status": "Pending",
+          "Payment": {
+            "Status": "Unpaid",
+            "AmountDue": null,
+            "PaidAt": null,
+            "Method": null,
+            "Notes": null,
+            "RequestedAt": null
+          },
+          "AutoRenewedBy": null,
+          "MaintenanceMonths": 12,
+          "UpdatedAt": {
+            "_seconds": 1770726673,
+            "_nanoseconds": 727693000
+          },
+          "Renewal": {
+            "Requested": false,
+            "Status": null,
+            "RequestedByEmail": null,
+            "RequestedName": null,
+            "RequestedMonths": null,
+            "Count": 0,
+            "RequestedAt": null
+          },
+          "AutoRenewedOn": null,
+          "RenewalOffer": {
+            "Price": null,
+            "Notes": null,
+            "ValidUntil": null,
+            "StartDate": null,
+            "MaintenanceMonths": null,
+            "EndDate": null
+          }
         }
       ],
       "Members": [
@@ -278,37 +293,55 @@
       "MaintenanceContract": [
         {
           "id": "11-19-ElRehabCity",
-          "Status": null,
-          "RenewalRequestedAt": null,
           "AutoRenew": false,
           "CreatedAt": {
             "_seconds": 1770479181,
             "_nanoseconds": 985115000
-          },
-          "RenewalStatus": null,
-          "RenewalOffer": {
-            "Price": null,
-            "WarrantyMonths": null,
-            "Notes": null,
-            "ValidUntil": null
           },
           "RenewalDecision": {
             "Status": null,
             "DecidedAt": null,
             "DecidedByEmail": null
           },
-          "WarrantyMonths": 6,
           "EndDate": null,
-          "UpdatedAt": null,
-          "RenewalCount": null,
           "StartDate": null,
           "Price": null,
-          "RenewalRequested": false,
           "RenewalAvail": false,
           "CanRequestMaintenance": false,
-          "RenewalRequestedByEmail": null,
-          "RenewalRequestedByName": null,
-          "Notes": null
+          "Notes": null,
+          "Status": "Pending",
+          "Payment": {
+            "Status": "Unpaid",
+            "AmountDue": null,
+            "PaidAt": null,
+            "Method": null,
+            "Notes": null,
+            "RequestedAt": null
+          },
+          "AutoRenewedBy": null,
+          "MaintenanceMonths": 6,
+          "UpdatedAt": {
+            "_seconds": 1770726674,
+            "_nanoseconds": 342168000
+          },
+          "Renewal": {
+            "Requested": false,
+            "Status": null,
+            "RequestedByEmail": null,
+            "RequestedName": null,
+            "RequestedMonths": null,
+            "Count": 0,
+            "RequestedAt": null
+          },
+          "AutoRenewedOn": null,
+          "RenewalOffer": {
+            "Price": null,
+            "Notes": null,
+            "ValidUntil": null,
+            "StartDate": null,
+            "MaintenanceMonths": null,
+            "EndDate": null
+          }
         }
       ]
     }
@@ -382,7 +415,6 @@
     "RequestedEmergency": false,
     "Status": "Active",
     "CanRequestMaintenance": false,
-    "Contract.WarrantyMonths": 12,
     "__collections__": {
       "Contracts": [
         {
@@ -446,11 +478,33 @@
             "_seconds": 1769896800,
             "_nanoseconds": 0
           },
-          "Status": "Active",
           "Price": 500,
           "EndDate": {
             "_seconds": 1772316000,
             "_nanoseconds": 0
+          },
+          "AutoRenewedBy": "Ahmed Mohsen",
+          "AutoRenew": false,
+          "AutoRenewedOn": {
+            "_seconds": 1770504389,
+            "_nanoseconds": 305000000
+          },
+          "Status": "Active",
+          "Payment": {
+            "Status": "Pending Payment",
+            "AmountDue": 500,
+            "RequestedAt": {
+              "_seconds": 1770724917,
+              "_nanoseconds": 449297000
+            },
+            "PaidAt": null,
+            "Method": null,
+            "Notes": null
+          },
+          "MaintenanceMonths": 12,
+          "UpdatedAt": {
+            "_seconds": 1770726674,
+            "_nanoseconds": 887447000
           },
           "Renewal": {
             "Requested": true,
@@ -461,19 +515,10 @@
               "_nanoseconds": 208000000
             },
             "Status": "Approved",
-            "Count": 1
+            "Count": 1,
+            "RequestedMonths": null
           },
-          "AutoRenewedBy": "Ahmed Mohsen",
-          "AutoRenew": false,
-          "AutoRenewedOn": {
-            "_seconds": 1770504389,
-            "_nanoseconds": 305000000
-          },
-          "WarrantyMonths": 12,
-          "UpdatedAt": {
-            "_seconds": 1770564982,
-            "_nanoseconds": 74375000
-          }
+          "Notes": null
         }
       ],
       "Members": [
@@ -495,7 +540,6 @@
             "_nanoseconds": 771000000
           },
           "Notifications": true,
-          "DeviceId": "c0EISctkR86bySZNjk6HkO:APA91bHgB4BIMu859mqYth2NdbuojRqgmT0AF1tHYkd_RNtAeoGFiX_iVd6dlLg65DQ8k1vBj33vTKw48MrYRD57dF2wOy4XEyRjX03EJ1g_SaTBfNeUhS4",
           "LastTokenSetAt": {
             "_seconds": 1770466764,
             "_nanoseconds": 939000000
@@ -639,32 +683,18 @@
       "MaintenanceContract": [
         {
           "id": "13-12-ElRehabCity",
-          "Status": null,
-          "RenewalRequestedAt": null,
           "AutoRenew": false,
           "CreatedAt": {
             "_seconds": 1770474711,
             "_nanoseconds": 390312000
-          },
-          "RenewalStatus": null,
-          "RenewalOffer": {
-            "Price": null,
-            "WarrantyMonths": null,
-            "Notes": null,
-            "ValidUntil": null
           },
           "RenewalDecision": {
             "Status": null,
             "DecidedAt": null,
             "DecidedByEmail": null
           },
-          "WarrantyMonths": 6,
-          "RenewalCount": null,
-          "RenewalRequested": false,
           "RenewalAvail": false,
           "CanRequestMaintenance": false,
-          "RenewalRequestedByEmail": null,
-          "RenewalRequestedByName": null,
           "Notes": null,
           "StartDate": {
             "_seconds": 1769896800,
@@ -675,9 +705,38 @@
             "_nanoseconds": 0
           },
           "Price": 3000,
+          "Status": "Pending",
+          "Payment": {
+            "Status": "Unpaid",
+            "AmountDue": null,
+            "PaidAt": null,
+            "Method": null,
+            "Notes": null,
+            "RequestedAt": null
+          },
+          "AutoRenewedBy": null,
+          "MaintenanceMonths": 6,
           "UpdatedAt": {
-            "_seconds": 1770573904,
-            "_nanoseconds": 660627000
+            "_seconds": 1770726675,
+            "_nanoseconds": 409246000
+          },
+          "Renewal": {
+            "Requested": false,
+            "Status": null,
+            "RequestedByEmail": null,
+            "RequestedName": null,
+            "RequestedMonths": null,
+            "Count": 0,
+            "RequestedAt": null
+          },
+          "AutoRenewedOn": null,
+          "RenewalOffer": {
+            "Price": null,
+            "Notes": null,
+            "ValidUntil": null,
+            "StartDate": null,
+            "MaintenanceMonths": null,
+            "EndDate": null
           }
         }
       ]
@@ -758,32 +817,18 @@
       "MaintenanceContract": [
         {
           "id": "13-4-ElRehabCity",
-          "Status": null,
-          "RenewalRequestedAt": null,
           "AutoRenew": false,
           "CreatedAt": {
             "_seconds": 1770474841,
             "_nanoseconds": 791572000
-          },
-          "RenewalStatus": null,
-          "RenewalOffer": {
-            "Price": null,
-            "WarrantyMonths": null,
-            "Notes": null,
-            "ValidUntil": null
           },
           "RenewalDecision": {
             "Status": null,
             "DecidedAt": null,
             "DecidedByEmail": null
           },
-          "WarrantyMonths": 12,
-          "RenewalCount": null,
-          "RenewalRequested": false,
           "RenewalAvail": false,
           "CanRequestMaintenance": false,
-          "RenewalRequestedByEmail": null,
-          "RenewalRequestedByName": null,
           "Notes": null,
           "StartDate": {
             "_seconds": 1746046800,
@@ -794,9 +839,38 @@
             "_nanoseconds": 0
           },
           "Price": 9000,
+          "Status": "Pending",
+          "Payment": {
+            "Status": "Unpaid",
+            "AmountDue": null,
+            "PaidAt": null,
+            "Method": null,
+            "Notes": null,
+            "RequestedAt": null
+          },
+          "AutoRenewedBy": null,
+          "MaintenanceMonths": 12,
           "UpdatedAt": {
-            "_seconds": 1770574272,
-            "_nanoseconds": 746503000
+            "_seconds": 1770726676,
+            "_nanoseconds": 14824000
+          },
+          "Renewal": {
+            "Requested": false,
+            "Status": null,
+            "RequestedByEmail": null,
+            "RequestedName": null,
+            "RequestedMonths": null,
+            "Count": 0,
+            "RequestedAt": null
+          },
+          "AutoRenewedOn": null,
+          "RenewalOffer": {
+            "Price": null,
+            "Notes": null,
+            "ValidUntil": null,
+            "StartDate": null,
+            "MaintenanceMonths": null,
+            "EndDate": null
           }
         }
       ]
@@ -883,40 +957,55 @@
       "MaintenanceContract": [
         {
           "id": "16-11-ElRehabCity",
-          "Status": null,
-          "RenewalRequestedAt": null,
           "AutoRenew": false,
           "CreatedAt": {
             "_seconds": 1770475225,
             "_nanoseconds": 747468000
-          },
-          "RenewalStatus": null,
-          "RenewalOffer": {
-            "Price": null,
-            "WarrantyMonths": null,
-            "Notes": null,
-            "ValidUntil": null
           },
           "RenewalDecision": {
             "Status": null,
             "DecidedAt": null,
             "DecidedByEmail": null
           },
-          "WarrantyMonths": 12,
           "EndDate": null,
-          "UpdatedAt": {
-            "_seconds": 1770475225,
-            "_nanoseconds": 747468000
-          },
-          "RenewalCount": 0,
           "StartDate": null,
           "Price": null,
-          "RenewalRequested": false,
           "RenewalAvail": false,
           "CanRequestMaintenance": false,
-          "RenewalRequestedByEmail": null,
-          "RenewalRequestedByName": null,
-          "Notes": null
+          "Notes": null,
+          "Status": "Pending",
+          "Payment": {
+            "Status": "Unpaid",
+            "AmountDue": null,
+            "PaidAt": null,
+            "Method": null,
+            "Notes": null,
+            "RequestedAt": null
+          },
+          "AutoRenewedBy": null,
+          "MaintenanceMonths": 12,
+          "UpdatedAt": {
+            "_seconds": 1770726676,
+            "_nanoseconds": 525938000
+          },
+          "Renewal": {
+            "Requested": false,
+            "Status": null,
+            "RequestedByEmail": null,
+            "RequestedName": null,
+            "RequestedMonths": null,
+            "Count": 0,
+            "RequestedAt": null
+          },
+          "AutoRenewedOn": null,
+          "RenewalOffer": {
+            "Price": null,
+            "Notes": null,
+            "ValidUntil": null,
+            "StartDate": null,
+            "MaintenanceMonths": null,
+            "EndDate": null
+          }
         }
       ],
       "Milestones": [
@@ -1128,7 +1217,6 @@
     "RequestedEmergency": false,
     "RequestedModify": false,
     "Status": "Active",
-    "Contract.WarrantyMonths": 12,
     "__collections__": {
       "Faults": [
         {
@@ -1157,7 +1245,6 @@
             "_seconds": 1770475227,
             "_nanoseconds": 849340000
           },
-          "RenewalCount": 0,
           "CanRequestMaintenance": false,
           "Notes": null,
           "Price": 500,
@@ -1165,21 +1252,12 @@
             "_seconds": 1769896800,
             "_nanoseconds": 0
           },
-          "RenewalAvail": false,
           "Status": "Pending",
-          "RenewalRequestedAt": {
-            "_seconds": 1770562480,
-            "_nanoseconds": 495000000
-          },
-          "RenewalRequested": true,
-          "RenewalStatus": "Requested",
           "RenewalDecision": {
             "Status": null,
             "DecidedAt": null,
             "DecidedByEmail": null
           },
-          "RenewalRequestedByEmail": "d@s.com",
-          "RenewalRequestedByName": "Ahmed Mohsen",
           "Renewal": {
             "RequestedByEmail": "d@s.com",
             "RequestedName": "Ahmed Mohsen",
@@ -1192,16 +1270,32 @@
               "_nanoseconds": 495000000
             }
           },
-          "WarrantyMonths": 12,
+          "EndDate": {
+            "_seconds": 1772316000,
+            "_nanoseconds": 0
+          },
+          "RenewalAvail": false,
+          "Payment": {
+            "Status": "Unpaid",
+            "AmountDue": null,
+            "PaidAt": null,
+            "Method": null,
+            "Notes": null,
+            "RequestedAt": null
+          },
+          "AutoRenewedBy": null,
+          "MaintenanceMonths": 12,
+          "AutoRenewedOn": null,
           "RenewalOffer": {
             "Notes": null,
-            "Price": 500,
             "ValidUntil": {
               "_seconds": 1771106400,
               "_nanoseconds": 0
             },
+            "MaintenanceMonths": 3,
+            "Price": 1500,
             "StartDate": {
-              "_seconds": 1802296800,
+              "_seconds": 1772316000,
               "_nanoseconds": 0
             },
             "RequestedMonthsSync": 3,
@@ -1209,19 +1303,14 @@
               "_seconds": 1770562480,
               "_nanoseconds": 495000000
             },
-            "MaintenanceMonths": 3,
             "EndDate": {
-              "_seconds": 1809982800,
+              "_seconds": 1780261200,
               "_nanoseconds": 0
             }
           },
-          "EndDate": {
-            "_seconds": 1770760800,
-            "_nanoseconds": 0
-          },
           "UpdatedAt": {
-            "_seconds": 1770564994,
-            "_nanoseconds": 809068000
+            "_seconds": 1770726680,
+            "_nanoseconds": 210000000
           }
         }
       ],
@@ -1244,7 +1333,6 @@
             "_nanoseconds": 55000000
           },
           "Notifications": true,
-          "DeviceId": "c0EISctkR86bySZNjk6HkO:APA91bHgB4BIMu859mqYth2NdbuojRqgmT0AF1tHYkd_RNtAeoGFiX_iVd6dlLg65DQ8k1vBj33vTKw48MrYRD57dF2wOy4XEyRjX03EJ1g_SaTBfNeUhS4",
           "LastTokenSetAt": {
             "_seconds": 1770466764,
             "_nanoseconds": 939000000
@@ -1410,37 +1498,55 @@
       "MaintenanceContract": [
         {
           "id": "17-7-ElRehabCity",
-          "Status": null,
-          "RenewalRequestedAt": null,
           "AutoRenew": false,
           "CreatedAt": {
             "_seconds": 1770479628,
             "_nanoseconds": 134142000
-          },
-          "RenewalStatus": null,
-          "RenewalOffer": {
-            "Price": null,
-            "WarrantyMonths": null,
-            "Notes": null,
-            "ValidUntil": null
           },
           "RenewalDecision": {
             "Status": null,
             "DecidedAt": null,
             "DecidedByEmail": null
           },
-          "WarrantyMonths": 6,
           "EndDate": null,
-          "UpdatedAt": null,
-          "RenewalCount": null,
           "StartDate": null,
           "Price": null,
-          "RenewalRequested": false,
           "RenewalAvail": false,
           "CanRequestMaintenance": false,
-          "RenewalRequestedByEmail": null,
-          "RenewalRequestedByName": null,
-          "Notes": null
+          "Notes": null,
+          "Status": "Pending",
+          "Payment": {
+            "Status": "Unpaid",
+            "AmountDue": null,
+            "PaidAt": null,
+            "Method": null,
+            "Notes": null,
+            "RequestedAt": null
+          },
+          "AutoRenewedBy": null,
+          "MaintenanceMonths": 6,
+          "UpdatedAt": {
+            "_seconds": 1770726677,
+            "_nanoseconds": 609161000
+          },
+          "Renewal": {
+            "Requested": false,
+            "Status": null,
+            "RequestedByEmail": null,
+            "RequestedName": null,
+            "RequestedMonths": null,
+            "Count": 0,
+            "RequestedAt": null
+          },
+          "AutoRenewedOn": null,
+          "RenewalOffer": {
+            "Price": null,
+            "Notes": null,
+            "ValidUntil": null,
+            "StartDate": null,
+            "MaintenanceMonths": null,
+            "EndDate": null
+          }
         }
       ]
     }
@@ -1519,40 +1625,55 @@
       "MaintenanceContract": [
         {
           "id": "2-3-ElRehabCity",
-          "Status": null,
-          "RenewalRequestedAt": null,
           "AutoRenew": false,
           "CreatedAt": {
             "_seconds": 1770475229,
             "_nanoseconds": 665352000
-          },
-          "RenewalStatus": null,
-          "RenewalOffer": {
-            "Price": null,
-            "WarrantyMonths": null,
-            "Notes": null,
-            "ValidUntil": null
           },
           "RenewalDecision": {
             "Status": null,
             "DecidedAt": null,
             "DecidedByEmail": null
           },
-          "WarrantyMonths": 12,
           "EndDate": null,
-          "UpdatedAt": {
-            "_seconds": 1770475229,
-            "_nanoseconds": 665352000
-          },
-          "RenewalCount": 0,
           "StartDate": null,
           "Price": null,
-          "RenewalRequested": false,
           "RenewalAvail": false,
           "CanRequestMaintenance": false,
-          "RenewalRequestedByEmail": null,
-          "RenewalRequestedByName": null,
-          "Notes": null
+          "Notes": null,
+          "Status": "Pending",
+          "Payment": {
+            "Status": "Unpaid",
+            "AmountDue": null,
+            "PaidAt": null,
+            "Method": null,
+            "Notes": null,
+            "RequestedAt": null
+          },
+          "AutoRenewedBy": null,
+          "MaintenanceMonths": 12,
+          "UpdatedAt": {
+            "_seconds": 1770726678,
+            "_nanoseconds": 244311000
+          },
+          "Renewal": {
+            "Requested": false,
+            "Status": null,
+            "RequestedByEmail": null,
+            "RequestedName": null,
+            "RequestedMonths": null,
+            "Count": 0,
+            "RequestedAt": null
+          },
+          "AutoRenewedOn": null,
+          "RenewalOffer": {
+            "Price": null,
+            "Notes": null,
+            "ValidUntil": null,
+            "StartDate": null,
+            "MaintenanceMonths": null,
+            "EndDate": null
+          }
         }
       ]
     }
@@ -1713,40 +1834,55 @@
       "MaintenanceContract": [
         {
           "id": "2-6-ElRehabCity",
-          "Status": null,
-          "RenewalRequestedAt": null,
           "AutoRenew": false,
           "CreatedAt": {
             "_seconds": 1770475231,
             "_nanoseconds": 800905000
-          },
-          "RenewalStatus": null,
-          "RenewalOffer": {
-            "Price": null,
-            "WarrantyMonths": null,
-            "Notes": null,
-            "ValidUntil": null
           },
           "RenewalDecision": {
             "Status": null,
             "DecidedAt": null,
             "DecidedByEmail": null
           },
-          "WarrantyMonths": 12,
           "EndDate": null,
-          "UpdatedAt": {
-            "_seconds": 1770475231,
-            "_nanoseconds": 800905000
-          },
-          "RenewalCount": 0,
           "StartDate": null,
           "Price": null,
-          "RenewalRequested": false,
           "RenewalAvail": false,
           "CanRequestMaintenance": false,
-          "RenewalRequestedByEmail": null,
-          "RenewalRequestedByName": null,
-          "Notes": null
+          "Notes": null,
+          "Status": "Pending",
+          "Payment": {
+            "Status": "Unpaid",
+            "AmountDue": null,
+            "PaidAt": null,
+            "Method": null,
+            "Notes": null,
+            "RequestedAt": null
+          },
+          "AutoRenewedBy": null,
+          "MaintenanceMonths": 12,
+          "UpdatedAt": {
+            "_seconds": 1770726678,
+            "_nanoseconds": 794363000
+          },
+          "Renewal": {
+            "Requested": false,
+            "Status": null,
+            "RequestedByEmail": null,
+            "RequestedName": null,
+            "RequestedMonths": null,
+            "Count": 0,
+            "RequestedAt": null
+          },
+          "AutoRenewedOn": null,
+          "RenewalOffer": {
+            "Price": null,
+            "Notes": null,
+            "ValidUntil": null,
+            "StartDate": null,
+            "MaintenanceMonths": null,
+            "EndDate": null
+          }
         }
       ],
       "Milestones": [
@@ -2158,40 +2294,55 @@
       "MaintenanceContract": [
         {
           "id": "23-3-ElRehabCity",
-          "Status": null,
-          "RenewalRequestedAt": null,
           "AutoRenew": false,
           "CreatedAt": {
             "_seconds": 1770475233,
             "_nanoseconds": 651119000
-          },
-          "RenewalStatus": null,
-          "RenewalOffer": {
-            "Price": null,
-            "WarrantyMonths": null,
-            "Notes": null,
-            "ValidUntil": null
           },
           "RenewalDecision": {
             "Status": null,
             "DecidedAt": null,
             "DecidedByEmail": null
           },
-          "WarrantyMonths": 12,
           "EndDate": null,
-          "UpdatedAt": {
-            "_seconds": 1770475233,
-            "_nanoseconds": 651119000
-          },
-          "RenewalCount": 0,
           "StartDate": null,
           "Price": null,
-          "RenewalRequested": false,
           "RenewalAvail": false,
           "CanRequestMaintenance": false,
-          "RenewalRequestedByEmail": null,
-          "RenewalRequestedByName": null,
-          "Notes": null
+          "Notes": null,
+          "Status": "Pending",
+          "Payment": {
+            "Status": "Unpaid",
+            "AmountDue": null,
+            "PaidAt": null,
+            "Method": null,
+            "Notes": null,
+            "RequestedAt": null
+          },
+          "AutoRenewedBy": null,
+          "MaintenanceMonths": 12,
+          "UpdatedAt": {
+            "_seconds": 1770726679,
+            "_nanoseconds": 322842000
+          },
+          "Renewal": {
+            "Requested": false,
+            "Status": null,
+            "RequestedByEmail": null,
+            "RequestedName": null,
+            "RequestedMonths": null,
+            "Count": 0,
+            "RequestedAt": null
+          },
+          "AutoRenewedOn": null,
+          "RenewalOffer": {
+            "Price": null,
+            "Notes": null,
+            "ValidUntil": null,
+            "StartDate": null,
+            "MaintenanceMonths": null,
+            "EndDate": null
+          }
         }
       ],
       "Milestones": [
@@ -2394,40 +2545,55 @@
       "MaintenanceContract": [
         {
           "id": "43-8-ElRehabCity",
-          "Status": null,
-          "RenewalRequestedAt": null,
           "AutoRenew": false,
           "CreatedAt": {
             "_seconds": 1770475235,
             "_nanoseconds": 568987000
-          },
-          "RenewalStatus": null,
-          "RenewalOffer": {
-            "Price": null,
-            "WarrantyMonths": null,
-            "Notes": null,
-            "ValidUntil": null
           },
           "RenewalDecision": {
             "Status": null,
             "DecidedAt": null,
             "DecidedByEmail": null
           },
-          "WarrantyMonths": 12,
           "EndDate": null,
-          "UpdatedAt": {
-            "_seconds": 1770475235,
-            "_nanoseconds": 568987000
-          },
-          "RenewalCount": 0,
           "StartDate": null,
           "Price": null,
-          "RenewalRequested": false,
           "RenewalAvail": false,
           "CanRequestMaintenance": false,
-          "RenewalRequestedByEmail": null,
-          "RenewalRequestedByName": null,
-          "Notes": null
+          "Notes": null,
+          "Status": "Pending",
+          "Payment": {
+            "Status": "Unpaid",
+            "AmountDue": null,
+            "PaidAt": null,
+            "Method": null,
+            "Notes": null,
+            "RequestedAt": null
+          },
+          "AutoRenewedBy": null,
+          "MaintenanceMonths": 12,
+          "UpdatedAt": {
+            "_seconds": 1770726680,
+            "_nanoseconds": 37212000
+          },
+          "Renewal": {
+            "Requested": false,
+            "Status": null,
+            "RequestedByEmail": null,
+            "RequestedName": null,
+            "RequestedMonths": null,
+            "Count": 0,
+            "RequestedAt": null
+          },
+          "AutoRenewedOn": null,
+          "RenewalOffer": {
+            "Price": null,
+            "Notes": null,
+            "ValidUntil": null,
+            "StartDate": null,
+            "MaintenanceMonths": null,
+            "EndDate": null
+          }
         }
       ]
     }
@@ -2518,33 +2684,19 @@
       "MaintenanceContract": [
         {
           "id": "46-1-ElRehabCity",
-          "Status": null,
-          "RenewalRequestedAt": null,
           "AutoRenew": false,
           "CreatedAt": {
             "_seconds": 1770475237,
             "_nanoseconds": 851726000
-          },
-          "RenewalStatus": null,
-          "RenewalOffer": {
-            "Price": null,
-            "WarrantyMonths": null,
-            "Notes": null,
-            "ValidUntil": null
           },
           "RenewalDecision": {
             "Status": null,
             "DecidedAt": null,
             "DecidedByEmail": null
           },
-          "WarrantyMonths": 12,
-          "RenewalCount": 0,
           "Price": null,
-          "RenewalRequested": false,
           "RenewalAvail": false,
           "CanRequestMaintenance": false,
-          "RenewalRequestedByEmail": null,
-          "RenewalRequestedByName": null,
           "Notes": null,
           "StartDate": {
             "_seconds": 1763330400,
@@ -2554,9 +2706,38 @@
             "_seconds": 1794866400,
             "_nanoseconds": 0
           },
+          "Status": "Pending",
+          "Payment": {
+            "Status": "Unpaid",
+            "AmountDue": null,
+            "PaidAt": null,
+            "Method": null,
+            "Notes": null,
+            "RequestedAt": null
+          },
+          "AutoRenewedBy": null,
+          "MaintenanceMonths": 12,
           "UpdatedAt": {
-            "_seconds": 1770475869,
-            "_nanoseconds": 359416000
+            "_seconds": 1770726680,
+            "_nanoseconds": 547388000
+          },
+          "Renewal": {
+            "Requested": false,
+            "Status": null,
+            "RequestedByEmail": null,
+            "RequestedName": null,
+            "RequestedMonths": null,
+            "Count": 0,
+            "RequestedAt": null
+          },
+          "AutoRenewedOn": null,
+          "RenewalOffer": {
+            "Price": null,
+            "Notes": null,
+            "ValidUntil": null,
+            "StartDate": null,
+            "MaintenanceMonths": null,
+            "EndDate": null
           }
         }
       ],
@@ -3317,50 +3498,64 @@
     ],
     "Status": "Active",
     "MaintenancePrice": 600,
-    "Contract.WarrantyMonths": 6,
     "__collections__": {
       "MaintenanceContract": [
         {
           "id": "46-4-ElRehabCity",
-          "Status": null,
-          "RenewalRequestedAt": null,
           "AutoRenew": false,
           "CreatedAt": {
             "_seconds": 1770476707,
             "_nanoseconds": 176505000
-          },
-          "RenewalStatus": null,
-          "RenewalOffer": {
-            "Price": null,
-            "WarrantyMonths": null,
-            "Notes": null,
-            "ValidUntil": null
           },
           "RenewalDecision": {
             "Status": null,
             "DecidedAt": null,
             "DecidedByEmail": null
           },
-          "RenewalCount": null,
-          "RenewalRequested": false,
           "RenewalAvail": false,
           "CanRequestMaintenance": false,
-          "RenewalRequestedByEmail": null,
-          "RenewalRequestedByName": null,
           "Notes": null,
           "Price": 600,
           "StartDate": {
             "_seconds": 1767218400,
             "_nanoseconds": 0
           },
-          "WarrantyMonths": 6,
           "EndDate": {
             "_seconds": 1782853200,
             "_nanoseconds": 0
           },
+          "Status": "Pending",
+          "Payment": {
+            "Status": "Unpaid",
+            "AmountDue": null,
+            "PaidAt": null,
+            "Method": null,
+            "Notes": null,
+            "RequestedAt": null
+          },
+          "AutoRenewedBy": null,
+          "MaintenanceMonths": 6,
           "UpdatedAt": {
-            "_seconds": 1770476744,
-            "_nanoseconds": 699882000
+            "_seconds": 1770726681,
+            "_nanoseconds": 62700000
+          },
+          "Renewal": {
+            "Requested": false,
+            "Status": null,
+            "RequestedByEmail": null,
+            "RequestedName": null,
+            "RequestedMonths": null,
+            "Count": 0,
+            "RequestedAt": null
+          },
+          "AutoRenewedOn": null,
+          "RenewalOffer": {
+            "Price": null,
+            "Notes": null,
+            "ValidUntil": null,
+            "StartDate": null,
+            "MaintenanceMonths": null,
+            "EndDate": null
           }
         }
       ]
@@ -3443,40 +3638,55 @@
       "MaintenanceContract": [
         {
           "id": "48-6-ElRehabCity",
-          "Status": null,
-          "RenewalRequestedAt": null,
           "AutoRenew": false,
           "CreatedAt": {
             "_seconds": 1770475240,
             "_nanoseconds": 223368000
-          },
-          "RenewalStatus": null,
-          "RenewalOffer": {
-            "Price": null,
-            "WarrantyMonths": null,
-            "Notes": null,
-            "ValidUntil": null
           },
           "RenewalDecision": {
             "Status": null,
             "DecidedAt": null,
             "DecidedByEmail": null
           },
-          "WarrantyMonths": 12,
           "EndDate": null,
-          "UpdatedAt": {
-            "_seconds": 1770475240,
-            "_nanoseconds": 223368000
-          },
-          "RenewalCount": 0,
           "StartDate": null,
           "Price": null,
-          "RenewalRequested": false,
           "RenewalAvail": false,
           "CanRequestMaintenance": false,
-          "RenewalRequestedByEmail": null,
-          "RenewalRequestedByName": null,
-          "Notes": null
+          "Notes": null,
+          "Status": "Pending",
+          "Payment": {
+            "Status": "Unpaid",
+            "AmountDue": null,
+            "PaidAt": null,
+            "Method": null,
+            "Notes": null,
+            "RequestedAt": null
+          },
+          "AutoRenewedBy": null,
+          "MaintenanceMonths": 12,
+          "UpdatedAt": {
+            "_seconds": 1770726681,
+            "_nanoseconds": 582833000
+          },
+          "Renewal": {
+            "Requested": false,
+            "Status": null,
+            "RequestedByEmail": null,
+            "RequestedName": null,
+            "RequestedMonths": null,
+            "Count": 0,
+            "RequestedAt": null
+          },
+          "AutoRenewedOn": null,
+          "RenewalOffer": {
+            "Price": null,
+            "Notes": null,
+            "ValidUntil": null,
+            "StartDate": null,
+            "MaintenanceMonths": null,
+            "EndDate": null
+          }
         }
       ],
       "Milestones": [
@@ -3592,26 +3802,18 @@
       "MaintenanceContract": [
         {
           "id": "49-2-ElRehabCity",
-          "Status": null,
-          "RenewalRequestedAt": null,
           "AutoRenew": false,
           "CreatedAt": {
             "_seconds": 1770475242,
             "_nanoseconds": 462118000
           },
-          "RenewalStatus": null,
           "RenewalDecision": {
             "Status": null,
             "DecidedAt": null,
             "DecidedByEmail": null
           },
-          "WarrantyMonths": 12,
-          "RenewalCount": 0,
-          "RenewalRequested": false,
           "RenewalAvail": false,
           "CanRequestMaintenance": false,
-          "RenewalRequestedByEmail": null,
-          "RenewalRequestedByName": null,
           "Notes": null,
           "StartDate": {
             "_seconds": 1742421600,
@@ -3622,15 +3824,38 @@
             "_nanoseconds": 0
           },
           "Price": 3600,
+          "Status": "Pending",
+          "Payment": {
+            "Status": "Unpaid",
+            "AmountDue": null,
+            "PaidAt": null,
+            "Method": null,
+            "Notes": null,
+            "RequestedAt": null
+          },
+          "AutoRenewedBy": null,
+          "MaintenanceMonths": 12,
+          "UpdatedAt": {
+            "_seconds": 1770726682,
+            "_nanoseconds": 93778000
+          },
+          "Renewal": {
+            "Requested": false,
+            "Status": null,
+            "RequestedByEmail": null,
+            "RequestedName": null,
+            "RequestedMonths": null,
+            "Count": 0,
+            "RequestedAt": null
+          },
+          "AutoRenewedOn": null,
           "RenewalOffer": {
-            "WarrantyMonths": null,
             "Notes": null,
             "ValidUntil": null,
-            "Price": 3600
-          },
-          "UpdatedAt": {
-            "_seconds": 1770573400,
-            "_nanoseconds": 963413000
+            "Price": 3600,
+            "StartDate": null,
+            "MaintenanceMonths": null,
+            "EndDate": null
           }
         }
       ],
@@ -3785,32 +4010,18 @@
       "MaintenanceContract": [
         {
           "id": "49-7-ElRehabCity",
-          "Status": null,
-          "RenewalRequestedAt": null,
           "AutoRenew": false,
           "CreatedAt": {
             "_seconds": 1770474261,
             "_nanoseconds": 113994000
-          },
-          "RenewalStatus": null,
-          "RenewalOffer": {
-            "Price": null,
-            "WarrantyMonths": null,
-            "Notes": null,
-            "ValidUntil": null
           },
           "RenewalDecision": {
             "Status": null,
             "DecidedAt": null,
             "DecidedByEmail": null
           },
-          "WarrantyMonths": 6,
-          "RenewalCount": null,
-          "RenewalRequested": false,
           "RenewalAvail": false,
           "CanRequestMaintenance": false,
-          "RenewalRequestedByEmail": null,
-          "RenewalRequestedByName": null,
           "Notes": null,
           "Price": 700,
           "StartDate": {
@@ -3821,9 +4032,38 @@
             "_seconds": 1772316000,
             "_nanoseconds": 0
           },
+          "Status": "Pending",
+          "Payment": {
+            "Status": "Unpaid",
+            "AmountDue": null,
+            "PaidAt": null,
+            "Method": null,
+            "Notes": null,
+            "RequestedAt": null
+          },
+          "AutoRenewedBy": null,
+          "MaintenanceMonths": 6,
           "UpdatedAt": {
-            "_seconds": 1770573736,
-            "_nanoseconds": 55255000
+            "_seconds": 1770726682,
+            "_nanoseconds": 639096000
+          },
+          "Renewal": {
+            "Requested": false,
+            "Status": null,
+            "RequestedByEmail": null,
+            "RequestedName": null,
+            "RequestedMonths": null,
+            "Count": 0,
+            "RequestedAt": null
+          },
+          "AutoRenewedOn": null,
+          "RenewalOffer": {
+            "Price": null,
+            "Notes": null,
+            "ValidUntil": null,
+            "StartDate": null,
+            "MaintenanceMonths": null,
+            "EndDate": null
           }
         }
       ]
@@ -3926,34 +4166,20 @@
       "MaintenanceContract": [
         {
           "id": "49-8-ElRehabCity",
-          "Status": null,
-          "RenewalRequestedAt": null,
           "AutoRenew": false,
           "CreatedAt": {
             "_seconds": 1770475244,
             "_nanoseconds": 123307000
           },
-          "RenewalStatus": null,
           "RenewalDecision": {
             "Status": null,
             "DecidedAt": null,
             "DecidedByEmail": null
           },
-          "WarrantyMonths": 12,
-          "RenewalCount": 0,
           "Price": null,
-          "RenewalRequested": false,
           "RenewalAvail": false,
           "CanRequestMaintenance": false,
-          "RenewalRequestedByEmail": null,
-          "RenewalRequestedByName": null,
           "Notes": null,
-          "RenewalOffer": {
-            "WarrantyMonths": null,
-            "Notes": null,
-            "ValidUntil": null,
-            "Price": 3600
-          },
           "StartDate": {
             "_seconds": 1769896800,
             "_nanoseconds": 0
@@ -3962,9 +4188,38 @@
             "_seconds": 1785531600,
             "_nanoseconds": 0
           },
+          "Status": "Pending",
+          "Payment": {
+            "Status": "Unpaid",
+            "AmountDue": null,
+            "PaidAt": null,
+            "Method": null,
+            "Notes": null,
+            "RequestedAt": null
+          },
+          "AutoRenewedBy": null,
+          "MaintenanceMonths": 12,
           "UpdatedAt": {
-            "_seconds": 1770573620,
-            "_nanoseconds": 849225000
+            "_seconds": 1770726683,
+            "_nanoseconds": 140698000
+          },
+          "Renewal": {
+            "Requested": false,
+            "Status": null,
+            "RequestedByEmail": null,
+            "RequestedName": null,
+            "RequestedMonths": null,
+            "Count": 0,
+            "RequestedAt": null
+          },
+          "AutoRenewedOn": null,
+          "RenewalOffer": {
+            "Notes": null,
+            "ValidUntil": null,
+            "Price": 3600,
+            "StartDate": null,
+            "MaintenanceMonths": null,
+            "EndDate": null
           }
         }
       ]
@@ -4058,40 +4313,55 @@
       "MaintenanceContract": [
         {
           "id": "6-5-ElRehabCity",
-          "Status": null,
-          "RenewalRequestedAt": null,
           "AutoRenew": false,
           "CreatedAt": {
             "_seconds": 1770475246,
             "_nanoseconds": 719877000
-          },
-          "RenewalStatus": null,
-          "RenewalOffer": {
-            "Price": null,
-            "WarrantyMonths": null,
-            "Notes": null,
-            "ValidUntil": null
           },
           "RenewalDecision": {
             "Status": null,
             "DecidedAt": null,
             "DecidedByEmail": null
           },
-          "WarrantyMonths": 6,
           "EndDate": null,
-          "UpdatedAt": {
-            "_seconds": 1770475246,
-            "_nanoseconds": 719877000
-          },
-          "RenewalCount": 0,
           "StartDate": null,
           "Price": null,
-          "RenewalRequested": false,
           "RenewalAvail": false,
           "CanRequestMaintenance": false,
-          "RenewalRequestedByEmail": null,
-          "RenewalRequestedByName": null,
-          "Notes": null
+          "Notes": null,
+          "Status": "Pending",
+          "Payment": {
+            "Status": "Unpaid",
+            "AmountDue": null,
+            "PaidAt": null,
+            "Method": null,
+            "Notes": null,
+            "RequestedAt": null
+          },
+          "AutoRenewedBy": null,
+          "MaintenanceMonths": 6,
+          "UpdatedAt": {
+            "_seconds": 1770726683,
+            "_nanoseconds": 674327000
+          },
+          "Renewal": {
+            "Requested": false,
+            "Status": null,
+            "RequestedByEmail": null,
+            "RequestedName": null,
+            "RequestedMonths": null,
+            "Count": 0,
+            "RequestedAt": null
+          },
+          "AutoRenewedOn": null,
+          "RenewalOffer": {
+            "Price": null,
+            "Notes": null,
+            "ValidUntil": null,
+            "StartDate": null,
+            "MaintenanceMonths": null,
+            "EndDate": null
+          }
         }
       ],
       "Members": [
@@ -4586,32 +4856,18 @@
       "MaintenanceContract": [
         {
           "id": "7-19-ElRehabCity",
-          "Status": null,
-          "RenewalRequestedAt": null,
           "AutoRenew": false,
           "CreatedAt": {
             "_seconds": 1770477442,
             "_nanoseconds": 60145000
-          },
-          "RenewalStatus": null,
-          "RenewalOffer": {
-            "Price": null,
-            "WarrantyMonths": null,
-            "Notes": null,
-            "ValidUntil": null
           },
           "RenewalDecision": {
             "Status": null,
             "DecidedAt": null,
             "DecidedByEmail": null
           },
-          "WarrantyMonths": 6,
-          "RenewalCount": null,
-          "RenewalRequested": false,
           "RenewalAvail": false,
           "CanRequestMaintenance": false,
-          "RenewalRequestedByEmail": null,
-          "RenewalRequestedByName": null,
           "Notes": null,
           "StartDate": {
             "_seconds": 1767218400,
@@ -4622,9 +4878,38 @@
             "_nanoseconds": 0
           },
           "Price": 5000,
+          "Status": "Pending",
+          "Payment": {
+            "Status": "Unpaid",
+            "AmountDue": null,
+            "PaidAt": null,
+            "Method": null,
+            "Notes": null,
+            "RequestedAt": null
+          },
+          "AutoRenewedBy": null,
+          "MaintenanceMonths": 6,
           "UpdatedAt": {
-            "_seconds": 1770579955,
-            "_nanoseconds": 766047000
+            "_seconds": 1770726684,
+            "_nanoseconds": 195201000
+          },
+          "Renewal": {
+            "Requested": false,
+            "Status": null,
+            "RequestedByEmail": null,
+            "RequestedName": null,
+            "RequestedMonths": null,
+            "Count": 0,
+            "RequestedAt": null
+          },
+          "AutoRenewedOn": null,
+          "RenewalOffer": {
+            "Price": null,
+            "Notes": null,
+            "ValidUntil": null,
+            "StartDate": null,
+            "MaintenanceMonths": null,
+            "EndDate": null
           }
         }
       ]
@@ -4804,40 +5089,55 @@
       "MaintenanceContract": [
         {
           "id": "73-14-ElRehabCity",
-          "Status": null,
-          "RenewalRequestedAt": null,
           "AutoRenew": false,
           "CreatedAt": {
             "_seconds": 1770475248,
             "_nanoseconds": 923000000
-          },
-          "RenewalStatus": null,
-          "RenewalOffer": {
-            "Price": null,
-            "WarrantyMonths": null,
-            "Notes": null,
-            "ValidUntil": null
           },
           "RenewalDecision": {
             "Status": null,
             "DecidedAt": null,
             "DecidedByEmail": null
           },
-          "WarrantyMonths": 12,
           "EndDate": null,
-          "UpdatedAt": {
-            "_seconds": 1770475248,
-            "_nanoseconds": 923000000
-          },
-          "RenewalCount": 0,
           "StartDate": null,
           "Price": null,
-          "RenewalRequested": false,
           "RenewalAvail": false,
           "CanRequestMaintenance": false,
-          "RenewalRequestedByEmail": null,
-          "RenewalRequestedByName": null,
-          "Notes": null
+          "Notes": null,
+          "Status": "Pending",
+          "Payment": {
+            "Status": "Unpaid",
+            "AmountDue": null,
+            "PaidAt": null,
+            "Method": null,
+            "Notes": null,
+            "RequestedAt": null
+          },
+          "AutoRenewedBy": null,
+          "MaintenanceMonths": 12,
+          "UpdatedAt": {
+            "_seconds": 1770726684,
+            "_nanoseconds": 683750000
+          },
+          "Renewal": {
+            "Requested": false,
+            "Status": null,
+            "RequestedByEmail": null,
+            "RequestedName": null,
+            "RequestedMonths": null,
+            "Count": 0,
+            "RequestedAt": null
+          },
+          "AutoRenewedOn": null,
+          "RenewalOffer": {
+            "Price": null,
+            "Notes": null,
+            "ValidUntil": null,
+            "StartDate": null,
+            "MaintenanceMonths": null,
+            "EndDate": null
+          }
         }
       ],
       "Members": [
@@ -5232,40 +5532,55 @@
       "MaintenanceContract": [
         {
           "id": "73-8-ElRehabCity",
-          "Status": null,
-          "RenewalRequestedAt": null,
           "AutoRenew": false,
           "CreatedAt": {
             "_seconds": 1770475251,
             "_nanoseconds": 534892000
-          },
-          "RenewalStatus": null,
-          "RenewalOffer": {
-            "Price": null,
-            "WarrantyMonths": null,
-            "Notes": null,
-            "ValidUntil": null
           },
           "RenewalDecision": {
             "Status": null,
             "DecidedAt": null,
             "DecidedByEmail": null
           },
-          "WarrantyMonths": 12,
           "EndDate": null,
-          "UpdatedAt": {
-            "_seconds": 1770475251,
-            "_nanoseconds": 534892000
-          },
-          "RenewalCount": 0,
           "StartDate": null,
           "Price": null,
-          "RenewalRequested": false,
           "RenewalAvail": false,
           "CanRequestMaintenance": false,
-          "RenewalRequestedByEmail": null,
-          "RenewalRequestedByName": null,
-          "Notes": null
+          "Notes": null,
+          "Status": "Pending",
+          "Payment": {
+            "Status": "Unpaid",
+            "AmountDue": null,
+            "PaidAt": null,
+            "Method": null,
+            "Notes": null,
+            "RequestedAt": null
+          },
+          "AutoRenewedBy": null,
+          "MaintenanceMonths": 12,
+          "UpdatedAt": {
+            "_seconds": 1770726685,
+            "_nanoseconds": 267376000
+          },
+          "Renewal": {
+            "Requested": false,
+            "Status": null,
+            "RequestedByEmail": null,
+            "RequestedName": null,
+            "RequestedMonths": null,
+            "Count": 0,
+            "RequestedAt": null
+          },
+          "AutoRenewedOn": null,
+          "RenewalOffer": {
+            "Price": null,
+            "Notes": null,
+            "ValidUntil": null,
+            "StartDate": null,
+            "MaintenanceMonths": null,
+            "EndDate": null
+          }
         }
       ]
     }
@@ -5343,37 +5658,55 @@
       "MaintenanceContract": [
         {
           "id": "8-6-ElRehabCity",
-          "Status": null,
-          "RenewalRequestedAt": null,
           "AutoRenew": false,
           "CreatedAt": {
             "_seconds": 1770477566,
             "_nanoseconds": 814858000
-          },
-          "RenewalStatus": null,
-          "RenewalOffer": {
-            "Price": null,
-            "WarrantyMonths": null,
-            "Notes": null,
-            "ValidUntil": null
           },
           "RenewalDecision": {
             "Status": null,
             "DecidedAt": null,
             "DecidedByEmail": null
           },
-          "WarrantyMonths": 1,
           "EndDate": null,
-          "UpdatedAt": null,
-          "RenewalCount": null,
           "StartDate": null,
           "Price": null,
-          "RenewalRequested": false,
           "RenewalAvail": false,
           "CanRequestMaintenance": false,
-          "RenewalRequestedByEmail": null,
-          "RenewalRequestedByName": null,
-          "Notes": null
+          "Notes": null,
+          "Status": "Pending",
+          "Payment": {
+            "Status": "Unpaid",
+            "AmountDue": null,
+            "PaidAt": null,
+            "Method": null,
+            "Notes": null,
+            "RequestedAt": null
+          },
+          "AutoRenewedBy": null,
+          "MaintenanceMonths": 1,
+          "UpdatedAt": {
+            "_seconds": 1770726685,
+            "_nanoseconds": 784879000
+          },
+          "Renewal": {
+            "Requested": false,
+            "Status": null,
+            "RequestedByEmail": null,
+            "RequestedName": null,
+            "RequestedMonths": null,
+            "Count": 0,
+            "RequestedAt": null
+          },
+          "AutoRenewedOn": null,
+          "RenewalOffer": {
+            "Price": null,
+            "Notes": null,
+            "ValidUntil": null,
+            "StartDate": null,
+            "MaintenanceMonths": null,
+            "EndDate": null
+          }
         }
       ]
     }
@@ -5456,40 +5789,55 @@
       "MaintenanceContract": [
         {
           "id": "87-10-ElRehabCity",
-          "Status": null,
-          "RenewalRequestedAt": null,
           "AutoRenew": false,
           "CreatedAt": {
             "_seconds": 1770475253,
             "_nanoseconds": 307175000
-          },
-          "RenewalStatus": null,
-          "RenewalOffer": {
-            "Price": null,
-            "WarrantyMonths": null,
-            "Notes": null,
-            "ValidUntil": null
           },
           "RenewalDecision": {
             "Status": null,
             "DecidedAt": null,
             "DecidedByEmail": null
           },
-          "WarrantyMonths": 12,
           "EndDate": null,
-          "UpdatedAt": {
-            "_seconds": 1770475253,
-            "_nanoseconds": 307175000
-          },
-          "RenewalCount": 0,
           "StartDate": null,
           "Price": null,
-          "RenewalRequested": false,
           "RenewalAvail": false,
           "CanRequestMaintenance": false,
-          "RenewalRequestedByEmail": null,
-          "RenewalRequestedByName": null,
-          "Notes": null
+          "Notes": null,
+          "Status": "Pending",
+          "Payment": {
+            "Status": "Unpaid",
+            "AmountDue": null,
+            "PaidAt": null,
+            "Method": null,
+            "Notes": null,
+            "RequestedAt": null
+          },
+          "AutoRenewedBy": null,
+          "MaintenanceMonths": 12,
+          "UpdatedAt": {
+            "_seconds": 1770726686,
+            "_nanoseconds": 341532000
+          },
+          "Renewal": {
+            "Requested": false,
+            "Status": null,
+            "RequestedByEmail": null,
+            "RequestedName": null,
+            "RequestedMonths": null,
+            "Count": 0,
+            "RequestedAt": null
+          },
+          "AutoRenewedOn": null,
+          "RenewalOffer": {
+            "Price": null,
+            "Notes": null,
+            "ValidUntil": null,
+            "StartDate": null,
+            "MaintenanceMonths": null,
+            "EndDate": null
+          }
         }
       ]
     }
