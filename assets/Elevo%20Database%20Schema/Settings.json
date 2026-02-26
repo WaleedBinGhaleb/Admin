@@ -24,6 +24,11 @@
         "en": "Sorry, we're doing maintenance right now."
       }
     },
+    "Pages": {
+      "Catalogue": true,
+      "Quotation": true,
+      "MyElevators": true
+    },
     "Catalogue": {
       "CabinsPreviewLimit": 4,
       "TestimonialsPreviewLimit": 6,
