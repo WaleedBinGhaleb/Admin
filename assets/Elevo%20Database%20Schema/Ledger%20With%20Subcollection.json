@@ -1,0 +1,103 @@
+{
+  "2026": {
+    "id": "2026",
+    "Year": 2026,
+    "Currency": "EGP",
+    "TotalIncome": 460000,
+    "TotalExpense": 122000,
+    "TotalProfit": 338000,
+    "TotalPaidIn": 305000,
+    "TotalPaidOut": 91000,
+    "OutstandingReceivables": 155000,
+    "OutstandingPayables": 31000,
+    "TransactionsCount": 1,
+    "PropertiesCount": 1,
+    "MonthsCount": 1,
+    "SeededPreview": true,
+    "__collections__": {
+      "Summary": [
+        {
+          "id": "Totals",
+          "Currency": "EGP",
+          "RecognitionBasis": "CashAndAccrualHybrid",
+          "IncomeCategories": [
+            "Sale",
+            "Reservation",
+            "MaintenanceContract",
+            "Upgrade",
+            "OtherIncome"
+          ],
+          "ExpenseCategories": [
+            "MaintenanceCost",
+            "Utilities",
+            "Permit",
+            "Contractor",
+            "Marketing",
+            "Refund",
+            "OtherExpense"
+          ],
+          "AdjustmentCategories": [
+            "OpeningBalance",
+            "Correction",
+            "WriteOff"
+          ],
+          "GrossProfit": 338000,
+          "NetProfit": 329000,
+          "CreatedBy": "seed@elevo.me"
+        }
+      ],
+      "Months": [
+        {
+          "id": "2026-01",
+          "MonthKey": "2026-01",
+          "MonthLabel": "Jan 2026",
+          "Index": 0,
+          "Currency": "EGP",
+          "TotalIncome": 120000,
+          "TotalExpense": 35000,
+          "TotalProfit": 85000,
+          "TotalPaidIn": 90000,
+          "TotalPaidOut": 25000,
+          "OutstandingReceivables": 30000,
+          "OutstandingPayables": 10000,
+          "TransactionsCount": 1
+        }
+      ],
+      "Properties": [
+        {
+          "id": "49-2-ElRehabCity",
+          "PropertyId": "49-2-ElRehabCity",
+          "PropertyName": "49-2-ElRehabCity",
+          "Currency": "EGP",
+          "TotalIncome": 280000,
+          "TotalExpense": 72000,
+          "TotalProfit": 208000,
+          "TotalPaidIn": 190000,
+          "TotalPaidOut": 57000,
+          "OutstandingReceivables": 90000,
+          "OutstandingPayables": 15000
+        }
+      ],
+      "Transactions": [
+        {
+          "id": "TX-2026-0001",
+          "TransactionId": "TX-2026-0001",
+          "PropertyId": "49-2-ElRehabCity",
+          "PropertyName": "49-2-ElRehabCity",
+          "Type": "Income",
+          "Category": "Reservation",
+          "Direction": "In",
+          "Amount": 120000,
+          "Currency": "EGP",
+          "MonthKey": "2026-01",
+          "Status": "Partial",
+          "Source": "Manual",
+          "ReferenceCollection": "Properties",
+          "ReferenceId": "49-2-ElRehabCity",
+          "Notes": "Dummy reservation inflow for ledger preview.",
+          "CounterpartyName": "Ahmed Samir"
+        }
+      ]
+    }
+  }
+}
